@@ -1,0 +1,5554 @@
+_id,level,max_velocity,name,type
+31096786,1,80,Quốc Lộ 1,trunk
+32575737,4,,,unclassified
+32575794,4,,Chu Văn An,unclassified
+32575820,4,,Nguyễn Văn Bá,tertiary
+32575823,4,,Nguyễn Thị Nhỏ,tertiary
+32575862,3,,Đường số 5,secondary
+32575864,3,40,Châu Văn Liêm,secondary
+32575869,4,,Lê Văn Thịnh,unclassified
+32575874,4,,,unclassified
+32575935,3,,Tân Phú,primary_link
+32575943,4,,Lê Minh Xuân,tertiary
+32575944,4,,Phú Hòa,unclassified
+32575966,3,,Lê Văn Lương,secondary
+32575968,4,,An Phú Tây - Hưng Long,tertiary
+32575985,4,,Nguyễn Khoái,tertiary
+32576041,4,,Vành Đai Trong,tertiary
+32576047,4,,Đường 10Tây,unclassified
+32576095,4,,,tertiary
+32576096,4,,Xuân Thới Sơn - Xuân Thới Dông,unclassified
+32576099,4,,Nguyễn Văn Lượng,unclassified
+32576112,4,,Trương Quốc Dung,unclassified
+32576127,4,,Tản Đà,tertiary
+32576156,4,,Đường số 7,tertiary
+32576164,3,,Bình Long,secondary
+32576175,4,,Tam Đa,unclassified
+32576202,4,,Nguyễn Hồng Đào,tertiary
+32576278,4,,Bến Bùi Huy Bích,tertiary
+32576371,4,,Cầu Calmette,tertiary
+32576373,4,,Bến Nguyễn Duy,tertiary
+32576377,4,,Trường Sa,tertiary
+32576381,3,,Nguyễn Bình,secondary
+32576511,4,,Vĩnh Lộc,tertiary
+32576575,4,,Thới Hòa,tertiary
+32576600,4,,Tạ Quang Bửu,tertiary
+32576602,3,,Trần Não,secondary
+32576657,4,,Xóm Củi,tertiary
+32576658,4,,Nguyễn Đức Cảnh,tertiary
+32576690,4,,Phạm Đăng Giảng,tertiary
+32576691,3,,Phan Văn Hớn,secondary
+32576747,4,,Hậu Giang,tertiary
+32576820,4,,Đại Lộ III,tertiary
+32576835,4,,Lương Thế Vinh,unclassified
+32576857,4,40,Phạm Văn Chí,tertiary
+32576867,4,,Lương Minh Nguyệt,unclassified
+32576893,4,,Dương Thị Mười,tertiary
+32576951,4,,Lê Sát,unclassified
+32577094,4,,,tertiary
+32577095,4,,,tertiary
+32577116,4,,Thích Quảng Đức,tertiary
+32577138,4,,Tân Thuận,unclassified
+32577146,4,,Nguyễn Cửu Phú,tertiary
+32577205,4,,Tam Bình,tertiary
+32577210,3,,Vĩnh Lộc,secondary
+32577211,4,,Đào Tấn,tertiary
+32577232,4,,Đặng Văn Bi,tertiary
+32577244,4,,Tôn Thất Hiệp,tertiary
+32577256,4,,Trần Văn Giàu,tertiary
+32577314,4,,Nguyễn Thức Đường,tertiary
+32577339,4,,Trần Khắc Chân,unclassified
+32577369,4,,Hương Lộ 2,tertiary
+32577370,4,,Tây Lân,tertiary
+32577382,4,,Văn Thân,tertiary
+32577385,4,,Phước Thiện,tertiary
+32577436,4,,Hoàng Diệu 2,tertiary
+32577442,4,,,unclassified
+32577449,4,,Hẻm 373 Lý Thường Kiệt,unclassified
+32577460,4,,Lê Khôi,tertiary
+32577480,4,,Đường số 36,tertiary
+32577481,4,,Linh Đông,tertiary
+32577483,4,,,tertiary
+32577484,4,,Gò Dưa,tertiary
+32577500,4,,Dương Quang Đông,tertiary
+32577508,4,,Kha Vạn Cân,tertiary
+32577546,4,,Tân Xuân 1,unclassified
+32577561,4,,Phổ Quang,tertiary
+32577628,4,,Huỳnh Mẫn Đạt,tertiary
+32577683,2,,Nguyễn Tri Phương,primary
+32577684,3,,Nguyễn Tri Phương,secondary
+32577686,4,,Thành Thái,tertiary
+32577688,2,,Xô Viết Nghệ Tĩnh,primary
+32577705,4,,Trịnh Đình Trọng,tertiary
+32577758,4,,An Phú Đông,unclassified
+32577789,3,,,primary_link
+32577799,4,,Tây Hòa,tertiary
+32577828,2,,Nguyễn Kiệm,primary
+32577919,2,,Nguyễn Oanh,primary
+32578100,4,,Ni Sư Huỳnh Liên,tertiary
+32578144,4,,Lê Lợi,unclassified
+32578157,4,,Văn Cao,tertiary
+32578166,4,,Hoàng Quốc Việt,unclassified
+32578171,4,,Đường số 9,unclassified
+32578226,4,,Vĩnh Khánh,unclassified
+32578248,4,,,unclassified
+32578335,3,,Lê Văn Thọ,secondary
+32578371,4,,,unclassified
+32578420,4,,Đường số 11,tertiary
+32578431,4,,Nguyễn Văn Bá,tertiary
+32578529,4,,Tân Chánh Hiệp 39,tertiary
+32578530,4,,THOI TAM THÔN 5,unclassified
+32578532,4,,,unclassified
+32578543,3,,Bình Long,secondary
+32578609,4,,Bông Sao,tertiary
+32578654,2,,Dương Bá Trạc,primary
+32578658,4,,Kinh Trung ương,tertiary
+32578663,4,,,tertiary
+32578669,4,,Tăng Nhơn Phú,tertiary
+32578711,4,,An Dương Vương,tertiary
+32578733,4,,Hồng Lạc,tertiary
+32578736,2,,Phan Đình Giót,primary
+32578747,4,,Nghĩa Phát,tertiary
+32578749,4,,Lãnh Binh Thăng,tertiary
+32578758,4,,Phú Thọ,tertiary
+32578763,4,,Phú Châu,tertiary
+32578837,3,,Nguyễn Văn Bứa,secondary
+32578991,4,,Thiên Phước,tertiary
+32579008,4,,Nam Hoà,tertiary
+32579063,4,,Nguyễn Kim,tertiary
+32579064,4,40,Chợ Lớn,tertiary
+32579086,4,,Tân Thới Hiệp 21,unclassified
+32579104,4,,Đường số 12,unclassified
+32579159,4,,Hưng Nhơn,tertiary
+32579214,3,,Tạ Quang Bửu,secondary
+32579252,4,,,unclassified
+32579339,4,,Hẻm 92B Tôn Thất Thuyết,unclassified
+32579340,4,,Vĩnh Hội,tertiary
+32579401,4,,Dồng Tâm,unclassified
+32579403,4,,Đường số 31,unclassified
+32579418,4,,Trương Công Định,tertiary
+32579421,4,,Chu Văn An,unclassified
+32579484,4,,,tertiary
+32579504,4,,Bình Lợi,tertiary
+32579641,4,,Bình Thới,tertiary
+32579669,3,,Trường Sơn,secondary
+32579678,4,,,unclassified
+32579680,4,,Tây Thạnh,tertiary
+32579734,4,,Tam Châu,unclassified
+32579758,4,,Trần Phú,tertiary
+32579838,4,,Đường số 10,tertiary
+32579840,4,,Đường số 17,tertiary
+32579894,4,,Hồ Văn Huê,tertiary
+32579930,4,,Đường Số 10,unclassified
+32579940,4,,Trường Sa,tertiary
+32579995,4,,Tân Quý,unclassified
+32580074,4,40,Đường số 4,tertiary
+32580086,4,,Lê Đại Hành,tertiary
+32580098,4,,Đào Trinh Nhất,tertiary
+32580099,4,,Ung Văn Khiêm,tertiary
+32580111,4,,Bà Lài,tertiary
+32580124,2,,Pham Ngũ Lão,primary
+32580173,4,,Phan Thúc Duyện,unclassified
+32580181,4,,Tô Hiệu,tertiary
+32580182,4,,Phan Văn Năm,tertiary
+32580208,3,50,Lê Văn Khương,secondary
+32580232,4,,,unclassified
+32580242,2,,Xuân Hồng,primary
+32580243,4,,Đặng Văn Ngữ,tertiary
+32580244,4,,Đặng Văn Ngữ,tertiary
+32580249,4,,Hoàng Thiều Hoa,unclassified
+32580262,4,,Tên Lửa,tertiary
+32580347,4,,,unclassified
+32580352,4,,Bình Đông,tertiary
+32580364,4,,Nguyễn Xí,tertiary
+32580377,4,,Lê Quang Kim,tertiary
+32580378,4,,Trần Tuấn Khải,tertiary
+32580387,3,,Trần Quốc Hoàn,secondary
+32580441,4,,Nguyễn Văn Luông,tertiary
+32580466,4,,Phó Cơ Điều,tertiary
+32580469,4,,Trần Văn Kiểu,unclassified
+32580481,4,,Bình Tiên,tertiary
+32580608,4,,Lữ Gia,tertiary
+32580696,4,,Thế Lữ,tertiary
+32580725,4,,Vạn Kiếp,tertiary
+32580762,4,,Bùi Tư Toàn,unclassified
+32580788,4,,Dồng Tâm,unclassified
+32580857,4,,Nguyễn Đình Chiểu,tertiary
+32580936,4,,Nguyễn Thị Sóc,tertiary
+32580959,4,,Cầu Xéo,unclassified
+32581025,4,,Dồng Tâm,unclassified
+32581052,4,,Trần Nhân Tôn,tertiary
+32581070,2,,Nguyễn Tất Thành,primary
+32581105,4,,Dương Bạch Mai,tertiary
+32581129,2,,Lý Thái Tổ,primary
+32581146,4,,Đường số 13,tertiary
+32581160,2,,Đinh Tiên Hoàng,primary
+32581161,4,,Hoàng Sĩ Khải,unclassified
+32581289,3,,Hoàng Hữu Nam,secondary
+32581292,4,,Ngô Chí Quốc,tertiary
+32581293,3,,Tỉnh lộ 43,secondary
+32581295,4,,,tertiary
+32581306,4,,Tống Văn Trân,unclassified
+32581307,4,,Hẻm 341 Khuông Việt,unclassified
+32581342,4,,Lê Hoàng Phái,unclassified
+32581395,3,,Nguyễn Ảnh Thủ,secondary
+32581500,4,,Trương Vĩnh Ký,tertiary
+32581519,4,,Xuân Thuỷ,tertiary
+32581523,4,,Tôn Đản,tertiary
+32581649,3,,Trịnh Thị Miếng,secondary
+32581658,4,,Dồng Tâm,unclassified
+32581673,4,,Bà Triệu,tertiary
+32581676,4,,Đỗ Thừa Luông,unclassified
+32581689,4,,,unclassified
+32581692,4,,Lâm Viên,unclassified
+32581693,4,,Đường Số 1,unclassified
+32581696,4,,Cầu số 3,tertiary
+32581730,4,40,Quốc Hương,tertiary
+32581819,4,,Vành Đai Trong,tertiary
+32581845,4,,Trần Thị Bốc,tertiary
+32581862,4,,,unclassified
+32581878,4,,Đa Phước,unclassified
+32581881,4,,Hẻm 1129 Lạc Long Quân,tertiary
+32581914,4,,Đường số 14,tertiary
+32581932,4,,Phan Văn Trị,tertiary
+32581944,1,50,Cầu Sài Gòn 1,trunk
+32581965,4,,Phạm Văn Chiêu,tertiary
+32581966,4,,Đường Liên ấp,tertiary
+32582036,4,,Đường 59,unclassified
+32582107,4,,Cao Lỗ,tertiary
+32582109,4,,Hoà Hưng,tertiary
+32582143,4,,Dương Văn Dương,unclassified
+32582173,4,,Thoại Ngọc Hầu,tertiary
+32582180,4,,Nguyễn Ngọc Lộc,tertiary
+32582226,4,,Nguyễn Văn Khối,tertiary
+32582234,4,,Dồng Tâm,unclassified
+32582260,4,,Diệp Minh Châu,unclassified
+32582349,4,,,unclassified
+32582366,4,,Phạm Văn Sáng,tertiary
+32582442,4,,Trường Sa,tertiary
+32582473,4,,Bùi Thanh Khiết,tertiary
+32582476,4,,Nguyễn Cửu Phú,tertiary
+32582486,3,,Đại lộ Độc Lập,secondary
+32582491,3,,Trưng Nữ Vương,secondary
+32582522,4,,Lý Chiêu Hoàng,tertiary
+32582523,4,,Lý Chiêu Hoàng,tertiary
+32582530,4,,Đường Liên Ấp 6-2,tertiary
+32582531,4,,Lại Hùng Cường,tertiary
+32582556,4,,Phạm Văn Xảo,tertiary
+32582573,4,,Trịnh Quang Nghị,tertiary
+32582575,4,,Cầu Kinh,tertiary
+32582602,4,,Vườn Lài,tertiary
+32582769,3,,Đại lộ Độc Lập,secondary
+32582843,2,,Cầu Bình Triệu 1,primary
+32582845,2,,Quốc lộ 13,primary
+32582890,4,,Bưng Ông Thoàn,tertiary
+32582891,4,,Bưng Ông Thoàn,tertiary
+32582894,3,,Lê Văn Lương,secondary
+32582897,3,,Huỳnh Tấn Phát,secondary
+32582967,4,,,unclassified
+32582981,4,,Vườn Lài,tertiary
+32583053,3,,,trunk_link
+32583077,4,,Tân Quý,unclassified
+32583099,4,,Lê Văn Qưới,tertiary
+32583177,4,,Lưu Hữu Phước,tertiary
+32583251,4,,Lê Bình,unclassified
+32583282,4,,Võ Văn Ngân,tertiary
+32583376,3,,Nguyễn Văn Tăng,secondary
+32583384,4,,Nguyễn Thái Bình,tertiary
+32583460,3,,Quốc lộ 1,trunk_link
+32583465,4,,Đông Hưng Thuận 2,unclassified
+32583503,4,,Nguyễn Sĩ Cố,unclassified
+32583518,4,,Bến Bình Đông,tertiary
+32583519,4,,Bến Bình Đông,tertiary
+32583521,4,,Bến Bình Đông,tertiary
+32583648,4,,Trường Lưu,unclassified
+32583670,4,30,Phan Huy Ôn,tertiary
+32583688,4,,Hoàng Diệu,unclassified
+32583754,3,,Lê Văn Thọ,secondary
+32583784,4,,Bình Phú,tertiary
+32583837,4,,Phạm Văn Bạch,tertiary
+32583864,4,,Bà Diểm 5,unclassified
+32583934,4,,Hẻm 137 Phan Anh,unclassified
+32583943,4,,Lê Đình Cẩn,tertiary
+32583944,4,,Tên Lửa,tertiary
+32583960,4,,Phạm Thế Hiển,tertiary
+32583980,4,,Đường số 11,tertiary
+32584000,4,,Phạm Hữu Lầu,tertiary
+32584015,4,,Bến Cát,unclassified
+32584102,3,,Cầu vượt Ngã tư Gò Dưa,secondary
+32584146,4,,Minh Phụng,tertiary
+32584156,4,,Nguyễn Văn Lạc,tertiary
+32584204,4,,Bến Ngô Sĩ Liên,unclassified
+32584205,4,,Dương Văn Cam,tertiary
+32584275,4,,Âu Dương Lân,tertiary
+32584299,4,,Phan Văn Trị,tertiary
+32584318,4,,Đất Thánh,tertiary
+32584342,4,,Số 7,tertiary
+32584369,4,,,unclassified
+32584390,2,,Quang Trung,primary
+32584394,4,,Đồng Đen,tertiary
+32584426,4,20,Hẻm 86 Ông Ích Khiêm,unclassified
+32584465,4,,Nguyễn Nhược Thị,unclassified
+32584592,4,,Nguyễn Thị Đặng,tertiary
+32584622,3,,Vĩnh Lộc,secondary
+32584776,4,,,tertiary
+32584861,4,,Linh Trung,unclassified
+32584862,3,,Nguyễn Hữu Trí,secondary
+32584870,4,,Nguyễn Hậu,unclassified
+32584875,4,,Số 12,unclassified
+32584958,4,,Đường Số 15,unclassified
+32585130,4,,Nguyễn Sơn,tertiary
+32585144,4,,Liên khu 5-11-12,unclassified
+32585196,4,,Bình Đường,tertiary
+32585220,4,,Tân Mỹ,unclassified
+32585230,4,,Gò Xoài,tertiary
+32585240,3,,Lê Văn Thọ,secondary
+32585248,4,,Nguyễn Duy Trinh,tertiary
+32585249,4,,Nguyễn Duy Trinh,tertiary
+32585293,2,,Lê Lợi,primary
+32585311,4,,Trương Đình Hội,unclassified
+32585389,1,60,Mai Chí Thọ,trunk
+32585394,4,,Sư Vạn Hạnh,tertiary
+32585398,2,,Phan Thúc Duyện,primary
+32585475,4,,Đường B1,unclassified
+32585491,4,,Tân Xuân 2,unclassified
+32585536,4,,Hoàng Hoa Thám,unclassified
+32585538,4,,Đoàn Văn Bơ ( ngõ chợ ),unclassified
+32585579,4,,Phạm Phú Thứ,tertiary
+32585601,4,,Nguyễn Trọng Tuyển,tertiary
+32585607,4,,,unclassified
+32585640,4,,Đông Hưng Thuận 6,unclassified
+32585684,2,60,Nguyễn Văn Linh,primary
+32585690,4,,Ngô Gia Tự,tertiary
+32585697,4,,Trần Văn Quang,unclassified
+32585770,4,,Đường số 8,tertiary
+32585800,4,,Đường số 17,unclassified
+32585808,3,,Trịnh Thị Miếng,secondary
+32585809,4,,Gò Dầu,tertiary
+32585837,2,,Phan Đăng Lưu,primary
+32585854,2,,Nguyễn Văn Cừ,primary
+32585956,4,,Nguyễn Thị Đặng,tertiary
+32585961,4,,Liên khu 2-5,unclassified
+32586067,4,,Lê Văn Việt,tertiary
+32586068,4,,Phú Thọ Hoà,unclassified
+32586122,4,,Bàu Cát,tertiary
+32586132,4,,Cây Bàng,tertiary
+32586143,4,,Lý Phục Man,unclassified
+32586165,4,,Ni Sư Huỳnh Liên,tertiary
+32586257,4,,Hiệp Bình,tertiary
+32586271,4,,Đường N,unclassified
+32586308,4,,Đường Số 10,unclassified
+32586319,4,,,tertiary
+32586322,4,,Bông Văn Dìa,unclassified
+32586364,4,20,Đường số 7A,tertiary
+32586387,4,,Đường số 1,unclassified
+32586408,4,,Dương Đình Hội,tertiary
+32586472,4,,Lâm Văn Bền,tertiary
+32586475,4,,Độc Lập,unclassified
+32586524,3,,Nguyễn Thị Tú,secondary
+32586601,4,,Hiền Vương,tertiary
+32586648,4,,Lưu Hữu Phước,unclassified
+32586673,4,,Nguyễn Biểu,tertiary
+32586683,4,,Đường số 2,unclassified
+32586691,4,,Đường số 1,tertiary
+32586700,4,,Đường số 6,tertiary
+32586725,4,,Thăng Long,tertiary
+32586732,4,,,unclassified
+32586752,4,,Đường số 3,unclassified
+32586874,2,,Lý Thường Kiệt,primary
+32586896,4,,Phan Thúc Duyện,tertiary
+32586911,4,,,unclassified
+32586943,4,,Lê Hồng Phong,tertiary
+32586993,4,,Nguyễn Tuyển,unclassified
+32587037,4,,Xuân Thới Sơn 21,tertiary
+32587043,4,,Lê Thị Hà,unclassified
+32587044,3,,Lê Văn Thọ,secondary
+32587119,4,,Ngô Tất Tố,tertiary
+32587225,3,,Quách Điêu,secondary
+32587244,4,,Cầu B1,tertiary
+32587294,3,,Lê Văn Thọ,secondary
+32587315,4,,Nguyễn Xuân Khoát,unclassified
+32587317,4,,Nguyễn Xuân Khoát,unclassified
+32587319,4,,Dồng Tâm,unclassified
+32587327,4,,Nguyễn Văn Hưởng,tertiary
+32587351,4,,Tân Xuân 2,unclassified
+32587364,4,,Ngô Nhân Tịnh,tertiary
+32587365,4,,Bùi Hữu Nghĩa,tertiary
+32587375,2,,Phan Đăng Lưu,primary
+32587377,4,,Cầu Chữ Y,tertiary
+32587529,2,,Nguyễn Thái Sơn,primary
+32587530,3,,Bạch Đằng,secondary
+32587532,4,,Phạm Thế Hiển,tertiary
+32587533,4,,Phạm Thế Hiển,tertiary
+32587534,4,,Phạm Thế Hiển,tertiary
+32587570,4,,Phan Xích Long,tertiary
+32587582,2,,Quang Trung,primary
+32587696,3,,Tỉnh lộ 43,trunk_link
+32587703,4,,Hồ Học Lãm,tertiary
+32587722,4,,Đào Duy Anh,tertiary
+32587726,4,,Trần Hưng Đạo,unclassified
+32587735,4,,Hẻm 85 Bùi Minh Trực,unclassified
+32587814,4,,Tô Hiến Thành,tertiary
+32587839,4,,Xô Viết Nghệ Tĩnh,tertiary
+32587982,4,,Võ Thị Hồi,tertiary
+32588042,4,,Xóm Chiếu,unclassified
+32588092,4,,Bình Trị Đông,tertiary
+32588119,4,,Trần Quý,tertiary
+32588258,4,,Nguyễn Văn Đậu,tertiary
+32588270,4,,Nguyễn Thị Nhỏ,tertiary
+32588299,4,,Trần Văn Mười,tertiary
+32588428,4,,Nguyễn Thần Hiến,unclassified
+32588432,2,,Hùng Vương,primary
+32588479,4,,Tân Sơn Nhì,unclassified
+32588499,3,,Hoàng Hữu Nam,secondary
+32588532,2,,Cách Mạng Tháng Tám,primary
+32588592,4,,Tam Hà,unclassified
+32588630,4,,Bùi Hữu Nghĩa,tertiary
+32588655,4,,,unclassified
+32588663,3,,Tỉnh lộ 43,secondary
+32588734,4,,Hoài Thanh,unclassified
+32588801,4,,Huỳnh Thiện Lộc,unclassified
+32588816,4,,Lương Định Của,tertiary
+32588888,4,,Trần Văn Trà,tertiary
+32588936,4,,Đường số 24,unclassified
+32588970,4,,Nguyễn Tri Phương,tertiary
+32588977,4,,Bành Văn Trân,tertiary
+32588979,4,,,tertiary
+32589047,4,,Tô Ngọc Vân,tertiary
+32589049,4,,Bình Trưng,unclassified
+32589059,4,,Phan Văn Đối,tertiary
+32589084,4,,Trung Mỹ - Tân Xuân,tertiary
+32589088,4,,Trung Mỹ - Tân Xuân,tertiary
+32589137,4,,Đường Nguyễn Gia Trí,tertiary
+32589157,4,,Phạm Văn Sáng,tertiary
+32641760,4,,Thống Nhất,tertiary
+32643289,3,30,Tỉnh Lộ 10,secondary
+32643894,1,60,Cầu vượt An Sương,trunk
+32899356,1,60,Cầu Suối Cái,trunk
+32899358,1,60,Xa Lộ Hà Nội,trunk
+32899360,4,,Lê Văn Chí,tertiary
+32899363,4,,Cầu Bến Nọc,tertiary
+32899364,4,,Lê Văn Việt,tertiary
+32899369,3,,Nguyễn Xiển,secondary
+32899370,3,,Nguyễn Xiển,secondary
+32899371,3,,Nguyễn Xiển,secondary
+32899372,3,,Nguyễn Xiển,secondary
+32899378,4,,Long Phước,unclassified
+32899381,4,,Cầu Trao Trảo,tertiary
+32899382,4,,Nguyễn Xiển,tertiary
+32899384,4,,Cầu Gò Công,tertiary
+32899385,4,,Nguyễn Xiển,tertiary
+32899386,4,,Cầu Rạch Gầm,tertiary
+32899387,4,,Nguyễn Xiển,tertiary
+32899392,4,,Cầu Võ Khế,tertiary
+32899393,4,,Nguyễn Duy Trinh,tertiary
+32899396,4,,Bưng Ông Thoàn,tertiary
+32899399,4,,Cầu Ông Nhiêu,tertiary
+32899401,3,,Cầu Xây dựng,secondary
+32899403,3,,Nguyễn Duy Trinh,secondary
+32899404,1,80,Cầu Rạch Chiếc 2,trunk
+32899405,1,60,Xa lộ Hà Nội,trunk
+32899406,4,,,tertiary
+32902701,3,50,Lê Văn Khương,secondary
+32902793,4,,Cầu Bình Phước 1,tertiary
+32902795,1,,Cầu Vĩnh Bình,trunk
+32902797,1,60,Cầu vượt Bình Phước,trunk
+32910319,2,60,Quốc lộ 22,primary
+32910324,3,,Nguyễn Văn Bứa,secondary
+32928891,4,,,unclassified
+32928897,2,,Đồng Văn Cống,primary
+32928899,1,60,Quốc lộ 1,trunk
+32928901,3,,Cầu Gò Dưa,secondary
+32928902,4,,Kha Vạn Cân,tertiary
+32928904,2,,Cầu Ông Dầu,primary
+32928906,1,60,Cầu Cả Bốn 1,trunk
+32928907,1,60,Quốc lộ 1,trunk
+32928908,1,60,Cầu Ga 1A,trunk
+32928910,1,60,Cầu Rạch Sâu 1,trunk
+32928912,1,60,Cầu Bến Cát 1,trunk
+32928914,1,60,Cầu An Phú Đông 1,trunk
+32928916,2,,Cầu vượt Ngã Tư Ga,primary
+32928924,3,,Cầu cụt,secondary
+32928925,4,,Lê Đức Thọ,tertiary
+32928926,3,,Cầu Trường Đai,secondary
+32928927,3,,Lê Đức Thọ,secondary
+32928928,4,,Cầu Bến Phân,tertiary
+32928929,4,,Tô Ngọc Vân,tertiary
+32928930,2,,Cầu An Lộc,primary
+32928932,2,,Hà Huy Giáp,primary
+32928933,4,,Cầu Đỏ,tertiary
+32928934,4,,Nguyễn Xí,tertiary
+32928935,4,,Cầu Băng Ky,tertiary
+32928936,4,,Nơ Trang Long,tertiary
+32928938,4,,Chu Văn An,unclassified
+32928942,4,,Bình Quới,tertiary
+32928944,2,,Quốc lộ 13,primary
+33094769,2,,Quốc lộ 50,primary
+33101955,4,,Phạm Hữu Lầu,tertiary
+33101956,4,,Phạm Hữu Lầu,tertiary
+33101960,3,,Cầu Long Kiểng,secondary
+33101962,3,,Lê Văn Lương,secondary
+33101963,3,,Lê Văn Lương,secondary
+33101965,1,80,Cầu Ông Bé,trunk
+33101968,1,80,Nguyễn Văn Linh,trunk
+33101970,1,80,Cầu Ông Lớn,trunk
+33101973,1,80,Nguyễn Văn Linh,trunk
+33101974,2,80,Cầu Thầy Tiêu,primary
+33102005,3,,Cầu Phú Xuân,secondary
+33103420,4,,An Dương Vương,tertiary
+33103426,4,,An Dương Vương,tertiary
+33103437,4,,Cầu Bà Tiếng,tertiary
+33103440,4,,Hồ Học Lãm,tertiary
+33103443,4,,Đặng Nguyên Cẩn,tertiary
+33103446,4,,Đặng Nguyên Cẩn,tertiary
+33103453,3,,Cầu Tân Hoá,secondary
+33103457,3,20,Lũy Bán Bích,secondary
+33103463,4,,Trịnh Đình Thảo,unclassified
+33103490,2,,Đinh Bộ Lĩnh,primary
+33103592,2,,Cầu Sơn,primary
+33103594,2,,Xô Viết Nghệ Tĩnh,primary
+33103621,4,,Cầu Đen 2,tertiary
+33103624,1,50,Cầu Văn Thánh,trunk
+33237033,4,,Cầu Kênh B,tertiary
+33237035,4,,Trần Đại Nghĩa,tertiary
+33238041,3,,Cầu Tân Tạo,secondary
+33238043,3,,Tỉnh Lộ 10,secondary
+33238044,3,,Cầu Bà Hom,secondary
+33238046,3,,Tỉnh Lộ 10,secondary
+33238056,2,,Hà Huy Giáp,primary
+33241516,2,,Cầu Bông,primary
+33241520,2,,Đinh Tiên Hoàng,primary
+33285422,3,,Cầu Bà Lát,secondary
+33285425,3,,Trần Văn Giàu,secondary
+33285442,3,,Bình Long,secondary
+33285446,3,,Lê Trọng Tấn,secondary
+33285449,3,,Lê Trọng Tấn,secondary
+33285451,3,,Lê Trọng Tấn,secondary
+33285453,3,,Lê Trọng Tấn,secondary
+33285456,1,80,Cầu Bình Phú Tây,trunk
+33285459,1,80,Quốc lộ 1,trunk
+33285465,1,80,Quốc lộ 1,trunk
+33285471,2,,Cầu vượt Quang Trung,primary
+33285472,2,80,Cầu Tham Lương,primary
+33285480,4,,Phan Huy ích,tertiary
+33285483,4,,Phan Huy ích,tertiary
+33285488,2,,Cầu Chợ Cầu 1,primary
+33285489,2,,Quang Trung,primary
+33285493,2,,Cầu Giao Khẩu,primary
+33285507,2,,Cầu Đúc Nhỏ,primary
+33287635,3,,Cầu Giồng Ông Tố 1,secondary
+33287653,3,,Nguyễn Thị Định,secondary
+33287660,4,,Cầu Ông Tranh,tertiary
+33287661,4,,Lương Định Của,tertiary
+33287667,3,,Trần Não,secondary
+33287674,4,,Cầu Đen 1,tertiary
+33569361,4,,Cầu Phước Long,tertiary
+33569362,4,,Phạm Hữu Lầu,tertiary
+33571995,3,,Cầu Rạch Đĩa,secondary
+33571996,3,,Lê Văn Lương,secondary
+33571997,3,,Cầu Đa Khoa,secondary
+33572000,4,,Cầu Rạch Bàng 1,tertiary
+33572001,4,,Lê Văn Lương,tertiary
+33572006,1,80,Cầu Xóm Củi,trunk
+33572007,1,80,Nguyễn Văn Linh,trunk
+33572008,4,,Cầu Bà Tàng,tertiary
+33572010,4,,Cầu Vĩnh Mậu,tertiary
+33572011,4,,Bến Mễ Cốc,tertiary
+33572013,4,,Cầu Phạm Văn Chí,tertiary
+33572189,1,80,Cầu Mã Voi,trunk
+33572190,1,80,Nguyễn Văn Linh,trunk
+33572191,1,80,Cầu Bà Lớn,trunk
+33572192,1,80,Nguyễn Văn Linh,trunk
+33572195,3,,Cầu Hậu Giang,secondary
+33573740,2,,Cầu Nguyễn Tri Phương,primary
+33573741,2,,Cầu Chánh Hưng,primary
+33573743,4,,Cầu Hiệp Ân 2,tertiary
+33573744,4,,Nguyễn Duy,tertiary
+33573745,4,,Cầu Hiệp Ân 1,tertiary
+33573746,4,50,Phạm Thế Hiển,tertiary
+33573747,4,,Cầu Mật,tertiary
+33573748,4,,Phạm Thế Hiển,tertiary
+33573749,4,,Cầu Chữ Y,tertiary
+33573872,4,,Bến Vân Đồn,tertiary
+33573873,2,,Cầu Nguyễn Văn Cừ,primary
+33574358,4,,Lương Định Của,tertiary
+33574359,4,,Lương Định Của,tertiary
+33574429,2,,Cầu Văn Thánh 2,primary
+33574430,2,,Cầu vượt Nguyễn Hữu Cảnh,primary
+33574732,4,,Ngô Tất Tố,tertiary
+34684246,2,,Nguyễn Hữu Thọ,primary
+34684249,3,,Cầu Rạch Đĩa,secondary
+34718250,2,80,Nguyễn Văn Linh,primary
+34718834,1,80,Cầu Ông Lớn,trunk
+34718836,1,80,Nguyễn Văn Linh,trunk
+34718837,1,80,Cầu Ông Bé,trunk
+34718839,1,80,Nguyễn Văn Linh,trunk
+34718841,1,80,Cầu Xóm Củi,trunk
+34719374,1,80,Cầu Bà Lớn,trunk
+34719375,1,80,Nguyễn Văn Linh,trunk
+34719376,1,80,Cầu Mã Voi,trunk
+34719377,1,80,Nguyễn Văn Linh,trunk
+34729945,1,80,Nguyễn Văn Linh,trunk
+34729948,4,,Thế Lữ,tertiary
+34729949,4,,Thế Lữ,tertiary
+34729950,4,,Thế Lữ,tertiary
+34729951,4,,Thế Lữ,tertiary
+35085677,4,,Hoàng Sa,tertiary
+35085736,3,,Lê Văn Sỹ,secondary
+35085959,1,50,Điện Biên Phủ,trunk
+35086157,4,,Huỳnh Văn Bánh,tertiary
+35112843,4,,Trần Quốc Toản,tertiary
+35112845,4,,Trần Ðình Xu,tertiary
+35112965,4,,Cầu Số 9,tertiary_link
+35112981,4,,Ðồng Khởi,tertiary
+35113010,4,,Phó Ðức Chính,tertiary
+35113033,2,,Nguyễn Văn Trỗi,primary
+35113051,4,,Calmette,tertiary
+35113070,2,,Nguyễn Thị Minh Khai,primary
+35113072,4,,Vườn Chuối,unclassified
+35113076,4,,Nguyễn Phúc Nguyên,tertiary
+35113101,3,,Lý Tự Trọng,secondary
+35113104,2,,Cầu Thị Nghè,primary
+35113152,4,,Cầu Trần Quang Diệu,tertiary
+35113174,4,,Phạm Ngọc Thạch,tertiary
+35113306,4,,Công Trường Quốc Tế,tertiary
+35113440,4,,Cầu Số 6,tertiary_link
+35113484,4,,Cống Quỳnh,tertiary
+35113487,4,,Rạch Bùng Binh,tertiary
+35113490,4,,Cống Quỳnh,tertiary
+35113566,4,,Trần Quang Diệu,tertiary
+35113568,4,,Trần Quang Diệu,tertiary
+35113574,4,,Phạm Hồng Thái,tertiary
+35113579,4,,Nguyễn Hữu Cầu,tertiary
+35113678,4,,Trần Văn Ðang,tertiary
+35113689,4,,Hồ Hảo Hớn,tertiary
+35113724,4,,Nguyễn Cảnh Chân,tertiary
+35113743,4,,Pasteur,tertiary
+35113871,2,,Cầu Công Lý,primary
+35113963,4,,Nguyễn Bỉnh Khiêm,tertiary
+35114023,4,,Trương Định,tertiary
+35114038,2,,Nguyễn Hữu Cảnh,primary
+35114062,4,,Nguyễn Văn Giai,tertiary
+35114071,4,,Cầu số 8,tertiary_link
+35114072,4,,Lê Lợi,tertiary
+35114084,3,,Cầu Lê Văn Sỹ,secondary
+35114207,4,,Võ Văn Tần,tertiary
+35114262,4,,Công Xã Paris,tertiary
+35114264,1,,Cầu Ðiện Biên Phủ,trunk
+35114508,2,,Nguyễn Thái Học,primary
+35114549,4,,Lý Chính Thắng,tertiary
+35114553,4,,Trần Quốc Thảo,tertiary
+35114583,4,,Võ Văn Tần,tertiary
+35114599,4,,Bàn Cờ,unclassified
+35114603,4,40,Nguyễn Thượng Hiền,tertiary
+35114652,4,,Cầu Số 7,tertiary_link
+35114754,4,,Trần Quang Khải,tertiary
+35114758,3,,Đinh Tiên Hoàng,secondary
+35114765,4,,Nguyễn Hữu Tự,tertiary
+35114821,2,,Công Trường Mê Linh,primary
+35114824,2,,Nam Kỳ Khởi Nghĩa,primary
+35114854,2,,Hai Bà Trưng,primary
+35114928,2,,Ngã Bảy Lý Thái Tổ,primary
+35114965,4,,Hoàng Sa,tertiary
+35114975,3,,Hoàng Sa,primary_link
+35114978,4,,Hoàng Sa,tertiary
+35114987,4,,Cầu Số 5,tertiary_link
+35115001,3,,Lê Văn Sỹ,secondary
+35115031,2,,Công Trường Dân Chủ,primary
+35115032,2,,Cách Mạng Tháng Tám,primary
+35115081,4,,Trần Huy Liệu,tertiary
+35115101,3,,Nguyễn Trãi,secondary
+35115167,2,,Võ Thị Sáu,primary
+35470084,4,,Đường dẫn Cầu Thủ Thiêm,tertiary
+35470085,4,,Cầu Thủ Thiêm,tertiary
+39369981,2,,Kinh Dương Vương,primary
+39370310,4,,Bùi Hữu Nghĩa,tertiary
+39513270,4,,Cao Lỗ,tertiary
+39513492,2,,Lý Thái Tổ,primary
+39513623,3,,Lê Đại Hành,secondary
+39622852,4,,Nguyễn Ðình Chiểu,tertiary
+43242731,3,,Hương lộ 8,secondary
+43242768,3,,,secondary
+43243018,3,40,Nguyễn Hữu Trí,secondary
+43243019,3,,,secondary
+43243988,1,80,Cầu An Lập,trunk
+43244027,3,,Trần Đại Nghĩa,trunk_link
+53499975,1,50,Điện Biên Phủ,trunk
+53500630,1,,Quốc lộ 1,trunk
+53500638,1,60,Quốc lộ 1,trunk
+53500780,1,,Quốc lộ 1,trunk
+53500785,1,,Cầu vượt Thủ Đức,trunk
+53500786,1,,Quốc lộ 1,trunk
+53500788,1,,Cầu vượt Thủ Đức,trunk
+53501872,1,80,Cầu Rạch Chiếc 1,trunk
+53550139,1,60,Xa Lộ Hà Nội,trunk
+53551190,1,50,Cầu Văn Thánh,trunk
+53551383,2,,Xô Viết Nghệ Tĩnh,primary
+53553099,1,,Điện Biên Phủ,trunk
+53553128,1,,Điện Biên Phủ,trunk
+53553363,1,,Vòng xoay Điện Biên Phủ,trunk
+53747865,1,60,Võ Văn Kiệt,trunk
+53748221,3,40,Võ Văn Kiệt,trunk_link
+55451561,2,,Đinh Bộ Lĩnh,primary
+55451568,2,,Cầu Bình Triệu 2,primary
+55451579,2,,Quốc lộ 13,primary
+55880131,2,,Vòng xoay Ngã Sáu Gò Vấp,primary
+55880235,2,50,Điện Biên Phủ,primary
+55880457,4,,Hoàng Minh Giám,tertiary
+55880458,2,,Nguyễn Kiệm,primary
+55884211,4,,Nguyễn Ðình Chiểu,tertiary
+56300309,4,,Cầu Nguyễn Văn Cừ,tertiary
+56300311,3,40,Võ Văn Kiệt,trunk_link
+56300314,3,,Nguyễn Hữu Thọ,secondary
+56300316,3,,Đường số 9A,secondary
+56723911,4,,Hồ Văn Huê,tertiary
+56725526,4,,Trần Hữu Trang,unclassified
+57039413,4,,Trần Khắc Chân,tertiary
+57039414,4,,Trần Huy Liệu,tertiary
+57533826,1,60,Mai Chí Thọ,trunk
+57533829,3,,,trunk_link
+57533832,4,,Lương Định Của,tertiary
+57533833,2,,Đồng Văn Cống,primary
+57533838,3,,,trunk_link
+57533839,1,60,Cầu Phú Mỹ,trunk
+57533850,1,60,Cầu Phú Mỹ,trunk
+57533859,4,,Nguyễn Văn Quỳ,tertiary
+57533861,2,,Cầu Giồng Ông Tố 2,primary
+57533881,3,,,trunk_link
+57533897,1,60,,trunk
+57533899,1,60,Võ Chí Công,trunk
+57533903,4,,Lương Định Của,tertiary
+57533912,1,80,Mai Chí Thọ,trunk
+57559361,3,,Nguyễn Hữu Thọ,secondary
+57559363,3,,Nguyễn Hữu Thọ,secondary
+57559366,3,,Cầu Rạch Đĩa,secondary
+57559370,3,,Nguyễn Hữu Thọ,secondary
+57559372,3,,Nguyễn Hữu Thọ,secondary
+57559375,3,,Nguyễn Hữu Thọ,secondary
+57559379,3,,Nguyễn Hữu Thọ,secondary
+57559382,2,,Nguyễn Hữu Thọ,primary
+57559384,3,,Nguyễn Hữu Thọ,secondary
+57559389,3,,Nguyễn Hữu Thọ,secondary
+57559392,3,,Nguyễn Hữu Thọ,secondary
+57559398,3,,Nguyễn Hữu Thọ,secondary
+57559399,3,,Nguyễn Hữu Thọ,secondary
+57559402,3,,Nguyễn Hữu Thọ,secondary
+57559404,3,,Nguyễn Hữu Thọ,secondary
+57559406,3,,Nguyễn Hữu Thọ,secondary
+57727322,4,,Cầu Lý Phục Man,unclassified
+57727326,4,,Lý Phục Man,unclassified
+57727332,2,,Cầu Khánh Hội,primary
+57765826,1,60,Quốc lộ 1,trunk
+57765827,1,60,Quốc lộ 1,trunk
+57765828,1,60,Quốc lộ 1,trunk
+57765829,1,60,Quốc lộ 1,trunk
+57765927,1,80,Nguyễn Văn Linh,trunk
+57765928,1,80,Cầu Rạch Ngang,trunk
+57765930,2,80,Cầu Thầy Tiêu,primary
+57765931,1,80,Cầu Rạch Ngang,trunk
+57765933,1,80,Nguyễn Văn Linh,trunk
+57765971,4,,Khánh Hội,tertiary
+58368125,4,,Ông Ích Khiêm,tertiary
+58368126,4,,Lạc Long Quân,tertiary
+58368127,3,60,Quốc Lộ 1,secondary
+58368129,1,80,Cầu Bình Thuận,trunk
+58368130,4,,Vòng xoay Lạc Long Quân,tertiary
+58368132,3,,,primary_link
+58369423,2,,Vòng xoay Phú Lâm,primary
+58369424,2,,Cầu Ông Buông 1,primary
+58416052,4,,Xô Viết Nghệ Tĩnh,tertiary
+58651356,4,,Cầu Số 1,tertiary
+58651357,4,,Cầu Số 3,tertiary
+58651360,4,,Cầu Số 4,tertiary_link
+58711785,4,,Trương Quốc Dung,unclassified
+58800527,2,,Nguyễn Thị Minh Khai,primary
+58800528,2,,Nguyễn Hữu Cảnh,primary
+58800529,2,,Nguyễn Hữu Cảnh,primary
+58800530,2,,Cầu Thị Nghè 2,primary
+58800531,2,,Cầu Thị Nghè 2,primary
+58800534,2,,Cầu Văn Thánh 2,primary
+58800536,2,,Điện Biên Phủ,primary
+58871347,4,,Nguyễn Ðình Chiểu,tertiary
+58871356,4,,Cầu Bùi Hữu Nghĩa,tertiary
+59265370,2,,Nguyễn Hữu Thọ,primary
+59265372,4,,Ngã Sáu Nguyễn Tri Phương,tertiary
+59265376,4,,Đường số 15,tertiary
+59265378,4,,Hưng Phú,tertiary
+59265379,4,,Nguyễn Chí Thanh,tertiary
+59265381,3,,,primary_link
+59265382,3,,,primary_link
+59265385,4,,Cầu Nguyễn Văn Cừ,tertiary
+59339636,3,,Đường số 15,primary_link
+59339639,4,,Hẻm 68 Trần Quang Khải,tertiary
+59449898,2,80,Nguyễn Văn Linh,primary
+59449899,2,80,Cầu Tư Dinh,primary
+59449900,4,,Bến Vân Đồn,tertiary
+59449901,4,,Cầu Kênh Ngang 1,tertiary
+59449904,2,80,Cầu Tư Dinh,primary
+59449905,2,80,Nguyễn Văn Linh,primary
+59449906,2,,Dương Bá Trạc,primary
+59449908,4,,Cao Lỗ,tertiary
+59449918,4,,Đoàn Văn Bơ,tertiary
+59449922,4,,,unclassified
+59449923,4,,,unclassified
+59449924,4,,Lương Định Của,tertiary
+59449930,4,,Lương Định Của,tertiary
+59452502,2,,Hà Huy Giáp,primary
+59452503,3,,Hà Huy Giáp,trunk_link
+59452505,3,,Hà Huy Giáp,trunk_link
+59452506,3,,Hà Huy Giáp,trunk_link
+59452508,2,,Hà Huy Giáp,primary
+59452509,2,,Cầu Ba Thôn,primary
+59452511,2,,Quốc lộ 13,primary
+59528581,4,,Đường số 38,tertiary
+59986378,2,50,,primary
+59986387,2,,Điện Biên Phủ,primary
+59986418,1,50,Xa Lộ Hà Nội,trunk
+60080210,3,,Đường số 9A,secondary
+61376905,4,,Trần Nam Trung,tertiary
+61397048,3,,Lý Thái Tổ,secondary
+70560493,4,,Trần Văn Trà,tertiary
+72726015,4,,Hẻm 131 Tô Hiến Thành,tertiary
+75506179,4,,Hẻm 92 Vũ Huy Tấn,tertiary
+75649303,1,,Đại lộ Bình Dương,trunk
+75649305,4,,Ngô Chí Quốc,tertiary
+77083532,4,,Cầu Hoàng Hoa Thám,tertiary
+79193401,3,,Cao Xuân Dục,secondary
+80144490,3,40,Quách Thị Trang,secondary
+80167954,4,,,unclassified
+80265878,3,,Nguyễn Thị Định,secondary
+83010306,2,,Hoàng Văn Thụ,primary
+84721821,4,,Đường số 48,unclassified
+86250788,2,,Võ Văn Kiệt,primary
+112116325,4,,Cầu Cái Trung,tertiary
+112188814,4,,Song Hành,tertiary
+112450576,3,,Cầu Thủ Thiêm,secondary_link
+118192480,4,,Hà Huy Tập,unclassified
+118696126,4,,Tân Thành,tertiary
+120276781,4,,Phan Văn Trị,tertiary
+120276786,4,,Phan Xích Long,tertiary
+120276787,4,,Nam Kỳ Khởi Nghĩa,tertiary
+120276789,4,,Nguyễn Thái Sơn,tertiary
+125631431,4,,Huỳnh Văn Bánh,tertiary
+126759125,2,,Hoàng Văn Thụ,primary
+126759144,3,,Hoàng Văn Thụ,primary_link
+127299416,4,,Hoàng Hoa Thám,tertiary
+127306575,2,,Hoàng Văn Thụ,primary
+127460199,3,,Đường tỉnh 743,secondary
+128777437,4,,Song Hành 22,tertiary
+135556620,4,,Bến Phú Lâm,tertiary
+135556624,4,,Hoàng Lê Kha,tertiary
+135556625,2,,Hồng Bàng,primary
+135556630,4,,Lê Tuấn Mậu,tertiary
+136502345,2,,Ngã tư Hàng Xanh,primary
+136505780,2,,Nguyễn Hữu Cảnh,primary
+136505781,3,,Trần Não,secondary_link
+136505783,2,,Điện Biên Phủ,primary
+136505789,4,,,tertiary
+136505793,3,,Điện Biên Phủ,primary_link
+136505802,2,,Điện Biên Phủ,primary
+136507675,4,,Ngô Tất Tố,tertiary
+136570185,4,,An Dương Vương,tertiary
+136570186,2,,Kinh Dương Vương,primary
+136700439,3,40,,trunk_link
+136700440,3,,,trunk_link
+136700448,2,40,,primary
+136700450,1,40,Quốc lộ 1,trunk
+136700451,1,,Quốc lộ 1,trunk
+136700452,1,40,Vòng xoay Nguyễn Văn Linh - Quốc lộ 1A,trunk
+136700455,3,,Quốc lộ 1,trunk_link
+136700456,3,40,Quốc lộ 1,trunk_link
+136700457,1,40,Quốc lộ 1,trunk
+136700458,3,,Quốc lộ 1,trunk_link
+136700459,3,,Quốc lộ 1,trunk_link
+136728958,1,,Hồ Chí Minh - Trung Lương,trunk
+136737354,3,40,Võ Văn Kiệt,trunk_link
+136737356,3,,Đại Lộ Võ Văn Kiệt (Đông Tây),trunk_link
+136737357,3,40,Võ Văn Kiệt,trunk_link
+136737358,1,40,Cầu vượt Võ Văn Kiệt,trunk
+136737359,3,40,Võ Văn Kiệt,trunk_link
+136737363,3,,Quốc lộ 1,trunk_link
+136737364,1,60,Quốc lộ 1,trunk
+136737365,3,,Quốc lộ 1,trunk_link
+136804170,3,40,Cầu vượt Võ Văn Kiệt,trunk_link
+137138274,4,,Đường số 2,tertiary
+137187355,1,60,Cầu Suối Cái,trunk
+137187356,1,60,Xa Lộ Hà Nội,trunk
+137187359,3,,Cống đập Rạch Chiếc,secondary
+137187360,3,,Đỗ Xuân Hợp,secondary
+138331684,4,,Hiệp Bình,tertiary
+138331686,4,,Hiệp Bình,tertiary
+138346603,2,,Bạch Đằng,primary
+138346606,2,,Bạch Đằng,primary
+138346608,4,,Bến Bình Đông,tertiary
+138346617,4,,Phú Định,tertiary
+138346618,4,,Phú Định,tertiary
+138346621,1,60,Võ Văn Kiệt,trunk
+138346622,1,60,Cầu Nước Lên,trunk
+138346626,1,60,Cầu Rạch Cây,trunk
+138346627,1,60,Cầu Lò Gốm,trunk
+138346628,1,60,Cầu Nước Lên,trunk
+138346629,1,60,Cầu Rạch Cây,trunk
+138346632,1,60,Cầu Lò Gốm,trunk
+138346633,1,60,Võ Văn Kiệt (Đông Tây),trunk
+138346634,1,60,Võ Văn Kiệt (Đông Tây),trunk
+138346637,1,,Võ Văn Kiệt,trunk
+138346649,1,60,Võ Văn Kiệt,trunk
+138564809,4,,Cầu Ông Cậy,unclassified
+138564811,1,80,Cầu Cá Trê Lớn,trunk
+138564817,1,80,Mai Chí Thọ,trunk
+138564822,1,80,Mai Chí Thọ,trunk
+138564823,1,80,Cầu Cá Trê Nhỏ,trunk
+138564825,1,80,Cầu Cá Trê Lớn,trunk
+138564828,1,80,Cầu Cá Trê Nhỏ,trunk
+138564833,1,80,Mai Chí Thọ,trunk
+138564838,1,80,Mai Chí Thọ,trunk
+138564841,4,,Nhà Thờ,unclassified
+138697680,4,,Bùi Bằng Đoàn,tertiary
+138877181,2,,Trường Chinh,primary
+139214774,2,,Xuân Diệu,primary
+140674261,3,,Nguyễn Bình,secondary
+140674262,3,,Nguyễn Bình,secondary
+145604505,4,,,unclassified
+145610583,4,,Đường An Phú Tây - Hưng Long,tertiary
+145610584,4,,Đường An Phú Tây - Hưng Long,tertiary
+145610589,4,,,unclassified
+145669299,4,,Phan Văn Đáng,tertiary
+146028723,3,,Hùng Vương,secondary
+146029462,4,,,unclassified
+146320737,4,,Phan Văn Đáng,tertiary
+146320738,4,,Phan Văn Đáng,tertiary
+146320739,4,,Phan Văn Đáng,tertiary
+146320741,4,,Phan Văn Đáng,tertiary
+146320788,3,,Lý Thái Tổ,secondary
+146343306,4,,Nữ Dân Công,tertiary
+146345046,3,,Dương Công Khi,secondary
+146345048,4,,Số 7,tertiary
+146511208,4,,Ngô Quyền,tertiary
+146511209,4,,,unclassified
+146511211,3,,Đường Số 9A,secondary
+146511212,4,,Đào Trí,unclassified
+146653070,4,,Phước Thiện,tertiary
+147072272,1,60,Cầu vượt Sóng Thần 1,trunk
+147177660,4,,Ba Diểm 12,unclassified
+147293392,4,,,unclassified
+147293393,4,,,unclassified
+147293395,4,,,unclassified
+147293399,4,,,unclassified
+147293401,4,,,unclassified
+147293404,4,,,unclassified
+147293406,4,,,unclassified
+147394874,4,,Đất Thánh,tertiary
+147463054,4,,Đường số 8,tertiary
+147654223,2,,Tô Ký,primary
+147991453,2,,Quốc lộ 1,primary
+147991454,2,,Quốc lộ 1,primary
+148109670,4,,,unclassified
+148109870,4,,Trần Văn Ơn,unclassified
+148351286,4,,,tertiary
+149904633,3,,Hoàng Quốc Việt,secondary
+149904634,3,,Hoàng Quốc Việt,secondary
+149904636,4,,Nguyễn Lương Bằng,tertiary
+149904637,3,,Nguyễn Lương Bằng,secondary
+149904681,3,,Cầu Cả Cấm,secondary
+149904738,1,,Nguyễn Văn Linh,trunk
+150880202,4,,Liên phường,tertiary
+150880203,4,,Liên phường,tertiary
+151581275,1,60,Quốc lộ 1,trunk
+151581276,1,60,Cầu Bình Điền,trunk
+151581287,4,,Cầu Thanh Lộc,tertiary
+151581288,4,,Tô Ngọc Vân,tertiary
+152067205,1,,Vòng xoay An Lạc,trunk
+152067208,1,60,Quốc lộ 1,trunk
+152992067,4,,Nguyễn Thiện Thuật,tertiary
+152992969,3,,,secondary
+154823448,4,,Huỳnh Văn Bánh,tertiary
+154823449,3,40,Lê Văn Sỹ,secondary
+154823450,4,,Trần Huy Liệu,tertiary
+155103525,4,,Nguyễn Văn Đậu,tertiary
+155103526,4,,Nguyễn Văn Đậu,tertiary
+158347216,4,,Nguyễn Thái Bình,tertiary
+158749883,4,,Phạm Thái Bường,unclassified
+158800838,4,,Tôn Dật Tiên,unclassified
+158801036,4,,Nguyễn Cao,unclassified
+163970342,2,,Cầu Kênh Xáng,primary
+163970343,3,,Đường số 9A,secondary
+163973103,2,,Cầu Rạch Bàng 2,primary
+163973104,3,,Đường số 4,secondary
+163973106,3,40,Cầu Him Lam,secondary
+163975924,4,,Đường N - Bắc,unclassified
+164037192,3,,Tạ Quang Bửu,secondary
+164038329,4,,Cầu Mới,tertiary
+164038330,4,,Tạ Quang Bửu,tertiary
+164041145,4,,Cao Lỗ,tertiary
+164921836,4,,Nguyễn Chí Thanh,tertiary
+165149818,4,,Cầu Calmette,tertiary
+165150212,4,,Cầu Calmette,tertiary
+165150831,2,,Cầu Ông Lãnh,primary
+165152362,4,,Cầu Dừa,tertiary
+165216642,3,,Nguyễn Văn Cừ,trunk_link
+165216643,3,,Nguyễn Văn Cừ,trunk_link
+165216644,4,,Cầu Nguyễn Văn Cừ,tertiary
+165216646,4,,Nguyễn Thị Tần,tertiary
+165216647,2,,,primary
+165220923,3,,Cầu Phú Mỹ,trunk_link
+165220925,3,80,Nguyễn Văn Linh,primary_link
+165222488,2,,Huỳnh Tấn Phát,primary
+165222489,4,,,tertiary
+165222490,3,,Cầu Phú Mỹ,trunk_link
+165222492,3,,Tôn Thất Thuyết,primary_link
+165222494,4,,,tertiary
+165222495,2,,Cầu Tân Thuận 1,primary
+165227986,3,60,Đường hầm sông Sài Gòn,trunk_link
+165228001,2,,Võ Văn Kiệt,primary
+165228008,3,,Võ Văn Kiệt,trunk_link
+165277514,4,,Phú Thuận,unclassified
+165277517,4,,Cầu Phú Thuận,unclassified
+165281135,2,,Cầu Kênh Tẻ,primary
+165283698,2,,,primary
+165283704,4,,Vĩnh Hội,unclassified
+165367626,3,,Nguyễn Tất Thành,primary_link
+165367628,2,,Võ Văn Kiệt,primary
+165367629,2,,Cầu Khánh Hội,primary
+165367630,2,,Nguyễn Tất Thành,primary
+165367632,3,,Nguyễn Tất Thành,primary_link
+165367634,3,,Võ Văn Kiệt,primary_link
+165367638,1,60,Hầm sông Sài Gòn,trunk
+165378165,4,,Lê Lợi,tertiary
+165400091,4,,Cầu vượt Thủ Thiêm,tertiary
+165567721,4,,,tertiary
+165567751,4,,,tertiary
+165792410,4,,Cầu Nguyễn Kiệu,tertiary
+165919725,4,,Cầu vượt Thủ Thiêm,tertiary
+165919731,4,,Đường dẫn Cầu Thủ Thiêm,tertiary
+165919737,3,,Nguyễn Hữu Cảnh,secondary
+165919740,4,,Cầu Thủ Thiêm,tertiary
+166002612,3,,Cầu Thủ Thiêm,secondary_link
+166002618,2,,Nguyễn Hữu Cảnh,primary
+166002619,2,,Hầm Nguyễn Hữu Cảnh,primary
+166002621,2,60,Nguyễn Hữu Cảnh,primary
+166002623,2,,Nguyễn Hữu Cảnh,primary
+166002624,2,,Hầm Nguyễn Hữu Cảnh,primary
+166092209,4,,Cầu vượt Thủ Thiêm,tertiary
+166552366,4,,Đường số 51,unclassified
+168038880,4,,Cầu Nguyễn Kiệu,tertiary
+168038881,3,,Lê Văn Lượng,secondary
+168038882,3,,Lê Văn Lương,secondary
+168038883,3,,Nguyễn Thị Thập,secondary
+168038884,4,,Trần Xuân Soạn,tertiary
+168038885,2,,Vòng xoay Dương Bá Trạc,primary
+168493577,2,,Quốc lộ 13,primary
+168493582,4,,Vòng xoay Ngã tư Bình Phước,tertiary
+169081571,4,,Trần Văn Giàu,tertiary
+169081600,4,,Tên Lửa,tertiary
+169081609,4,,Đường số 17A,unclassified
+169081610,4,,,unclassified
+169081615,4,,Vành Đai Trong,tertiary
+169081629,4,,Đường số 32,unclassified
+169081631,4,,Đường số 29,tertiary
+172281346,3,,Nguyễn Thị Định,secondary
+172281347,2,,Cầu Mỹ Thủy 1,primary
+172281348,2,70,Cầu Mỹ Thủy 2,primary
+172281350,3,,Cầu Kỳ Hà 2,trunk_link
+172281351,1,60,Võ Chí Công,trunk
+172281354,3,60,Cầu Kỳ Hà 2,trunk_link
+172404015,1,60,Võ Chí Công,trunk
+172404056,1,60,Võ Chí Công,trunk
+172404059,1,60,Cầu Kỳ Hà 4,trunk
+172404061,1,60,Võ Chí Công,trunk
+172404070,1,60,Cầu Kỳ Hà 1,trunk
+172404071,1,60,Cầu Kỳ Hà 1,trunk
+172404082,1,60,Cầu Kỳ Hà 4,trunk
+172404178,1,60,Võ Chí Công,trunk
+172431866,2,,Nguyễn Thị Định,primary
+172431867,2,,Cầu Giồng Ông Tố 2,primary
+172431868,2,70,Đồng Văn Cống,primary
+172431870,2,70,Đồng Văn Cống,primary
+172431872,2,,Đồng Văn Cống,primary
+172434836,4,,,unclassified
+172513399,3,30,,trunk_link
+172513404,3,,,trunk_link
+172513405,3,40,,trunk_link
+172513408,3,50,,trunk_link
+172513428,4,,Đường số 16,unclassified
+172513439,3,60,,trunk_link
+172513446,3,30,,trunk_link
+172513448,3,50,,trunk_link
+172547843,4,,Gò Cát,unclassified
+172547887,4,,Đường số 8,unclassified
+172598070,4,,Nguyễn Tư Nghiêm,unclassified
+172658766,4,,Thạnh Mỹ Lợi,unclassified
+172658784,3,,,primary_link
+174609559,4,,Lê Cơ,unclassified
+174609560,4,,Đường số 2D,unclassified
+174620023,4,,Tam Đa,unclassified
+174620024,4,,Tam Đa,unclassified
+174620025,4,,,unclassified
+174620027,4,,,unclassified
+174620028,4,,,unclassified
+174620030,4,,,unclassified
+174763920,4,,Thế Lữ,tertiary
+174763926,4,,,tertiary
+174763938,4,,,tertiary
+174763939,4,,,tertiary
+174763959,4,,Quốc lộ 13 cũ,tertiary
+174763961,4,,,tertiary
+179122337,4,,Hoàng Sa,tertiary
+179122338,3,,Lê Văn Sỹ,secondary
+179122343,3,,Nguyễn Hữu Cảnh,secondary
+179122344,3,,Nguyễn Hữu Cảnh,secondary
+179122345,2,80,Nguyễn Văn Linh,primary
+179122349,4,,Nhánh cầu Tân Thuận 2,tertiary
+179122357,3,,Nguyễn Hữu Cảnh,secondary
+179122359,3,40,Nguyễn Văn Linh,primary_link
+182599657,4,,Đường sô 38,unclassified
+182599682,1,80,Cầu Cần Giuộc,trunk
+182599700,4,,,tertiary_link
+182599717,1,80,Cầu Cần Giuộc,trunk
+182599762,4,,An Dương Vương,tertiary
+182599793,4,,Võ Văn Kiệt,tertiary
+182599806,1,80,Cầu Sập,trunk
+182599829,4,,Quản Trọng Linh,tertiary
+182599847,4,,,unclassified
+182599849,4,,,unclassified
+182599868,1,80,Nguyễn Văn Linh,trunk
+182599869,1,80,Nguyễn Văn Linh,trunk
+182599873,1,80,Nguyễn Văn Linh,trunk
+182599878,4,,Quản Trọng Linh,tertiary
+182599879,1,80,Nguyễn Văn Linh,trunk
+182599905,1,80,Cầu Sập,trunk
+185313546,4,,Lê Thị Hoa,tertiary
+185313559,1,60,Quốc lộ 1,trunk
+185313562,1,60,Cầu vượt Sóng Thần 1,trunk
+185313565,1,60,Cầu vượt Linh Xuân,trunk
+185313568,1,60,Cầu vượt Linh Xuân,trunk
+185313571,1,60,Quốc lộ 1,trunk
+185313578,1,60,Quốc lộ 1A,trunk
+185313582,1,60,Quốc lộ 1,trunk
+185313587,4,,Quốc lộ 1,tertiary
+185313588,3,,Quốc lộ 1,secondary
+185313598,4,,Bế Văn Đàn,unclassified
+185313601,3,,,trunk_link
+185313603,3,45,Cầu vượt Trạm 2,trunk_link
+185313611,3,,,trunk_link
+185313613,3,45,Cầu vượt Trạm 2,trunk_link
+185313621,2,45,Cầu vượt Thủ Đức,primary
+185313622,3,,Xa Lộ Hà Nội,trunk_link
+185313624,3,45,Cầu vượt Trạm 2,trunk_link
+185313625,3,,,trunk_link
+185313629,3,,Đại lộ Độc Lập,secondary
+185313631,3,,,primary_link
+185313632,3,,,primary_link
+185313636,3,,,trunk_link
+185313637,3,,Quốc lộ 1,trunk_link
+185313639,3,,Quốc lộ 1,trunk_link
+185313642,3,,Đại lộ Độc Lập,secondary
+185313648,3,,Quốc lộ 1,trunk_link
+185313651,3,,Quốc lộ 1,trunk_link
+185313653,3,,Quốc lộ 1,trunk_link
+185313655,3,,Quốc lộ 1,trunk_link
+186347711,4,,Nguyễn Du,tertiary
+188114084,4,,Tôn Thất Thuyết,tertiary
+188114155,3,,Tân Phú,primary_link
+188114158,3,,Tôn Thất Thuyết,primary_link
+188114185,4,,Trương Đình Hợi,tertiary
+188114226,4,,Tân Vĩnh,unclassified
+188114237,4,,Trương Đình Hợi,tertiary
+188114258,4,,Trương Đình Hợi,tertiary
+189017032,3,40,,primary_link
+189017034,2,50,Võ Văn Kiệt,primary
+189017038,3,,,secondary_link
+189017041,3,40,,trunk_link
+189017049,2,,Võ Văn Kiệt,primary
+189017053,3,,Trần Hưng Ðạo,secondary
+189017054,3,,Hải Thượng Lãn Ông,secondary
+189017058,3,,,secondary
+189017060,4,,Phú Hữu,tertiary
+189017063,2,,Nguyễn Tri Phương,primary
+189017068,3,,Trần Hưng Ðạo,secondary
+189017070,1,60,Hầm sông Sài Gòn,trunk
+189017071,3,,Võ Văn Kiệt,primary_link
+189017073,2,,Hồng Bàng,primary
+189017079,4,40,Bến Hàm Tử,tertiary
+189017080,3,,,secondary
+189017083,2,,Nguyễn Tri Phương,primary
+189017089,3,,,secondary
+189017092,3,,Cầu Chà Và,secondary
+189017094,3,40,,trunk_link
+189017097,3,,,primary_link
+189017098,3,,,primary_link
+189017100,3,,Cầu Chà Và,secondary
+189017129,2,,,primary
+189027760,2,,Phạm Hùng,primary
+189027764,2,,Võ Văn Kiệt,primary
+189027772,4,,,tertiary_link
+189027774,4,,Tạ Uyên,tertiary
+189027792,4,,Mai xuân Thưởng,tertiary
+189027798,4,,Phạm Đình Hổ,tertiary
+189027807,4,,Xóm Củi,tertiary
+189027809,4,,,tertiary_link
+189027813,4,,Lê Quang Sung,tertiary
+189027814,4,,,tertiary
+189027824,4,,Thuận Kiều,tertiary
+189067596,2,,An Dương Vương,primary
+189084243,3,,Cầu Calmette,trunk_link
+189084244,3,,Cầu Calmette,trunk_link
+189084245,4,,Cầu Calmette,tertiary
+189165773,2,,Ðiện Biên Phủ,primary
+189165776,4,,Trần Minh Quyền,tertiary
+189165777,4,,Trường Sa,tertiary
+189165778,4,,Cầu Nguyễn Văn Cừ,tertiary
+189165779,4,,Mai Thị Lựu,tertiary
+189165780,2,,Ðiện Biên Phủ,primary
+189165781,4,,Cầu Nguyễn Văn Cừ,tertiary
+189165785,1,,Cầu Ðiện Biên Phủ,trunk
+189165789,4,40,Mai Chí Thọ,unclassified
+189165791,2,,Ðiện Biên Phủ,primary
+189165792,4,,Trường Sa,tertiary
+189165798,1,,Điện Biên Phủ,trunk
+189193711,2,,Võ Văn Kiệt,primary
+189193715,4,,Võ Văn Kiệt,tertiary
+189193717,3,,Võ Văn Kiệt,trunk_link
+189238696,1,60,Mai Chí Thọ,trunk
+189242335,4,,Cầu Chữ Y,tertiary
+190241087,2,,Cầu Công Lý,primary
+190241088,2,,Nam Kỳ Khởi Nghĩa,primary
+190241089,2,,Nguyễn Văn Trỗi,primary
+191666357,2,,Xô Viết Nghệ Tĩnh,primary
+191666382,4,,Hẻm 602 Điện Biên Phủ,unclassified
+191937818,4,,Lê Văn Việt,tertiary
+191937819,4,,Võ Văn Ngân,tertiary
+191937824,3,,,trunk_link
+191937825,3,,D1,secondary
+191937830,3,,,primary_link
+191937832,3,,,trunk_link
+191937833,4,,,tertiary
+191937834,2,50,Xa Lộ Hà Nội,primary
+191937836,3,,Đường D1,secondary
+191937846,4,,Lê Văn Việt,tertiary
+191937848,4,,Lê Văn Việt,tertiary
+191937850,4,,Võ Văn Ngân,tertiary
+192289431,3,,,primary_link
+192289437,3,60,Nguyễn Hữu Cảnh,secondary
+192289442,1,80,,trunk
+192289444,1,50,Xa Lộ Hà Nội,trunk
+192289446,3,50,Xa Lộ Hà Nội,trunk_link
+192289449,3,50,Xa Lộ Hà Nội,trunk_link
+192289453,1,80,Xa Lộ Hà Nội,trunk
+192289456,1,50,Xa Lộ Hà Nội,trunk
+192289458,3,,Nguyễn Hữu Cảnh,primary_link
+192289467,1,80,Xa Lộ Hà Nội,trunk
+192289472,2,60,Cầu Sài Gòn 2,primary
+192289476,3,50,Xa Lộ Hà Nội,trunk_link
+192289478,2,50,Cầu Sài Gòn 1,primary
+192289481,3,,Nguyễn Hữu Cảnh,primary_link
+192289484,3,50,Xa Lộ Hà Nội,trunk_link
+192289486,4,,Tây Hòa,tertiary
+192289490,3,60,Nguyễn Hữu Cảnh,secondary
+192289491,2,,Nguyễn Hữu Cảnh,primary
+192289493,3,,,primary_link
+192289498,1,50,Xa Lộ Hà Nội,trunk
+192289502,1,80,Cầu Rạch Chiếc 1,trunk
+192289503,1,60,Xa Lộ Hà Nội,trunk
+192289504,1,50,Xa Lộ Hà Nội,trunk
+192512308,4,,Xô Viết Nghệ Tĩnh,tertiary
+192512312,2,,Điện Biên Phủ,primary
+192512316,1,60,Điện Biên Phủ,trunk
+192512329,4,,Xô Viết Nghệ Tĩnh,tertiary
+192512333,2,50,Điện Biên Phủ,primary
+192512335,2,50,Điện Biên Phủ,primary
+192512337,2,50,Điện Biên Phủ,primary
+192512342,3,,Điện Biên Phủ,primary_link
+192512347,3,,Đinh Bộ Lĩnh,primary_link
+192512353,2,,Điện Biên Phủ,primary
+192512363,2,50,Điện Biên Phủ,primary
+192512365,2,,Điện Biên Phủ,primary
+192512367,2,,Đinh Bộ Lĩnh,primary
+192512371,2,,Điện Biên Phủ,primary
+192512383,2,,Điện Biên Phủ,primary
+192512402,3,,Điện Biên Phủ,primary_link
+192512406,3,,Điện Biên Phủ,primary_link
+192512411,3,,Điện Biên Phủ,primary_link
+192512415,4,,Nguyễn Cửu Vân,unclassified
+192512434,2,,Điện Biên Phủ,primary
+192680120,4,,Nguyễn Hữu Hào,unclassified
+192680130,2,,Trần Hưng Ðạo,primary
+192680139,4,,Hàm Nghi,tertiary
+192680151,2,,Nguyễn Thái Học,primary
+192680156,2,,Hoàng Diệu,primary
+192680173,2,,Nguyễn Thị Nghĩa,primary
+192680177,3,,Nguyễn Thái Học,primary_link
+192680178,2,,Nguyễn Thị Nghĩa,primary
+192923513,4,,Đoàn Văn Bơ,tertiary
+192923520,4,,Đoàn Văn Bơ,tertiary
+192923527,4,,Đoàn Văn Bơ,tertiary
+193085681,3,,Tôn Đức Thắng,secondary
+193085683,2,,Tôn Đức Thắng,primary
+193085687,3,,Nguyễn Hữu Cảnh,secondary
+193085689,3,,,primary_link
+193085695,3,,Nguyễn Hữu Cảnh,secondary
+193085698,2,,Nguyễn Hữu Cảnh,primary
+193085702,2,,Công Trường Mê Linh,primary
+193085708,3,,Nguyễn Hữu Cảnh,secondary
+193085710,3,,Tôn Đức Thắng,secondary
+193085712,3,,Nguyễn Hữu Cảnh,secondary
+193085713,2,,Nguyễn Hữu Cảnh,primary
+193085717,3,,Cầu Thị Nghè 2,secondary
+193085721,2,,Tôn Ðức Thắng,primary
+193085724,2,,Nguyễn Hữu Cảnh,primary
+193085734,3,,Tôn Đức Thắng,secondary
+193085737,3,,Cầu Thị Nghè 2,secondary
+193092894,2,,Nam Kỳ Khởi Nghĩa,primary
+193092895,2,,Nam Kỳ Khởi Nghĩa,primary
+193092898,3,,Võ Thị Sáu,primary_link
+193092899,3,,,primary_link
+193092901,3,,Võ Thị Sáu,primary_link
+193106765,3,,Hàm Nghi,secondary
+193142026,4,,Lê Lợi,tertiary
+193256688,2,,Nguyễn Thái Học,primary
+193256691,3,,Cầu Thủ Thiêm,secondary_link
+193256696,2,,Nguyễn Thị Minh Khai,primary
+193514952,3,,Quốc Lộ 50,secondary
+193514953,3,,Tùng Thiện Vương,secondary
+193514955,4,,Quốc Lộ 50,tertiary
+193514958,2,,Cầu Nguyễn Tri Phương,primary
+193514960,3,,Tùng Thiện Vương,secondary
+193514962,4,,Bùi Minh Trực,unclassified
+193514963,3,,Tùng Thiện Vương,secondary
+193514964,3,,Tùng Thiện Vương,secondary
+193514965,4,,Phạm Thế Hiển,tertiary
+193514966,2,,Quốc Lộ 50,primary
+193514968,3,,Tùng Thiện Vương,secondary
+193514969,2,,Quốc Lộ 50,primary
+193514970,4,,Phạm Thế Hiển,tertiary
+193514971,3,,Tùng Thiện Vương,secondary
+193514972,3,,Tùng Thiện Vương,secondary
+193514973,4,,Quốc Lộ 50,tertiary
+193514976,3,,,secondary
+193614216,2,,Quốc lộ 13,primary
+193616433,2,,Nam Kỳ Khởi Nghĩa,primary
+193729304,2,,Cầu Chánh Hưng,primary
+193729354,2,,Phạm Hùng,primary
+193940332,3,,,primary_link
+194311306,3,,Đường CN1,secondary
+194417415,4,,Lê Thúc Hoạch,tertiary
+195672062,3,,,primary_link
+195672066,2,,Hoàng Văn Thụ,primary
+195672069,4,,Lạc Long Quân,tertiary
+196966060,4,,T1 Loop,tertiary
+196966072,3,10,Đường dẫn ga Quốc nội,secondary_link
+196966073,4,,,tertiary
+196966082,3,,T1 Loop,secondary_link
+196966090,3,50,Hồng Hà,secondary
+196966094,4,20,Đường dẫn sảnh đi Quốc tế,tertiary
+196966096,4,20,Đường dẫn Sảnh Đến Quốc tế,tertiary
+196966100,4,,Đường dẫn Ga Quốc tế,tertiary
+196966101,4,20,Đường dẫn Sảnh Đi Quốc tế,tertiary
+196966102,4,20,Đường dẫn sảnh đi Quốc tế,tertiary
+197034588,4,,,tertiary_link
+197125475,4,,Trường Sơn,tertiary
+197557712,3,,Trường Sơn,secondary
+197557713,3,,Trường Sơn,secondary_link
+197803941,4,,Núi Thành,unclassified
+197803953,2,80,Trường Chinh,primary
+197803957,2,,Trường Chinh,primary
+197804021,2,,Cộng Hòa,primary
+197804026,2,,Trường Chinh,primary
+197804036,2,,Cộng Hòa,primary
+197804052,2,,Trường Chinh,primary
+197804068,2,,Cộng Hòa,primary
+197804075,4,,Thân Nhân Trung,unclassified
+197804078,4,,Út Tịch,tertiary
+197940884,4,,Đường C12,unclassified
+197940914,4,,Đường B2,unclassified
+197982856,2,,Hoàng Văn Thụ,primary
+197995862,1,50,Cầu vượt Ngã tư Hàng Xanh,trunk
+197996940,3,,Phan Đình Giót,secondary_link
+197996941,3,,,primary_link
+198047402,3,,Trường Chinh,primary_link
+199161605,4,,Phạm Văn Bạch,tertiary
+199161606,2,,Trường Chinh,primary
+199161608,3,60,Cầu Tham Lương,secondary
+199161611,3,60,Trường Chinh,secondary
+199161612,2,80,Trường Chinh,primary
+199161613,2,,Trường Chinh,primary
+199161614,4,,Phan Huy ích,tertiary
+199161617,3,,Trường Chinh,primary_link
+199161618,3,,,secondary
+199161619,4,,Phan Huy ích,tertiary
+199161620,3,,,secondary_link
+199161622,3,60,Cầu Tham Lương,secondary
+199161624,4,,Nguyễn Văn Quá,tertiary
+199161626,4,,Song hành QL22,tertiary
+199161627,4,,Trường Chinh,tertiary
+199161628,3,60,Trường Chinh,secondary
+199161631,4,,Phan Huy ích,tertiary
+199161632,3,,Trường Chinh,primary_link
+199161634,2,80,Cầu Tham Lương,primary
+199161635,3,60,Trường Chinh,secondary
+199161637,3,,Trường Chinh,primary_link
+199161639,4,,Phan Huy ích,tertiary
+199161640,3,60,Trường Chinh,secondary
+199161641,3,,Phan Huy ích,primary_link
+199161642,4,,Trường Chinh,tertiary
+199161643,4,,Nguyễn Văn Quá,tertiary
+199161644,3,,Trường Chinh,primary_link
+199161645,2,80,Trường Chinh,primary
+199222881,4,,Liên Xã,unclassified
+199222899,1,60,Quốc lộ 22,trunk
+203215338,2,,Nguyễn Thái Học,primary
+204704731,2,,Phạm Hùng,primary
+204704732,2,,Phạm Hùng,primary
+205311563,4,,Tú Xương,unclassified
+205341807,3,,Nguyễn Hữu Thọ,secondary
+205341809,3,,Nguyễn Thị Thập,secondary
+205341811,3,,Cầu 15B,secondary
+205341813,4,30,Phú Thuận,unclassified
+205341814,4,,Phú Thuận,unclassified
+205341831,4,,Đào Sư Tích,tertiary
+205341840,4,,Cầu Phước Lộc,tertiary
+205341852,3,,,secondary_link
+205341874,3,,,secondary_link
+205341875,3,,,secondary_link
+205341876,3,,,secondary_link
+205341915,4,,,unclassified
+205342053,4,,,unclassified
+205342089,4,,Đào Sư Tích,tertiary
+205373802,4,,Cầu Số 2,tertiary
+205521460,4,,Nguyễn Cao Bắc,unclassified
+205521503,3,,,primary_link
+205521504,3,,Đường số 15,primary_link
+205650598,4,,Cầu Số 1,tertiary
+205650748,4,,Đường Số 13,unclassified
+205650773,4,,Bế Văn Cấm,tertiary
+205650794,4,,,tertiary
+205798428,4,,Tạ Quang Bửu,tertiary
+205957802,3,,,primary_link
+205957843,4,,Tôn Dật Tiên,unclassified
+205957966,3,,Nguyễn Lương Bằng,secondary
+205958052,4,50,Nguyễn Đồng Chi,unclassified
+205982412,4,,Trịnh Quang Nghị,tertiary
+205982447,4,,Cầu Ba Tơ,tertiary
+205982455,1,80,Nguyễn Văn Linh,trunk
+205982460,1,80,Nguyễn Văn Linh,trunk
+205982463,1,80,Nguyễn Văn Linh,trunk
+205982467,1,80,Nguyễn Văn Linh,trunk
+205982470,4,,Trương Đình Hội,unclassified
+205982473,4,,Trương Đình Hội,unclassified
+207563612,3,,Tôn Ðức Thắng,primary_link
+208936584,4,,,unclassified
+208937401,4,,Tân Chánh Hiệp 2,tertiary
+208937402,4,,Hiệp Thành 13,unclassified
+208937658,4,,,unclassified
+208938079,4,,Song hành QL 22,tertiary
+208938081,4,,Song hành QL 22,tertiary
+210268958,2,,Hồng Bàng,primary
+210268987,3,,Trần Não,secondary_link
+210772373,1,60,Nguyễn Văn Linh,trunk
+210774702,1,80,Cầu Thầy Tiêu,trunk
+210779439,1,80,Nguyễn Văn Linh,trunk
+210909504,1,80,Cầu Tư Dinh,trunk
+210912098,1,80,Cầu Ông Lớn,trunk
+210912099,1,60,Nguyễn Văn Linh,trunk
+210912179,1,60,Cầu Ông Bé,trunk
+210912180,1,60,Nguyễn Văn Linh,trunk
+210917584,1,60,Nguyễn Văn Linh,trunk
+210917681,1,60,Cầu Xóm Củi,trunk
+210917792,1,60,Nguyễn Văn Linh,trunk
+210917830,1,60,Cầu Rạch Ngang,trunk
+210917943,2,60,Nguyễn Văn Linh,primary
+210918191,2,60,Cầu Bà Lớn,primary
+210918275,2,60,Nguyễn Văn Linh,primary
+210921259,2,60,Cầu Mã Voi,primary
+210921301,2,60,Nguyễn Văn Linh,primary
+210931459,2,60,Nguyễn Văn Linh,primary
+210932012,2,60,Nguyễn Văn Linh,primary
+210932204,2,60,Cầu Sập,primary
+210932361,2,60,Nguyễn Văn Linh,primary
+210932604,2,60,Cầu Cần Giuộc,primary
+210932764,2,60,Nguyễn Văn Linh,primary
+210933456,2,,Nguyễn Văn Linh,primary
+210933722,2,60,Nguyễn Văn Linh,primary
+210933740,2,60,Cầu Cần Giuộc,primary
+210933748,2,60,Nguyễn Văn Linh,primary
+210933790,2,60,Cầu Sập,primary
+210933938,2,60,Nguyễn Văn Linh,primary
+210934206,2,60,Nguyễn Văn Linh,primary
+210934221,2,60,Nguyễn Văn Linh,primary
+210934228,2,60,Cầu Mã Voi,primary
+210934562,2,60,Nguyễn Văn Linh,primary
+210934589,2,60,Cầu Bà Lớn,primary
+210968395,2,,,primary
+211062084,1,80,Quốc lộ 1,trunk
+211063422,2,60,Nguyễn Văn Linh,primary
+211063788,1,60,Cầu Rạch Ngang,trunk
+211063859,1,60,Nguyễn Văn Linh,trunk
+211063876,2,,Tô Ký,primary
+211063916,1,60,Cầu Xóm Củi,trunk
+211063920,1,60,Nguyễn Văn Linh,trunk
+211064158,1,60,Cầu Ông Bé,trunk
+211064285,1,60,Nguyễn Văn Linh,trunk
+211064313,1,60,Cầu Ông Lớn,trunk
+211064316,2,,Cầu vượt Quang Trung,primary
+211064602,1,60,Nguyễn Văn Linh,trunk
+211064621,2,60,Cầu Tư Dinh,primary
+211064628,2,,Cầu vượt Quang Trung,primary
+211064630,2,60,Nguyễn Văn Linh,primary
+211064639,2,60,Nguyễn Văn Linh,primary
+211064860,2,50,Nguyễn Văn Linh,primary
+211064903,2,60,Cầu Thầy Tiêu,primary
+211066821,2,60,Nguyễn Văn Linh,primary
+211066870,2,60,Nguyễn Văn Linh,primary
+211067040,2,60,Cầu Thầy Tiêu,primary
+211067181,2,50,Nguyễn Văn Linh,primary
+211067375,2,50,Nguyễn Văn Linh,primary
+211067382,2,60,Nguyễn Văn Linh,primary
+211067404,2,60,Nguyễn Văn Linh,primary
+211067419,2,60,Cầu Tư Dinh,primary
+211067425,2,60,Nguyễn Văn Linh,primary
+211067518,2,80,Nguyễn Văn Linh,primary
+211067535,1,80,Cầu Tư Dinh,trunk
+211067572,1,80,Nguyễn Văn Linh,trunk
+211067983,1,60,Nguyễn Văn Linh,trunk
+211067998,3,,Cầu vượt Quang Trung,trunk_link
+211068082,2,,Cầu vượt Quang Trung,primary
+211068160,1,80,Cầu Thầy Tiêu,trunk
+211068224,1,80,Nguyễn Văn Linh,trunk
+211077196,3,,Quốc lộ 1,trunk_link
+211077821,3,,Cầu vượt Quang Trung,trunk_link
+211077971,3,,,trunk_link
+211078823,3,,,primary_link
+211078831,3,,,primary_link
+211079561,1,80,Quốc lộ 1,trunk
+211079964,1,60,Quốc lộ 1,trunk
+211080003,1,60,Quốc lộ 1,trunk
+211081623,2,,Cầu Chợ Cầu 2,primary
+211081624,2,,Quang Trung,primary
+211081657,2,,Quang Trung,primary
+211083021,3,,,trunk_link
+211098862,4,,Nguyễn Văn Quá,tertiary
+211098864,4,,Nguyễn Văn Quá,tertiary
+211098865,4,,Nguyễn Văn Quá,tertiary
+211099163,4,,Nguyễn Văn Quá,tertiary
+211099582,1,80,Nguyễn Văn Linh,trunk
+211100524,1,80,Nguyễn Văn Linh,trunk
+211130577,2,,Nguyễn Tất Thành,primary
+211130578,2,,Nguyễn Tất Thành,primary
+211132080,2,,Nguyễn Tất Thành,primary
+211221732,1,80,Nguyễn Văn Linh,trunk
+211221896,1,60,Quốc lộ 1,trunk
+211221909,1,60,Cầu Bình Điền,trunk
+211221983,1,60,Quốc Lộ 1,trunk
+211222687,4,,Lê Lai,tertiary
+211232330,1,80,Quốc lộ 1,trunk
+211232372,1,80,Cầu An Lập,trunk
+211232402,1,80,Quốc lộ 1,trunk
+211232411,1,80,Cầu vượt Tỉnh lộ 10,trunk
+211232455,1,80,Quốc lộ 1,trunk
+211232588,2,60,Quốc lộ 1,primary
+211233555,1,80,Cầu vượt Tỉnh lộ 10,trunk
+211233556,1,80,Quốc lộ 1,trunk
+211233731,1,80,Cầu Bình Thuận,trunk
+211234322,1,80,Cầu Bình Phú Tây,trunk
+211404209,3,,,trunk_link
+211404525,4,,Lê Văn Lương,tertiary
+211404526,4,,Lê Văn Lương,tertiary
+211404527,2,,Nguyễn Hữu Thọ,primary
+211405131,3,,,trunk_link
+211405188,3,,,trunk_link
+211408041,1,,Điện Biên Phủ,trunk
+211408042,1,60,Điện Biên Phủ,trunk
+211408254,4,,Út Tịch,tertiary
+211408580,2,,Lăng Cha Cả,primary
+211408582,2,,Hoàng Văn Thụ,primary
+211411396,2,,Cộng Hòa,primary
+211411397,3,,Tân Kỳ Tân Quý,secondary
+211411780,2,,Cộng Hòa,primary
+211418441,3,,,primary_link
+211418443,3,,,primary_link
+211419161,2,,Trần Quốc Hoàn,primary
+211419300,4,,Thăng Long,tertiary
+211421621,2,,Cầu vượt Quang Trung,primary
+211424729,1,60,Hồ Chí Minh - Trung Lương,trunk
+211425082,1,60,TP Hồ Chí Minh - Trung Lương,trunk
+211425083,1,60,TP Hồ Chí Minh - Trung Lương,trunk
+211425085,4,,Số 17,unclassified
+211428135,3,,Hồ Học Lãm,trunk_link
+211428240,2,60,Cầu Sông Chùa,primary
+211428241,2,40,Võ Trần Chí,primary
+211428242,2,60,Cầu Sông Chùa,primary
+211428243,2,60,Võ Trần Chí,primary
+211428422,4,,Trần Văn Giàu,tertiary
+211428425,2,60,Cầu Kênh 3,primary
+211428444,4,,Số 18,tertiary
+211429100,2,60,Võ Trần Chí,primary
+211429101,2,60,Cầu Kênh 3,primary
+211430057,3,40,,trunk_link
+211430058,2,60,Võ Trần Chí,primary
+211430059,3,,,trunk_link
+211430061,1,60,TP Hồ Chí Minh - Trung Lương,trunk
+211430367,2,60,Võ Trần Chí,primary
+211430368,2,60,Cầu Rạch Tam,primary
+211430370,2,60,Cầu Rạch Tam,primary
+211430373,2,60,Võ Trần Chí,primary
+211430374,2,60,Võ Trần Chí,primary
+211430803,3,,Cầu vượt Nút giao Quốc lộ 1,trunk_link
+211430806,3,40,,trunk_link
+211430807,2,60,Võ Trần Chí,primary
+211430809,2,60,Đường dẫn vào Cao tốc Trung Lương,primary
+211430975,3,40,Cầu vượt Nút giao Quốc lộ 1,trunk_link
+211431931,3,40,,trunk_link
+211432217,3,,,trunk_link
+211587251,2,60,Võ Trần Chí,primary
+211587252,2,60,Võ Trần Chí,primary
+211587253,2,60,Cầu Chợ Đệm,primary
+211587254,2,60,Cầu Chợ Đệm,primary
+211717995,1,60,TP Hồ Chí Minh - Trung Lương,trunk
+211718000,1,60,Cầu Ông Giáo,trunk
+211718004,1,60,TP Hồ Chí Minh - Trung Lương,trunk
+211718006,1,60,Cầu Ông Giáo,trunk
+211724815,4,,Trương Định,tertiary
+211830783,2,,Mai Chí Thọ,primary
+211835010,1,60,Cầu vượt Ngã tư Thủ Đức,trunk
+211835012,1,60,Xa Lộ Hà Nội,trunk
+211835103,1,60,Cầu vượt Ngã tư Thủ Đức,trunk
+211838853,1,80,Xa Lộ Hà Nội,trunk
+211838854,1,80,Xa Lộ Hà Nội,trunk
+211840920,1,60,Xa Lộ Hà Nội,trunk
+211840922,2,50,Xa Lộ Hà Nội,primary
+211841813,3,,,secondary_link
+211843431,3,,D1,secondary
+211843432,3,,D1,secondary
+211848193,4,,,tertiary
+211848194,4,,,tertiary
+211848819,4,,,tertiary
+212623582,2,,Tôn Ðức Thắng,primary
+213097119,4,,Nguyễn Lương Bằng,unclassified
+213098161,3,,Hồ Học Lãm,trunk_link
+213098163,4,,Hồ Học Lãm,tertiary
+213105712,2,60,Nguyễn Văn Linh,primary
+213332772,4,,Vũ Huy Tấn,tertiary
+213396042,4,,,tertiary_link
+213434584,4,,Hoàng Sa,tertiary
+213716381,3,,Bắc Hải,primary_link
+213719139,4,,,unclassified
+213719140,4,,Phú Hòa,unclassified
+213720087,2,,,primary
+213721187,2,,Lý Thường Kiệt,primary
+213721195,2,,Hoàng Văn Thụ,primary
+213721199,3,,,primary_link
+213721476,3,,,primary_link
+213724109,3,,,primary_link
+213726068,2,,Lý Thường Kiệt,primary
+213726584,4,,Lạc Long Quân,tertiary
+213727081,2,,Lý Thường Kiệt,primary
+214527211,3,,Trần Quốc Thảo,secondary
+214583952,1,,Quốc lộ 1,trunk
+214583953,1,60,Cầu Bình Phước 2,trunk
+214583954,1,60,Cầu Bình Phước 2,trunk
+214583956,1,60,Quốc lộ 1,trunk
+214584690,1,60,Quốc lộ 1,trunk
+214584691,1,60,Cầu vượt Bình Phước,trunk
+214584693,1,60,Quốc lộ 1,trunk
+214584694,4,,Quốc lộ 1,tertiary
+214584695,1,60,Quốc lộ 1,trunk
+214585726,3,,Quốc lộ 1,trunk_link
+214585727,4,,Quốc lộ 1,tertiary
+214585730,3,,,primary_link
+214587018,1,60,Quốc lộ 1,trunk
+214587019,4,,Tô Ngọc Vân,tertiary
+214587020,1,60,Cầu Rạch Sâu 2,trunk
+214588125,4,,,unclassified
+214588127,1,60,Cầu Bến Cát 2,trunk
+214588129,1,60,Quốc lộ 1,trunk
+214596911,4,,,tertiary
+214644741,4,,Vườn Lài,tertiary
+214756714,3,,,primary_link
+214759809,3,,,secondary_link
+214759811,3,,,secondary_link
+214764468,3,,,secondary_link
+214764469,3,,,secondary_link
+214764471,3,,,secondary_link
+214764473,3,,,secondary_link
+214768261,3,20,,trunk_link
+214768263,4,,Trần Đại Nghĩa,tertiary
+214768266,3,,Trần Đại Nghĩa,trunk_link
+214918852,2,,Tô Ký,primary
+214926372,3,40,Võ Văn Kiệt,trunk_link
+214993499,4,,Nguyễn Văn Tố,tertiary
+214994451,4,,Ngô Quyền,tertiary
+215037911,3,,,secondary
+215039436,4,,Đường số 5,tertiary
+215069069,3,,Nguyễn Thị Thập,secondary
+215071401,3,,Nguyễn Lương Bằng,secondary
+215071404,3,,Cầu Cả Cấm,secondary
+215071572,4,,Cầu Ông Đội,tertiary
+215071573,3,,Nguyễn Lương Bằng,secondary
+215179039,4,,Bến Vân Đồn,tertiary
+215254731,4,,Hồ Học Lãm,tertiary
+215256457,4,20,,tertiary
+215342877,4,,Thới An 16,tertiary
+215347738,3,,Lê Đức Thọ,secondary
+215350714,1,60,Quốc lộ 1,trunk
+215350715,1,60,Cầu vượt Tân Thới Hiệp,trunk
+215350716,4,60,Quốc lộ 1,tertiary
+215350717,4,60,Quốc lộ 1,tertiary
+215350718,1,60,Cầu vượt Tân Thới Hiệp,trunk
+215350719,3,,Lê Văn Thọ,secondary
+215350720,1,60,Quốc lộ 1,trunk
+215350781,3,,Lê Văn Khương,secondary
+215350943,3,,Lê Đức Thọ,secondary
+215351899,3,,Cầu vượt Quang Trung,trunk_link
+215352632,3,,Nguyễn Thị Thập,secondary
+215424980,2,,Trần Hưng Ðạo,primary
+215424982,2,,Nguyễn Thái Học,primary
+215508133,2,,Nguyễn Thái Học,primary
+215508134,2,,Nguyễn Thái Học,primary
+215508254,4,,Lê Lợi,tertiary
+215516942,4,,Đông Bắc,tertiary
+215689917,4,,Phạm Văn Bạch,tertiary
+215690324,4,,Phạm Văn Bạch,tertiary
+215941710,2,,Khánh Hội,primary
+215941713,2,,Khánh Hội,primary
+215945328,3,,Lê Văn Lương,primary_link
+215946085,2,,Nguyễn Hữu Thọ,primary
+215946342,3,,,primary_link
+215947465,3,,Nguyễn Thị Thập,secondary
+215947467,3,,Nguyễn Thị Thập,secondary
+216297228,2,60,Võ Trần Chí,primary
+216308410,3,,,trunk_link
+216308605,1,80,Nguyễn Văn Linh,trunk
+216308607,1,80,Nguyễn Văn Linh,trunk
+216309343,3,,Lê Văn Lương,primary_link
+216321858,3,80,Nguyễn Văn Linh,primary_link
+216326909,4,,Thế Lữ,tertiary
+216329217,4,,Hồ Học Lãm,tertiary
+216585724,4,10,Đường dẫn sảnh đến Quốc tế,tertiary
+216585725,4,20,Đường dẫn sảnh đi Quốc tế,tertiary
+216585726,4,20,Đường dẫn sảnh đến Quốc tế,tertiary
+216585806,4,10,Đường dẫn Ga Quốc Nội,tertiary
+216955725,3,,Nguyễn Thị Tú,secondary_link
+216955728,3,,Nguyễn Thị Tú,secondary_link
+216955791,1,80,Quốc lộ 1,trunk
+216956826,4,,Trần Quốc Toản,tertiary
+216956827,4,,Trần Quốc Toản,tertiary
+216958427,4,,Bờ Bao Tân Thắng,tertiary
+216958436,4,,Kênh Mười Chín Tháng Năm,tertiary
+216958446,4,,,tertiary_link
+216958448,4,,Kênh Mười Chín Tháng Năm,tertiary
+216958451,4,,,tertiary_link
+216959278,4,,Hai Mươi Sáu Tháng Ba,tertiary
+216959279,4,,Đường số 15,tertiary
+217067355,1,80,Quốc lộ 1,trunk
+217067357,3,60,Quốc lộ 1,secondary
+217609237,2,,Quang Trung,primary
+217609238,2,,Quang Trung,primary
+217609239,2,,Quang Trung,primary
+217609332,3,,,primary_link
+217620787,3,,Nguyễn Hữu Thọ,secondary
+217620788,3,,Nguyễn Hữu Thọ,secondary
+217620791,3,,Nguyễn Hữu Thọ,secondary
+217620792,3,,,secondary_link
+217620793,3,,Nguyễn Hữu Thọ,secondary
+217620794,4,,Phạm Hữu Lầu,tertiary
+217621289,3,,Nguyễn Hữu Thọ,secondary
+217622010,4,,Nguyễn Bình,tertiary
+217709169,4,,Đường số 3,tertiary
+217709171,4,,Đường số 3,tertiary
+217709181,4,,Đường số 1,tertiary
+217709567,4,,Bình Thành,tertiary
+217710562,3,,,trunk_link
+218227252,1,60,Cầu vượt Ngã tư ThủĐức,trunk
+218227253,2,50,Xa lộ Hà Nội,primary
+218227691,3,,,trunk_link
+218227693,3,,,trunk_link
+218228180,2,60,Đồng Văn Cống,primary
+218228445,3,,,primary_link
+218228446,3,,,primary_link
+218255874,3,,,trunk_link
+218265677,2,50,Cầu,primary
+218265678,2,50,Mai Chí Thọ,primary
+218265679,2,50,Cầu Cá Trê Lớn,primary
+218265680,2,50,Mai Chí Thọ,primary
+218265681,2,50,Mai Chí Thọ,primary
+218265682,2,50,Mai Chí Thọ,primary
+218265683,2,50,Mai Chí Thọ,primary
+218265684,2,50,Mai Chí Thọ,primary
+218265685,2,50,Mai Chí Thọ,primary
+218265686,1,60,Cầu Kênh 1,trunk
+218265687,2,50,Mai Chí Thọ,primary
+218265688,1,60,Cầu Kênh 2,trunk
+218265689,2,50,Cầu Kênh 2,primary
+218265690,2,50,Cầu Kênh 2,primary
+218265691,3,,,trunk_link
+218265692,1,60,Mai Chí Thọ,trunk
+218265693,2,50,Mai Chí Thọ,primary
+218265694,2,50,Mai Chí Thọ,primary
+218265695,1,60,Mai Chí Thọ,trunk
+218265696,1,40,Mai Chí Thọ,trunk
+218265697,2,50,Mai Chí Thọ,primary
+218265698,2,50,Mai Chí Thọ,primary
+218265699,1,60,Cầu Kênh 1,trunk
+218265700,3,,,trunk_link
+218265701,2,50,Cầu Cá Trê Lớn,primary
+218265702,2,50,Cầu,primary
+218265703,2,50,Mai Chí Thọ,primary
+218265704,2,50,Cầu Cá Trê Nhỏ,primary
+218265705,2,50,Cầu Cá Trê Nhỏ,primary
+218265706,1,60,Cầu Kênh 2,trunk
+218265707,1,60,Mai Chí Thọ,trunk
+218266651,2,50,Mai Chí Thọ,primary
+218266652,3,,,trunk_link
+218269285,1,60,Mai Chí Thọ,trunk
+218269286,1,60,Mai Chí Thọ,trunk
+218269287,1,60,Mai Chí Thọ,trunk
+218269289,3,,,trunk_link
+218269290,1,60,Mai Chí Thọ,trunk
+218269291,3,,,primary_link
+218409919,4,,Tân Thới Nhất 1,tertiary
+218442348,3,,,trunk_link
+218443726,4,30,Đường Cây Cám,unclassified
+218850623,3,,Nguyễn Oanh,primary_link
+218850624,3,,Nguyễn Oanh,primary_link
+218851809,3,,Hàm Nghi,primary_link
+219616469,4,,,tertiary
+219730466,2,,Hoàng Văn Thụ,primary
+219730526,3,,Lê Văn Sỹ,secondary
+219856946,2,,Dương Bá Trạc,primary
+219859641,2,,Cầu Nguyễn Văn Cừ,primary
+219859643,2,,Nguyễn Văn Cừ,primary
+219859645,2,,Nguyễn Văn Cừ,primary
+219860365,3,,Trần Hưng Ðạo,secondary
+219860447,2,,Nguyễn Văn Cừ,primary
+219861105,2,,Trường Chinh,primary
+219861149,2,,Trường Chinh,primary
+219861150,2,,Cộng Hòa,primary
+219862609,4,,Hẻm 84A Trần Hữu Trang,unclassified
+219887039,3,,,primary_link
+219887040,3,,,primary_link
+220192632,4,,Đường 10A,unclassified
+220209038,4,,Đường số 48,unclassified
+220209448,4,,,unclassified
+220210335,4,,,unclassified
+220216393,2,,Võ Thị Sáu,primary
+220216395,4,,Lý Chính Thắng,tertiary
+220216396,4,,Nguyễn Đình Chính,unclassified
+220216397,3,,,primary_link
+220216399,4,,Huỳnh Văn Bánh,tertiary
+220216405,4,,Lý Chính Thắng,tertiary
+220216406,4,,Trương Quốc Dung,unclassified
+220216407,2,,Võ Thị Sáu,primary
+220216408,4,,Trần Huy Liệu,tertiary
+220216411,4,,Trần Quốc Toản,tertiary
+220411957,4,,Hẻm 200C Xóm Chiếu,unclassified
+220421448,4,,Dương Đình Cúc,tertiary
+220421449,1,60,Quốc Lộ 1,trunk
+220423007,1,,Cầu vượt An Sương,trunk
+220552582,2,,Trường Chinh,primary
+220564419,3,,Huỳnh Tấn Phát,primary_link
+220683273,3,,Điện Biên Phủ,primary_link
+220683871,2,,Cầu Kênh Tẻ,primary
+220683895,2,,Cầu Rạch Bàng 2,primary
+220684104,3,,Nguyễn Thị Thập,secondary
+220684105,3,,Đường số 4,secondary
+220684106,3,,Cầu Him Lam,secondary
+220687094,4,,,unclassified
+220818784,3,,Huỳnh Tấn Phát,secondary
+220844164,4,,Đường Số 1,unclassified
+220846884,4,,Tân Thuận,unclassified
+220860889,2,,Lý Thường Kiệt,primary
+220860890,4,,Bành Văn Trân,tertiary
+220860892,3,,,primary_link
+220860894,2,,Lý Thường Kiệt,primary
+220862996,2,,Cách Mạng Tháng Tám,primary
+220863461,2,,Cách Mạng Tháng Tám,primary
+220971019,4,,Nguyễn Trọng Tuyển,tertiary
+220972103,3,,Cầu Lê Văn Sỹ,secondary
+220972105,3,,Trần Quốc Thảo,secondary
+220972107,3,,Lê Văn Sỹ,secondary
+220972108,3,,Trần Quốc Thảo,secondary
+220972173,4,,Bà Huyện Thanh Quan,tertiary_link
+220972414,3,,An Dương Vương,secondary
+220972416,2,,,primary
+220972648,2,,Huỳnh Tấn Phát,primary
+220972651,3,,Huỳnh Tấn Phát,secondary
+220972652,2,,Huỳnh Tấn Phát,primary
+221058158,4,,Hà Huy Tập,unclassified
+221145523,3,,Nguyễn Thị Thập,secondary
+221150538,2,,Lý Thường Kiệt,primary
+221150542,3,,,primary_link
+221152219,3,,Huỳnh Tấn Phát,primary_link
+221152220,2,70,Nguyễn Văn Linh,primary
+221152221,3,,Tân Thuận,primary_link
+221152222,3,,Nguyễn Văn Linh,primary_link
+221152223,3,,Tân Thuận,secondary_link
+221152225,4,,Tân Thuận,unclassified
+221152606,4,,Đường Số 2,unclassified
+221152825,4,,,tertiary_link
+221152826,4,,,tertiary_link
+221153229,4,,,unclassified
+221153233,4,,,tertiary_link
+221153234,4,,,unclassified
+221153235,4,,,unclassified
+221295641,4,,Đường Số 13,tertiary_link
+221308781,4,,Huỳnh Tấn Phát,tertiary
+221308782,2,,Huỳnh Tấn Phát,primary
+221424356,4,,Nguyễn Văn Quý,tertiary
+221424656,3,,Cầu Phú Xuân,secondary
+221424700,3,,Huỳnh Tấn Phát,secondary
+221424701,3,,Huỳnh Tấn Phát,secondary
+221429164,4,,Tân Mỹ,tertiary
+221438348,3,,Cầu Đa Khoa,secondary
+221442273,3,,Nguyễn Thị Thập,secondary_link
+221442280,3,,Nguyễn Thị Thập,secondary_link
+221491055,3,,,secondary_link
+221491863,3,,Nguyễn Thị Thập,secondary
+221915358,4,,Trần Quốc Toản,tertiary
+221950442,3,,,secondary_link
+221950443,3,,,secondary_link
+222098772,4,,Đường số 1,tertiary
+222098773,4,,Đường số 1,tertiary
+222102416,4,,,tertiary_link
+223228846,3,60,Nguyễn Văn Linh,primary_link
+223231887,4,,Hồ Văn Huê,tertiary
+223232801,1,60,Võ Chí Công,trunk
+223361849,2,,Cầu Tân Thuận 2,primary
+223508288,3,,,secondary_link
+223637314,2,,Cách Mạng Tháng Tám,primary
+223642675,4,,Đồng Đen,tertiary
+223649481,4,,Quốc lộ 1,tertiary
+223649483,1,60,Quốc lộ 1,trunk
+223649485,4,,Cầu Bến Cát 1,tertiary
+223649487,1,60,Cầu Cả Bốn 2,trunk
+223649489,4,,Quốc lộ 1,tertiary
+223660409,3,,Hà Huy Giáp,trunk_link
+223661297,3,,,trunk_link
+223663125,1,60,Quốc lộ 1,trunk
+223663130,1,,Quốc lộ 1,trunk
+223782704,3,,Cầu vượt Ngã tư Gò Dưa,secondary
+223782975,3,30,Cầu vượt Ngã tư Gò Dưa,trunk_link
+223783862,4,,Lê Văn Ninh,tertiary
+223783863,4,,Lam Sơn,tertiary
+223784065,3,,,trunk_link
+223784069,3,,Cầu vượt Ngã tư Gò Dưa,secondary
+223784360,2,,Cộng Hòa,primary
+223786457,4,,Đường A,tertiary
+223865318,4,,,tertiary_link
+223867672,3,,Võ Văn Kiệt,trunk_link
+223936861,2,,Cầu Tân Thuận 2,primary
+224445154,4,,,tertiary_link
+224445491,4,,Hoàng Sa,tertiary
+224445699,4,,Hoàng Sa,tertiary
+224445970,4,,Cầu số 8,tertiary_link
+224446258,4,,Trần Kế Xương,tertiary_link
+224446259,4,,Trần Kế Xương,tertiary_link
+224456765,4,,Kha Vạn Cân,tertiary
+224456766,4,,Kha Vạn Cân,tertiary
+224456767,4,,,tertiary_link
+224456768,4,,Kha Vạn Cân,tertiary
+224607443,1,60,Cầu vượt Ngã tư Thủ Đức,trunk
+224607444,1,80,Xa Lộ Hà Nội,trunk
+224607445,1,80,Xa Lộ Hà Nội,trunk
+224826679,3,,,secondary_link
+224826680,3,,,secondary_link
+225056510,3,,,trunk_link
+225056556,3,,,trunk_link
+225056565,1,80,Đại lộ Bình Dương,trunk
+225058625,3,,,trunk_link
+225058626,1,,Quốc lộ 13,trunk
+225058627,1,,Cầu Vĩnh Bình,trunk
+225058628,1,,Đại lộ Bình Dương,trunk
+225058630,1,80,Đại lộ Bình Dương,trunk
+225058631,1,80,Đại lộ Bình Dương,trunk
+225058865,3,,,trunk_link
+225058867,1,,Quốc lộ 13,trunk
+225058868,1,,Quốc lộ 13,trunk
+225058869,4,,Quốc lộ 1,tertiary
+225058870,2,,Quốc lộ 13,primary
+225058871,2,,Quốc lộ 13,primary
+225192389,2,50,Cách Mạng Tháng Tám,primary
+225192428,2,,Cách Mạng Tháng Tám,primary
+225192874,3,,Trường Sơn,primary_link
+225192895,2,,Cách Mạng Tháng Tám,primary
+225194826,4,,Đường đất,tertiary
+225194914,4,,,tertiary
+225194983,4,,,tertiary
+225367281,4,,Cầu Ông Đội,tertiary
+225372720,2,,Hai Bà Trưng,primary
+225756962,4,,Phú Thuận,unclassified
+225756964,4,,Cầu Phú Thuận,unclassified
+225757329,3,,Tân Phú,primary_link
+225757698,3,60,,primary_link
+225758615,2,80,Nguyễn Văn Linh,primary
+225758830,2,80,Nguyễn Văn Linh,primary
+225921220,2,60,Nguyễn Văn Linh,primary
+225922496,4,,Nguyễn Đức Cảnh,tertiary
+226183509,4,,Tân Hoà Đông,tertiary
+226185585,3,,Điện Biên Phủ,primary_link
+226203283,4,60,Nguyễn Văn Linh,tertiary
+226203284,4,60,Nguyễn Văn Linh,tertiary
+226203714,4,,,unclassified
+226262555,2,,Bạch Đằng,primary
+226262556,3,,Lê Quang Định,primary_link
+226263687,2,,Bạch Đằng,primary
+226263688,2,,Bạch Đằng,primary
+226265712,3,,Nguyễn Hữu Cảnh,primary_link
+226334527,4,,Phú Thuận,unclassified
+226334703,3,,Nguyễn Văn Quỳ,secondary_link
+226335440,3,,Cầu 15B,secondary
+226335441,3,,Cầu Ông Đội,secondary
+226337750,3,,Nguyễn Thị Thập,secondary
+226347670,3,,,primary_link
+226348429,4,,Trung Mỹ Tây 13,unclassified
+226509527,3,,Nguyễn Trọng Tuyển,primary_link
+226512043,3,,Quang Trung,primary_link
+226512044,3,,Quang Trung,primary_link
+226512046,3,,Quang Trung,primary_link
+226512568,3,,Quang Trung,primary_link
+226513023,3,,Quang Trung,primary_link
+226827648,2,,Nguyễn Hữu Thọ,primary
+226838739,4,,,unclassified
+226838741,4,,,unclassified
+226838746,4,,,unclassified
+226838747,4,,Cầu Rạch Láng Le,unclassified
+226839161,4,,Cầu Rạch Gia,tertiary
+226839162,4,,Vườn Lài,tertiary
+227076577,2,,Võ Văn Kiệt,primary
+227081061,3,,,secondary
+227081191,3,,Võ Văn Kiệt,secondary
+227081193,3,,,secondary
+227081638,3,,Võ Văn Kiệt,secondary
+227084715,3,,Võ Văn Kiệt,trunk_link
+227084972,3,,Võ Văn Kiệt,trunk_link
+227085620,3,,Võ Văn Kiệt,primary_link
+227085622,2,50,Võ Văn Kiệt,primary
+227086068,3,,Võ Văn Kiệt,trunk_link
+227090879,4,,Võ Văn Kiệt,tertiary_link
+227090885,4,,,tertiary_link
+227090886,3,,Võ Văn Kiệt,trunk_link
+227091814,3,,Võ Văn Kiệt,trunk_link
+227091815,4,,,tertiary_link
+227093471,4,,Bến Vân Đồn,tertiary
+227093472,4,,Bến Vân Đồn,tertiary
+227093473,4,,Bến Vân Đồn,tertiary
+227093474,4,,Cầu Dừa,tertiary
+227093733,4,,Bến Vân Đồn,tertiary
+227093734,4,,Cầu Nguyễn Văn Cừ,tertiary
+227244826,4,,Đường số 10,tertiary
+227249925,1,60,Cầu vượt Võ Văn Kiệt,trunk
+227447490,3,,,primary_link
+227450331,2,60,Võ Trần Chí,primary
+227520312,1,60,Cầu Sài Gòn 2,trunk
+227520319,2,,Vòng xoay Mũi Tàu,primary
+227604596,3,,Nguyễn Thị Nghĩa,primary_link
+227617287,1,80,Nguyễn Văn Linh,trunk
+227617288,4,,Nguyễn Lương Bằng,tertiary
+227620831,3,,,trunk_link
+227732368,4,,Nguyễn Tất Thành,tertiary
+227737845,4,,Hoàng Minh Giám,tertiary
+227738147,4,,Nguyễn Thái Sơn,tertiary
+227738349,3,,Quang Trung,primary_link
+227739703,2,,Nguyễn Thị Minh Khai,primary
+227742838,3,,Nguyễn Thị Minh Khai,primary_link
+227742840,4,,Cao Thắng,tertiary
+227746179,2,,Trần Hưng Ðạo,primary
+228021173,1,80,Quốc lộ 1,trunk
+228021174,2,60,Quốc lộ 1,primary
+228077597,3,,Nguyễn Văn Linh,primary_link
+228096692,3,,Quốc Lộ 50,secondary
+228096693,3,,Cầu Nhị Thiên Đường 2,secondary
+228096694,3,,Cầu Nhị Thiên Đường 1,secondary
+228096695,3,,Quốc Lộ 50,secondary
+228096696,3,,Cầu Nhị Thiên Đường 2,secondary
+228096697,3,,Quốc Lộ 50,secondary
+228325944,3,,Lê Văn Linh,primary_link
+228325946,3,,Lê Văn Linh,primary_link
+228335956,3,,,secondary_link
+228336208,3,,,secondary_link
+228358833,4,,Đường số 8,tertiary
+228359236,4,,Cầu Nguyễn Văn Cừ,tertiary
+229485690,1,60,Đường hầm sông Sài Gòn,trunk
+229485691,1,60,Đường hầm sông Sài Gòn,trunk
+230076501,3,,Trần Văn Giàu,secondary
+230076506,4,,Đường A,tertiary
+230934665,2,,Cách Mạng Tháng Tám,primary
+230934666,4,,Võ Văn Tần,tertiary
+230934667,2,,Cách Mạng Tháng Tám,primary
+230935039,2,,Nguyễn Thị Minh Khai,primary
+230935041,2,,Cách Mạng Tháng Tám,primary
+231042714,4,,Hồ Văn Long,unclassified
+231045738,4,,Số 7,tertiary
+231045827,4,,Đường số 4,unclassified
+231052867,3,,,secondary_link
+231053171,3,,Nguyễn Thị Thập,secondary_link
+231879310,2,60,Cầu Kênh 1,primary
+231879311,2,60,Võ Trần Chí,primary
+231879312,2,60,Cầu Kênh 1,primary
+231879435,2,60,Cống Cái Trung,primary
+231879436,2,60,Võ Trần Chí,primary
+231879437,2,60,Cống Cái Trung,primary
+231879443,2,60,Cầu Kênh 10,primary
+231879444,2,60,Võ Trần Chí,primary
+231879445,2,60,Cầu Kênh 10,primary
+231879446,2,60,Võ Trần Chí,primary
+231879516,4,,Cầu Cái Tâm,tertiary
+231977547,2,,Quang Trung,primary
+231978076,3,,Đinh Tiên Hoàng,secondary
+231981989,2,,Xô Viết Nghệ Tĩnh,primary
+231981990,2,,Xô Viết Nghệ Tĩnh,primary
+231982479,2,,Xô Viết Nghệ Tĩnh,primary
+231983062,2,,Nguyễn Thị Minh Khai,primary
+231983063,2,,Cầu Thị Nghè,primary
+231983437,3,,,primary_link
+231983460,4,,Đinh Tiên Hoàng,tertiary
+232401644,2,,Cầu vượt Cộng Hòa - Hoàng Hoa Thám,primary
+232497858,2,,Nguyễn Tất Thành,primary
+232504352,4,,Phan Xích Long,tertiary_link
+232504353,4,,Phan Xích Long,tertiary_link
+232504355,4,,Phan Xích Long,tertiary
+232542166,3,,Nguyễn Hữu Thọ,secondary
+232542188,4,,Đào Trí,unclassified
+232595316,2,,Trường Chinh,primary
+232595317,2,,Trường Chinh,primary
+232601779,3,,Nguyễn Xiển,secondary
+232601780,3,,Nguyễn Xiển,secondary
+232601781,3,,Nguyễn Xiển,secondary
+232604863,4,,,unclassified
+233001258,4,,Bến Mễ Cốc,unclassified
+233001259,4,,Bến Mễ Cốc,tertiary
+233001262,4,,Cầu Gò Công,tertiary
+233001264,4,,Lưu Hữu Phước,unclassified
+233001265,4,,Lưu Hữu Phước,unclassified
+233001268,2,,Tôn Ðức Thắng,primary
+233001270,4,,Xóm Củi,tertiary
+233001271,4,,Xóm Củi,tertiary
+233001287,4,,,tertiary
+233001289,4,,Bến Mễ Cốc,tertiary
+233001290,4,,,tertiary
+233084345,2,,,primary
+233084704,4,,Cầu Sa,unclassified
+233084705,4,,Lê Thị Hà,unclassified
+233085925,4,,Đặng Công Bỉnh,tertiary
+233101472,4,,Vtt,unclassified
+233101476,4,,Phạm Thái Bường,tertiary
+233101480,3,,Nguyễn Bình,secondary
+233101485,4,,Nguyễn Bình,tertiary
+233101487,4,,,tertiary
+233101490,4,,,tertiary
+233101493,4,,Nguyễn Bình,tertiary
+233101502,4,,Nguyễn Bình,tertiary
+233468795,4,,Nguyễn Xí,tertiary
+233468796,4,,Nguyễn Xí,tertiary
+233469173,3,,Đinh Bộ Lĩnh,primary_link
+233470083,4,,,unclassified
+233470085,2,,Cầu Ông Dầu,primary
+233470087,2,,Quốc lộ 13,primary
+233470089,3,,,primary_link
+233470090,2,,Quốc lộ 13,primary
+233471184,3,,,primary_link
+233471185,2,,Quốc lộ 13,primary
+233471186,2,,Cầu Đúc Nhỏ,primary
+233471358,4,,Quốc lộ 1,tertiary
+233471359,4,,Cầu Bình Phước 2,tertiary
+234508246,3,,,trunk_link
+234901525,3,,Nguyễn Hữu Trí,secondary
+234901526,3,,Nguyễn Hữu Trí,secondary
+234901529,1,80,Quốc lộ 1,trunk
+234901530,1,80,Cầu,trunk
+234901532,1,80,Cầu,trunk
+234901534,4,,Tân Long,tertiary
+234901539,4,,Tân Long,tertiary
+234919083,4,,Đường số 41,unclassified
+234919086,4,,Đường số 51,unclassified
+235082397,1,60,Xa Lộ Hà Nội,trunk
+235083025,1,60,Mai Chí Thọ,trunk
+235240682,3,,,primary_link
+235240683,2,,Cầu vượt Cộng Hòa - Hoàng Hoa Thám,primary
+235240684,3,,,primary_link
+235283467,2,,3 Tháng 2,primary
+235399808,3,,Lê Đại Hành,secondary
+235399809,3,,,secondary_link
+235399810,3,,,secondary_link
+235400036,3,,Vòng xoay Lê Đại Hành,secondary
+235400665,3,,Tạ Uyên,primary_link
+235400668,3,,Lê Đại Hành,primary_link
+235401054,3,,3 Tháng 2,primary_link
+235401058,2,,3 Tháng 2,primary
+235402133,2,,Cầu vượt Cây Gõ,primary
+235402136,2,,Cầu vượt Cây Gõ,primary
+235402138,2,,Cầu vượt Cây Gõ,primary
+235914034,4,,Trần Văn Giàu,tertiary
+235914036,4,,Đường A,tertiary
+235914374,4,,Cầu vượt Tân Tạo,tertiary
+235914375,4,,Trần Văn Giàu,tertiary
+235914462,4,,,unclassified
+235914464,4,,,tertiary_link
+235914465,4,,,tertiary_link
+236355915,4,,,unclassified
+236356166,4,,Số 7,tertiary
+236356261,4,,Vành Đai Trong,tertiary
+236357050,3,,,trunk_link
+236357051,3,,,trunk_link
+236357190,1,40,Võ Chí Công,trunk
+236357191,1,40,Võ Chí Công,trunk
+236357192,1,40,Võ Chí Công,trunk
+236357195,1,40,Cầu Bà Cua,trunk
+236361423,4,,Liên phường,tertiary
+236361431,4,,Liên phường,tertiary
+236502610,1,50,Xa Lộ Hà Nội,trunk
+236507166,4,,Đại Lộ III,tertiary
+236507218,4,,,tertiary_link
+236507219,4,,,tertiary
+236668374,4,,Cầu vượt Tân Tạo,tertiary
+236668526,4,,Đường A,tertiary
+236668675,3,,Đường A,trunk_link
+236676480,4,,Số 54,tertiary
+237480053,2,,Cộng Hòa,primary
+238522050,4,,Hương Lộ 2,tertiary
+238522098,3,,,secondary
+238522099,3,50,,secondary_link
+238522291,1,60,Cầu An Phú Đông 2,trunk
+238522292,1,60,Quốc lộ 1,trunk
+238522293,1,60,Quốc lộ 1,trunk
+238522294,1,60,Cầu Ga 1B,trunk
+238812965,4,,Quốc lộ 1,tertiary
+238812966,4,,Cầu Cả Bốn 1,tertiary
+238812967,4,,,tertiary
+238812968,4,,Cầu Rạch Sâu 1,tertiary
+238813135,4,,,tertiary
+238813136,4,,,tertiary
+238813137,4,,,tertiary
+238813138,3,,,primary_link
+238813139,2,,Nguyễn Oanh,primary
+238813141,4,,,tertiary
+238813142,2,,Hà Huy Giáp,primary
+238813261,2,,Cầu An Lộc,primary
+238813264,3,,,primary_link
+238813270,2,,Hà Huy Giáp,primary
+238813287,3,,,trunk_link
+238916053,4,,Hà Huy Giáp,tertiary
+238916054,4,,Hà Huy Giáp,tertiary
+238916055,4,,Hà Huy Giáp,tertiary
+238916197,2,,Cầu vượt Ngã Tư Ga,primary
+238916198,2,,Hà Huy Giáp,primary
+238916259,3,,Hà Huy Giáp,primary_link
+238916260,4,,Hà Huy Giáp,tertiary
+238916263,4,,Cầu Ga 2,tertiary
+239030906,3,,Dương Bá Trạc,primary_link
+239030907,2,,Dương Bá Trạc,primary
+239031052,2,,Dương Bá Trạc,primary
+239031059,2,,Dương Bá Trạc,primary
+239031136,2,,Dương Bá Trạc,primary
+239031344,2,,Dương Bá Trạc,primary
+239031345,3,,Dương Bá Trạc,primary_link
+239031346,2,,Cầu Kênh Xáng,primary
+239157292,2,,Vòng xoay Ngã Sáu Nguyễ Thái Sơn,primary
+239382940,3,,,primary_link
+240891790,3,,Nguyễn Văn Linh,trunk_link
+240891811,3,,Nguyễn Văn Linh,primary_link
+240901845,4,,Quang Trung,unclassified
+240901849,3,,Quang Trung,primary_link
+241071319,4,,Xóm Chiếu,unclassified
+241204939,4,,Đường B,unclassified
+241578431,3,,Tân Kỳ Tân Quý,secondary
+241738593,3,,Phạm Văn Đồng,secondary
+241738685,3,60,Phạm Văn Đồng,secondary
+241738912,2,40,Phạm Văn Đồng,primary
+241738913,2,40,Cầu Rạch Lăng,primary
+241738915,3,40,Phạm Văn Đồng,secondary
+241738917,3,40,Cầu Bình Lợi,secondary
+241738918,2,40,Phạm Văn Đồng,primary
+241738919,3,,Đường số 20,secondary
+241738920,2,40,Cầu Rạch Lăng,primary
+241998044,2,,Trường Chinh,primary
+241998145,4,,Lạc Long Quân,tertiary
+241999057,4,,Bảy Hiền,tertiary
+241999188,4,,Bàu Cát ,tertiary_link
+241999189,4,,Bàu Cát,tertiary
+241999190,4,,Bàu Cát,tertiary
+241999191,4,,Bàu Cát ,tertiary_link
+241999537,4,,Phạm Phú Thứ,tertiary
+242003621,4,,Lạc Long Quân,tertiary
+242003622,3,,Âu Cơ,secondary_link
+242003623,3,,Âu Cơ,secondary
+242003625,3,,Lạc Long Quân,secondary_link
+242003626,4,,Lạc Long Quân,tertiary
+242003631,3,,Âu Cơ,secondary_link
+242007102,4,,Đường số 1,tertiary
+242014077,3,,Trần Não,secondary
+242172118,3,,,primary_link
+242172376,3,,,primary_link
+242172381,2,,Nguyễn Thái Sơn,primary
+242172562,2,,Nguyễn Tất Thành,primary
+242172563,2,,Nguyễn Tất Thành,primary
+242174439,4,,Đường số 20,unclassified
+242174801,4,,,unclassified
+242179160,2,40,Quốc Lộ 50,primary
+242307736,3,,,primary_link
+242307849,4,,Thành Thái,tertiary
+242307851,4,,Thành Thái,tertiary
+242307852,4,,Thành Thái,tertiary_link
+242309084,2,,Lý Thái Tổ,primary
+242554271,4,,Kênh Nước Đen,unclassified
+242554274,4,,Kênh Nước Đen,unclassified
+242554699,4,,Hiền Vương,tertiary
+242554735,4,,Đường số 3,unclassified
+242554737,4,,Đường số 8,unclassified
+242554941,4,,,tertiary
+242555431,3,,Tỉnh Lộ 10,secondary
+242555484,3,,,secondary_link
+242555485,3,,Trần Văn Giàu,secondary
+242555486,3,,,secondary_link
+242555487,3,,,secondary_link
+242555488,3,,,secondary_link
+242555809,3,,Cầu Bà Lát,secondary
+242555810,4,,Láng Le Bàu Cò,tertiary
+244010160,3,,Nguyễn Hữu Thọ,secondary
+244010161,3,,Nguyễn Hữu Thọ,secondary
+244010162,3,,Nguyễn Hữu Thọ,secondary
+244791388,3,,,primary_link
+245571623,4,,Lê Lai,tertiary
+245572262,4,,,tertiary_link
+245572768,4,,Nguyễn Lương Bằng,tertiary
+245572769,4,,Nguyễn Lương Bằng,tertiary
+249389138,4,,Cầu Phú Định,tertiary
+249389139,4,,Phú Định,tertiary
+251731298,4,,Cầu Số 6,tertiary_link
+251731299,4,,Cầu Số 6,tertiary_link
+251731300,4,,Cầu Số 7,tertiary_link
+251731301,4,,Cầu Số 7,tertiary_link
+253275100,4,,Tân Thuận,unclassified
+253275186,3,,Cộng Hoà,primary_link
+254032690,3,,Hậu Giang,secondary
+255646387,2,,Cộng Hòa,primary
+255646388,2,,Cộng Hòa,primary
+255646389,2,,Cộng Hòa,primary
+255646390,2,,Cộng Hòa,primary
+255646465,2,,Cộng Hòa,primary
+255870458,2,,Quang Trung,primary
+255870459,2,,Quang Trung,primary
+255873640,1,,Vòng xoay Nguyễn Duy Trinh,trunk
+255873687,2,40,Vòng xoay,primary
+255873688,2,50,Võ Chí Công,primary
+255873689,4,,Liên phường,tertiary
+255873690,3,40,Võ Chí Công,secondary
+255873915,3,40,,motorway_link
+255873916,3,40,,motorway_link
+255873921,3,,,primary_link
+256399334,2,60,Nguyễn Văn Linh,primary
+256404531,3,,Hương Lộ 3,secondary
+256404568,4,,Thạch Lam,tertiary
+256404572,4,,Nguyễn Lý,tertiary
+256404573,4,,Lê Quang Chiểu,unclassified
+256453281,3,,Lê Trọng Tấn,secondary
+256453282,3,,Lê Trọng Tấn,secondary
+256453283,3,,Lê Trọng Tấn,secondary
+256453284,3,,Lê Trọng Tấn,secondary
+256453288,3,,Lê Trọng Tấn,secondary
+256453313,3,,An Dương Vương,secondary
+256582301,4,,Đường số 5F,unclassified
+256582308,4,,Đường số 5D,unclassified
+256582317,3,,Phan Anh,secondary
+256582322,4,,Lê Văn Quới,tertiary
+256582336,4,,Hẻm 124 đường số 14,unclassified
+256582344,4,,Miếu Bình Đông,unclassified
+256667238,4,,Thảo Điền,tertiary
+256668177,4,,Nguyễn Văn Hưởng,tertiary
+257394825,2,,Cách Mạng Tháng Tám,primary
+257727327,4,,Trung Mỹ Tây 2A,unclassified
+257727565,4,,Nguyễn Thị Sóc,tertiary
+257727566,4,,,unclassified
+258125566,4,,Đường số 836,unclassified
+258467249,3,40,Trần Văn Trà,secondary
+258467250,3,40,Tôn Đức Thắng,secondary
+258853454,2,60,Nguyễn Văn Linh,primary
+260243381,1,40,Võ Chí Công,trunk
+260243382,1,40,Cầu Kỳ Hà 3,trunk
+260243383,3,40,Hầm chui Mỹ Thủy,secondary
+260243384,3,40,Cầu Kỳ Hà 3,secondary
+260604763,2,,Quang Trung,primary
+260604791,3,,,secondary_link
+260604797,3,,,secondary_link
+260629984,3,,Quốc lộ 1,trunk_link
+260629985,4,,Quốc lộ 1,tertiary
+260779464,4,,Lê Đức Thọ,tertiary
+260948042,4,,Bưng Ông Thoàn,tertiary
+260948043,4,,Bưng Ông Thoàn,tertiary
+260948044,4,,Cầu Huyện Thanh,tertiary
+260948045,4,,Nguyễn Duy Trinh,tertiary
+260948048,4,,Liên phường,tertiary
+260948051,4,,Liên phường,tertiary
+260982113,1,80,Nguyễn Văn Linh,trunk
+260982115,1,80,Nguyễn Văn Linh,trunk
+261043927,4,,,tertiary
+261043928,4,,,tertiary
+261043929,4,,,unclassified
+261043930,4,,,unclassified
+261043941,4,,,unclassified
+261043948,4,,,unclassified
+261043954,3,,D1,secondary
+261043955,3,,D1,secondary
+261043956,3,,D1,secondary
+261043957,3,,D1,secondary
+261043958,3,,D1,secondary
+261043959,3,,D1,secondary
+261058536,4,,Cầu Calmette,tertiary
+261058540,4,,Cầu Calmette,tertiary
+261060427,4,,Lương Định Của,tertiary
+262075550,4,,,unclassified
+262285754,4,,Trần Não,tertiary
+262312347,2,60,Nguyễn Văn Linh,primary
+262488556,3,,Nguyễn Thị Thập,secondary
+262488557,2,70,Nguyễn Văn Linh,primary
+262618940,4,,Đường dẫn sảnh ga đi quốc tế,tertiary
+262725645,4,,Đường dẫn sảnh đến Quốc tế,tertiary
+262844399,4,,Đường An Phú Tây - Hưng Long,tertiary
+262844400,4,,An Phú Tây - Hưng Long,tertiary
+262844414,4,,Đường T11,unclassified
+262844417,4,,Bờ Huệ,unclassified
+262844418,4,,,unclassified
+262844420,4,,Đường Chùa,unclassified
+262844444,4,,,unclassified
+262844445,4,,,unclassified
+262844471,4,,Đường An Phú Tây - Hưng Long,tertiary
+262844474,4,,Bờ Huệ,unclassified
+262844478,4,,Đường T11,unclassified
+262844503,4,,,unclassified
+262844509,4,,,unclassified
+262844511,4,,,unclassified
+262844516,4,,,unclassified
+262844517,4,,Đường An Phú Tây - Hưng Long,tertiary
+262844519,4,,Đường An Phú Tây - Hưng Long,tertiary
+262844524,4,,,unclassified
+262844525,4,,,unclassified
+262844530,4,,Đường Liên ấp 2 3 4,unclassified
+262844535,4,,,unclassified
+262844538,4,,Bờ Huệ,unclassified
+262891158,4,,,unclassified
+262891167,4,,,unclassified
+262891182,4,,,unclassified
+262891189,4,,,unclassified
+262891195,4,,,unclassified
+262891290,4,,,unclassified
+262891291,4,,,unclassified
+262891356,4,,,unclassified
+262954948,4,,,unclassified
+263054098,3,40,Quách Thị Trang,secondary
+263054105,3,40,Lý Thái Tổ,secondary
+263171045,4,,,unclassified
+263171046,4,,,unclassified
+263546200,4,,,tertiary_link
+263546202,4,,,tertiary_link
+263546207,4,,,tertiary_link
+263546209,4,,,tertiary_link
+263643126,3,,,trunk_link
+264100066,4,,Tân Long,tertiary
+264100080,4,,,unclassified
+264100086,4,,,unclassified
+264100091,4,,,unclassified
+264100095,4,,Tân Liễu,unclassified
+264100117,4,,,unclassified
+264160514,3,,Trần Văn Giàu,secondary
+265571215,4,,Tân Sơn,tertiary
+266066568,4,,Bùi Hữu Nghĩa,tertiary
+266769168,2,,Cách Mạng Tháng Tám,primary
+266773020,2,60,Võ Trần Chí,primary
+266773021,2,60,Võ Trần Chí,primary
+266773022,2,60,Cầu Kênh 2,primary
+266773023,2,60,Cầu Kênh 2,primary
+267371262,4,,Tây Thạnh,tertiary
+267371263,4,,Tây Thạnh,tertiary
+267600144,3,,Phạm Hùng,primary_link
+273472835,4,,,unclassified
+274897469,4,,Trần Đại Nghĩa,tertiary
+274897470,4,,Trần Đại Nghĩa,tertiary
+276782077,2,,Nguyễn Kiệm,primary
+277769849,3,,,secondary_link
+277769850,3,,,secondary_link
+281498913,2,60,Hầm chui,primary
+281498914,2,60,Võ Trần Chí,primary
+281498915,2,60,Võ Trần Chí,primary
+281498917,2,60,Võ Trần Chí,primary
+281498918,2,60,Cầu Kênh 4,primary
+281498919,2,60,Hầm chui,primary
+281498920,2,60,Cầu Kênh 4,primary
+281498921,2,60,Võ Trần Chí,primary
+281499541,2,60,Võ Trần Chí,primary
+281501181,3,,,primary_link
+282842568,4,,Tân Thới Nhất 6,unclassified
+282843036,3,40,,trunk_link
+283065577,4,,,unclassified
+283065578,4,,Ba Diểm 9,unclassified
+283066026,3,,Nguyễn Ảnh Thủ,secondary
+283066165,4,,Bà Diem 10,unclassified
+283066461,4,,,unclassified
+283276175,4,,Đông Hưng Thuận 2,unclassified
+283276826,4,,,unclassified
+283299745,4,,,unclassified
+285894645,4,,Phạm Ngũ Lão,tertiary
+286258507,4,,Cầu Nguyễn Văn Cừ,tertiary
+286258508,2,,Nguyễn Thái Học,primary
+286278358,4,,Cầu Calmette,tertiary
+286282191,4,,Phạm Ngũ Lão,tertiary
+286282880,2,60,Nguyễn Văn Linh,primary
+286282881,3,,Nguyễn Lương Bằng,secondary
+286282882,3,60,Nguyễn Văn Linh,primary_link
+286282883,3,,Nguyễn Lương Bằng,secondary
+286284832,3,,,trunk_link
+286284833,3,,,trunk_link
+286284834,3,,,trunk_link
+286284835,3,,,trunk_link
+286284836,2,40,Mai Chí Thọ,primary
+286309527,3,,Phạm Văn Đồng,secondary
+286342037,4,,Nơ Trang Long,tertiary
+286342038,4,,Phan Văn Trị,tertiary
+286342039,4,,Lê Quang Định,tertiary
+286342040,4,,Nơ Trang Long,tertiary
+286342043,4,,Lê Quang Định,tertiary
+286342051,4,,Lê Quang Định,tertiary
+287982008,4,,Nguyễn Thiện Thuật,tertiary
+287994942,4,,Cầu Thầy Tiêu 2,tertiary
+288732438,2,,Nguyễn Thị Minh Khai,primary
+288732439,2,,Nguyễn Thị Minh Khai,primary
+288733871,3,,Quốc lộ 1,trunk_link
+288734275,4,,Tân Thới Nhất 8,tertiary
+288734278,4,,Tân Thới Nhất 2,unclassified
+289315110,4,,Đường Liên khu 4-5,tertiary
+289321635,4,,Hồ Văn Long,unclassified
+289858043,4,,Đường N,unclassified
+289858044,4,,Tôn Dật Tiên,unclassified
+289862304,4,,Trần Phú,tertiary
+289862494,2,,Nguyễn Tri Phương,primary
+289862908,3,,Nguyễn Tri Phương,secondary
+289880836,4,,Đường N,unclassified
+289935189,4,,Trần Văn Trà,tertiary
+289941978,3,,,trunk_link
+289941979,3,,,trunk_link
+289968625,3,,Nguyễn Trãi,secondary
+289968627,4,,Cống Quỳnh,tertiary
+290134789,3,,,trunk_link
+290242869,4,,,tertiary
+290247566,4,,Đường D4,tertiary
+290307107,4,,,unclassified
+290307108,4,,,unclassified
+290307109,4,,,unclassified
+290318808,4,,,tertiary
+290318811,4,,,tertiary
+290326848,4,,,unclassified
+290326849,4,,,unclassified
+290326850,4,,,unclassified
+290403928,1,50,Xa Lộ Hà Nội,trunk
+290403929,1,60,Xa Lộ Hà Nội,trunk
+290403930,1,,Quốc lộ 1,trunk
+290409207,2,,Cầu Tân Thuận 2,primary
+290474064,2,60,Cầu Kênh 9,primary
+290474065,2,60,Cầu Kênh 8,primary
+290474066,2,60,Cầu Kênh 8,primary
+290474067,2,60,Võ Trần Chí,primary
+290474068,2,60,Đường dẫn vào Cao tốc Trung Lương,primary
+290474069,2,60,Cầu Kênh 9,primary
+290474070,2,60,Đường dẫn vào Cao tốc Trung Lương,primary
+290474072,2,60,Võ Trần Chí,primary
+290474223,2,60,Võ Trần Chí,primary
+290474224,2,60,Cầu Kênh 7,primary
+290474225,2,60,Võ Trần Chí,primary
+290474226,2,60,Cầu Kênh 7,primary
+290474254,2,60,Đường dẫn vào Cao tốc Trung Lương,primary
+290474256,2,60,Cầu Kênh 5,primary
+290474257,2,60,Cầu Kênh 5,primary
+290474258,2,60,Võ Trần Chí,primary
+290474579,4,,Lê Ngung,unclassified
+290474918,4,,Ao Đôi,tertiary
+290487272,3,45,Cầu vượt Thủ Đức,trunk_link
+290487273,3,45,Cầu vượt Trạm 2,trunk_link
+290570867,4,,Lê Thị Hoa,tertiary
+290621633,2,60,Võ Trần Chí,primary
+290622134,1,60,TP Hồ Chí Minh - Trung Lương,trunk
+290631785,4,,Đường GS1,tertiary
+290725739,4,,,unclassified
+290725740,4,,,unclassified
+290725741,4,,,unclassified
+290725745,4,,,unclassified
+290783064,4,,,unclassified
+291267136,3,,Đường tỉnh 743,secondary
+291270741,4,,,tertiary
+291272987,4,,Đường số 3,unclassified
+291272992,4,,Đường số 2,tertiary
+291272994,4,,Đường số 2,tertiary
+291272995,4,,Đường số 4,unclassified
+291445892,4,,,tertiary
+291445896,4,,,tertiary
+291445897,4,,,tertiary
+291673397,3,,,primary_link
+291673398,3,,,trunk_link
+291782557,4,,Đường số 6,unclassified
+291782558,4,,Nguyễn Viết Xuân,unclassified
+291782561,4,,,unclassified
+291782600,4,,Tam Bình,tertiary
+291854229,4,,Hẻm 341 Lạc Long Quân,unclassified
+291963280,4,,,unclassified
+292072052,4,,Nguyễn Xiển,tertiary
+292256777,4,,Kênh 10,unclassified
+292256778,4,,,unclassified
+292256821,2,60,Võ Trần Chí,primary
+292256823,2,60,Cống Mỹ Phú,primary
+292256824,2,60,Võ Trần Chí,primary
+292256825,2,60,Cống Mỹ Phú,primary
+292839299,4,,Đường số 6,tertiary
+292986688,3,40,,secondary
+292986693,3,,Phạm Văn Đồng,secondary
+292986695,3,,,primary_link
+292986696,3,,,primary_link
+292986700,3,,Phạm Văn Đồng,secondary
+292987404,4,80,Đường ven hồ trung tâm,tertiary
+292987405,4,,,unclassified
+292987407,3,,,trunk_link
+293225656,4,,Nguyễn Văn Nghi,tertiary
+293227111,3,,Cầu vượt Ngã tư Gò Dưa,trunk_link
+293227112,3,,,trunk_link
+293227114,3,30,Cầu vượt Ngã tư Gò Dưa,trunk_link
+294021800,1,120,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+294021802,1,120,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+294021803,1,60,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+294021804,1,,Đường Cao tốc Tp. Hồ Chí Minh-Long Thành-Dầu Giây,motorway
+294021805,1,120,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+296122572,3,,Thành Thái,secondary
+296122573,4,,Thành Thái,tertiary
+296122574,3,,Thành Thái,primary_link
+296122918,3,,,primary_link
+296377015,4,,Raymondienne,unclassified
+297309165,2,,Hoàng Văn Thụ,primary
+297556807,3,,,primary_link
+297560391,4,,Trường Sa,tertiary
+297560392,4,,Trường Sa,tertiary
+298026950,3,,,secondary
+298027205,3,,Hương lộ 10,secondary
+298742973,1,60,Mai Chí Thọ,trunk
+299283958,3,,Quốc lộ 1,trunk_link
+299290551,3,,Nhánh C2,motorway_link
+299290552,3,,Nhánh C2,motorway_link
+299290553,3,40,Nhánh C1,motorway_link
+299473659,4,,Hoàng Diệu,unclassified
+299473662,2,,Hoàng Diệu,primary
+299682436,4,,Đường D2,unclassified
+299683605,1,80,Đường Cao tốc Tp. Hồ Chí Minh-Long Thành-Dầu Giây,motorway
+299948213,4,,Tân Vĩnh,unclassified
+299948216,4,,Tân Vĩnh,unclassified
+299949180,4,,Nguyễn Hữu Hào,unclassified
+301604271,3,,,secondary_link
+301663376,4,,,tertiary
+301743565,3,30,,trunk_link
+302368821,4,,,tertiary_link
+302368843,4,,,tertiary_link
+302853939,4,,Cầu Đỏ,tertiary
+302854589,4,,Trần Quang Khải,tertiary
+302854713,2,,Nam Kỳ Khởi Nghĩa,primary
+303164336,2,,Lý Thường Kiệt,primary
+303710158,4,,,tertiary_link
+303710159,3,,,primary_link
+303710160,3,,,primary_link
+303726063,4,30,Kênh Tân Hoá,tertiary
+303754188,4,,Võ Văn Tần,tertiary
+303754189,4,,Nguyễn Ðình Chiểu,tertiary
+303754190,4,,Võ Văn Tần,tertiary
+304359231,4,,,tertiary
+304360839,4,,Nguyễn Thị Nhỏ,tertiary
+304360842,4,,Nguyễn Thị Nhỏ,tertiary
+304435213,4,,Thống Nhất,tertiary
+304468398,4,,,unclassified
+304468617,3,,Cầu Tân Thuận 2,primary_link
+304468618,2,70,Nguyễn Văn Linh,primary
+305381970,4,,Đường số 16,unclassified
+305402843,4,,Kha Vạn Cân,tertiary
+305402846,4,,Kha Vạn Cân,tertiary
+305402847,4,,Hiệp Bình,tertiary
+306072865,2,,Tôn Ðức Thắng,primary
+306073177,1,50,Cầu Sài Gòn 1,trunk
+306073178,2,50,Cầu Sài Gòn 1,primary
+306073179,1,60,Cầu Sài Gòn 2,trunk
+306073180,2,60,Cầu Sài Gòn 2,primary
+306130120,3,,Nhánh C2,motorway_link
+306641038,2,,Hai Bà Trưng,primary
+307664812,2,60,Võ Trần Chí,primary
+307664813,2,60,Cầu Kênh 6,primary
+307664814,2,60,Cầu Kênh 6,primary
+307664816,2,60,Võ Trần Chí,primary
+307669097,4,,Số 10,unclassified
+307745725,2,,Nguyễn Oanh,primary
+308451238,3,,,primary_link
+308479601,4,,,unclassified
+308479629,4,,,unclassified
+309091600,4,,,tertiary
+309569628,4,,,unclassified
+309569638,4,,,unclassified
+309579663,4,,,tertiary
+310900571,4,,Đường số 26,tertiary
+311378702,2,,Vòng xoay,primary
+311378706,4,,Phan Văn Trị,tertiary
+311687973,1,120,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+311688116,1,80,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+311688117,1,60,Đường Cao tốc Tp. Hồ Chí Minh-Long Thành-Dầu Giây,motorway
+312016073,4,,Trường Sa,tertiary
+312160890,3,,,secondary_link
+312371747,1,80,Cầu vượt Hương lộ 2,trunk
+312371748,1,80,Cầu vượt Hương lộ 2,trunk
+312917607,4,,,unclassified
+312917608,4,,,unclassified
+312917609,4,,,unclassified
+312918511,4,,,unclassified
+312918512,4,,,unclassified
+312918513,4,,,unclassified
+314200398,3,40,Nguyễn Văn Linh,primary_link
+315564842,2,,Hoàng Văn Thụ,primary
+315635807,4,,,unclassified
+315658194,2,,Cầu Phú Long,primary
+315658210,2,,Cầu Phú Long,primary
+315658232,4,,Thạnh Lộc 29,tertiary
+315658247,2,,,primary
+315658252,2,,,primary
+315718671,2,,Cầu Trùm Bích,primary
+315718672,2,,Hà Huy Giáp,primary
+315718690,4,,Thạnh Lộc 29,unclassified
+315718700,4,,Thạnh Lộc 29,unclassified
+315718744,4,,Thạnh Lộc 30,unclassified
+315886649,4,,Xuân Thới 3,unclassified
+315886652,4,,,unclassified
+315886659,4,,,unclassified
+315886662,4,,,unclassified
+315886669,4,,Xuân Thới Thuượng 7,unclassified
+315886702,4,,,unclassified
+315886704,4,,,tertiary
+315886728,4,,BÀ Diểm 3,unclassified
+315886733,4,,,unclassified
+315886742,4,,,unclassified
+315886762,4,,,unclassified
+315886776,4,,,unclassified
+315886780,4,,Hậu Lân - Bà Diểm,unclassified
+315886782,4,,,unclassified
+315886785,4,,,unclassified
+315886799,4,,,unclassified
+315899291,4,,,tertiary
+315899292,4,,,tertiary
+315899293,4,,,tertiary
+315899295,3,,,secondary_link
+315899296,4,,,tertiary
+315899297,3,,,secondary_link
+315899299,3,,,secondary_link
+315899300,3,,,secondary
+315899301,4,,,tertiary
+315899302,4,40,,tertiary
+315899303,4,,,tertiary
+315899305,4,,,tertiary
+315899308,3,,D2,secondary
+316618619,2,,Nguyễn Hữu Thọ,primary
+316618666,2,,Nguyễn Hữu Thọ,primary
+316618923,3,,Nguyễn Lương Bằng,secondary
+317064968,4,,,tertiary
+317158381,3,60,Nhánh B1A,motorway_link
+317200050,1,80,Mai Chí Thọ,trunk
+317200051,1,40,Mai Chí Thọ,trunk
+317200052,1,60,Mai Chí Thọ,trunk
+317314468,4,,Phú Thuận,unclassified
+317314469,3,,Huỳnh Tấn Phát,secondary
+317348793,3,,,secondary_link
+317348794,3,,,secondary_link
+318026807,4,,Trần Huy Liệu,tertiary
+318034466,3,,Nhánh A2,motorway_link
+318079306,3,60,Nhánh B1,motorway_link
+318079823,1,80,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+318170833,3,,Nhánh B2,motorway_link
+318180350,2,40,Mai Chí Thọ,primary
+318180351,1,60,Mai Chí Thọ,trunk
+318180352,2,50,Mai Chí Thọ,primary
+318212119,3,,Nhánh B2,motorway_link
+318212123,1,80,Đường Cao tốc Tp. Hồ Chí Minh-Long Thành-Dầu Giây,motorway
+318273451,4,,,unclassified
+318273453,4,,,unclassified
+319309752,4,,Nguyễn Thông,unclassified
+319790115,2,,Cầu vượt Lý Thái Tổ - Nguyễn Tri Phương,primary
+320164938,4,,Trường Sa,tertiary
+320379105,4,,Lê Thánh Tôn,tertiary
+320379106,4,,Lê Thánh Tôn,tertiary
+320897201,3,,Nhánh D2,motorway_link
+320897717,3,,X5,motorway_link
+320897719,3,,X4,motorway_link
+320897720,1,60,Đường cao tốc Tp. Hồ Chí Minh-Long Thành-Dầu Giây,motorway
+320897721,3,60,Nhánh A2,motorway_link
+320897724,3,,Nhánh B2,motorway_link
+321568283,3,,,trunk_link
+322142359,2,,Cầu vượt Lăng Cha Cả,primary
+322191373,1,80,Xa Lộ Hà Nội,trunk
+322875685,4,,Tô Ngọc Vân,tertiary
+322875688,4,,,unclassified
+322875716,4,,Thạnh Lộc 43,unclassified
+322876364,4,,,unclassified
+322879711,4,,,unclassified
+322879723,4,,,unclassified
+322993689,4,,,unclassified
+322993691,4,,,unclassified
+322993695,4,,,unclassified
+322993705,4,,,unclassified
+322993709,3,,,trunk_link
+322993714,4,,,unclassified
+323050271,4,,,tertiary
+323397719,2,,Tôn Ðức Thắng,primary
+323398643,1,60,Nhánh A1,motorway
+323398644,3,,Nhánh B2,motorway_link
+325369869,2,,Nguyễn Hữu Cảnh,primary
+326770976,3,,Nguyễn Trãi,secondary
+326770977,4,,Lê Lai,tertiary
+326770978,2,,Trần Hưng Ðạo,primary
+326770982,3,,Hàm Nghi,secondary
+326770983,4,,Pasteur,tertiary
+326770986,2,,Pasteur,primary
+326770989,4,,Quốc lộ 1,tertiary
+326770991,1,60,Cầu vượt Linh Xuân,trunk
+326770992,1,60,Cầu vượt Linh Xuân,trunk
+326770994,1,60,Quốc lộ 1,trunk
+326770995,1,60,Quốc lộ 1,trunk
+326770998,4,,,tertiary
+326771000,4,,Quốc lộ 1,tertiary
+326771002,4,,Dương Văn Cam,tertiary
+326771003,2,50,Điện Biên Phủ,primary
+326771004,4,,Nguyễn Bỉnh Khiêm,tertiary
+326771005,4,,Nguyễn Ðình Chiểu,tertiary
+326771006,4,,Nam Kỳ Khởi Nghĩa,tertiary
+326771007,4,,Nam Kỳ Khởi Nghĩa,tertiary
+326772491,4,,Hàm Nghi,tertiary
+326846278,4,,Cầu Calmette,tertiary
+326848001,3,40,Châu Văn Liêm,secondary
+326848004,2,,Công Trường Mê Linh,primary
+326848005,2,,Công Trường Mê Linh,primary
+326848006,2,,Hai Bà Trưng,primary
+326848007,3,,Hàm Nghi,secondary
+326848009,4,,Lê Lợi,tertiary
+326848010,4,,Lê Lợi,tertiary
+326848017,4,,Nguyễn Trãi,tertiary
+326848021,4,,Phó Ðức Chính,tertiary
+326848022,4,,Phó Ðức Chính,tertiary
+326848024,4,,Phó Ðức Chính,tertiary
+326848028,2,,Tôn Đức Thắng,primary
+326848029,2,,Tôn Ðức Thắng,primary
+326849838,4,10,Đường dẫn Ga Quốc Nội,tertiary
+326849839,3,10,,secondary_link
+326849840,4,10,Đường dẫn Sảnh Đến Quốc tế,tertiary
+326849841,4,,Lê Lai,tertiary
+326849842,2,,Nam Kỳ Khởi Nghĩa,primary
+326849844,2,,Nguyễn Thị Minh Khai,primary
+326849845,2,,Nguyễn Thị Minh Khai,primary
+326849846,2,,Pasteur,primary
+326849847,3,,Trường Sơn,secondary
+326849848,2,,Võ Thị Sáu,primary
+326849849,2,,Võ Thị Sáu,primary
+326849852,3,,Đường số 9A,secondary
+326849853,3,,Đường số 9A,secondary
+327048050,2,,Cầu vượt Lăng Cha Cả,primary
+327048051,2,,Hoàng Văn Thụ,primary
+327048052,4,,Nguyễn Ðình Chiểu,tertiary
+327048054,4,,Bà Huyện Thanh Quan,tertiary
+327048055,4,,Bà Huyện Thanh Quan,tertiary
+327048056,4,,Lê Lai,tertiary
+327048057,3,,Trần Hưng Ðạo,secondary
+327048058,2,,Nguyễn Văn Cừ,primary
+327074920,2,,Ðiện Biên Phủ,primary
+327090281,4,,Cầu Nguyễn Văn Cừ,tertiary
+327090282,3,,Võ Văn Kiệt,primary_link
+327090283,2,,Võ Văn Kiệt,primary
+327090284,2,,Võ Văn Kiệt,primary
+327090285,3,,Võ Văn Kiệt,primary_link
+327090291,3,,,primary_link
+327090292,2,,,primary
+327097625,3,,3 Tháng 2,primary_link
+327097628,4,,Bình Tiên,tertiary
+327097630,4,,Cao Thắng,tertiary
+327097633,2,,Kinh Dương Vương,primary
+327097634,2,,Kinh Dương Vương,primary
+327097636,2,,Nguyễn Thị Minh Khai,primary
+327097640,4,,Nguyễn Văn Luông,tertiary
+327097643,4,40,Phạm Văn Chí,tertiary_link
+327097648,3,,vòng xoay Thái Bình,secondary
+327097661,2,,Ðiện Biên Phủ,primary
+327097662,2,,Ðiện Biên Phủ,primary
+327181426,4,,,tertiary
+327181427,4,,Cao Thắng,tertiary
+327181428,4,,Cống Quỳnh,tertiary
+327181429,2,,Công Trường Mê Linh,primary
+327181430,3,40,Hậu Giang,secondary
+327181431,2,,Kinh Dương Vương,primary
+327181433,4,,Nguyễn Ðình Chiểu,tertiary
+327181434,4,,Nguyễn Ðình Chiểu,tertiary
+327181435,2,,Nguyễn Thị Minh Khai,primary
+327192436,3,40,Hậu Giang,secondary_link
+327262608,4,,Đường sô 44,unclassified
+327427168,4,,,tertiary
+327427169,4,,,tertiary
+327452998,4,,,unclassified
+327579796,4,,,unclassified
+327579797,4,,Tô Ngọc Vân,tertiary
+327579798,4,,Tô Ngọc Vân,tertiary
+327591192,4,,,unclassified
+327591216,4,,,unclassified
+327591220,4,,,unclassified
+327591286,4,,,unclassified
+327591354,4,,,unclassified
+327591365,4,,,unclassified
+327596572,3,,Nguyễn Ảnh Thủ,secondary
+328168531,2,,Phạm Văn Đồng,primary
+328168532,2,60,Phạm Văn Đồng,primary
+328183419,4,,Thạnh Lộc 15,unclassified
+328183437,4,,Thạnh Lộc 27,tertiary
+328183438,4,,,tertiary
+328183446,4,,,tertiary
+328374357,3,,,secondary_link
+328804667,3,,,secondary_link
+328804672,4,,,unclassified
+329878176,2,,Hà Huy Giáp,primary
+329878177,2,,Hai Bà Trưng,primary
+329878178,2,,Hai Bà Trưng,primary
+329878179,2,,Hoàng Văn Thụ,primary
+329878180,4,,Lê Lợi Boulevard,tertiary
+329878181,3,,Lý Tự Trọng,secondary
+329878182,3,,Lý Tự Trọng,secondary
+329878183,4,,Nam Kỳ Khởi Nghĩa,tertiary
+329878184,4,,Nam Kỳ Khởi Nghĩa,tertiary
+329878186,4,,Pasteur,tertiary
+329878187,4,,Pasteur,tertiary
+330035859,3,,Phan Đình Giót,secondary
+330035860,2,,Trần Quốc Hoàn,primary
+330035861,2,80,Trường Chinh,primary
+330035862,1,60,Quốc lộ 22,trunk
+330035863,4,,Trung Mỹ Tây 2A,unclassified
+330035864,1,60,Quốc lộ 22,trunk
+330035865,1,60,Quốc lộ 22,trunk
+330035866,2,60,Quốc lộ 22,primary
+330071250,2,,Hoàng Văn Thụ,primary
+330071253,2,80,Trường Chinh,primary
+330071254,2,80,Trường Chinh,primary
+330237273,2,,Quốc lộ 1K,primary
+330237274,2,,Quốc lộ 1K,primary
+330239278,2,60,Phạm Văn Đồng,primary
+330239279,2,60,Phạm Văn Đồng,primary
+330239280,3,,,primary_link
+330374253,2,,Bạch Đằng,primary
+330374254,2,,Bạch Đằng,primary
+330374257,4,,Lê Hồng Phong,tertiary
+330374261,4,,Lê Quang Sung,tertiary
+330374266,2,,Quốc lộ 13,primary
+330374269,2,,Quốc lộ 13,primary
+330374271,3,,Ngô Gia Tự,secondary
+330374273,4,,Nguyễn Chí Thanh,tertiary
+330374285,1,60,Quốc lộ 1,trunk
+330374286,4,,Quốc lộ 1,tertiary
+330374288,4,,Quốc lộ 1,tertiary
+330374290,4,,Quốc lộ 1,tertiary
+330374291,4,,Quốc lộ 1,tertiary
+330374295,2,,Trần Phú,primary
+330374298,1,60,Quốc lộ 1,trunk
+330374300,1,60,Quốc lộ 1,trunk
+330374319,2,,Đinh Bộ Lĩnh,primary
+330378022,4,,Bà Huyện Thanh Quan,tertiary
+330378025,2,,Hùng Vương,primary
+330378031,4,,Trang Tử,tertiary
+330378032,4,,Võ Văn Tần,tertiary
+330378033,1,60,Quốc lộ 1,trunk
+330532278,3,,An Dương Vương,secondary
+330532280,1,50,Điện Biên Phủ,trunk
+330532283,2,50,Điện Biên Phủ,primary
+330532285,1,50,Điện Biên Phủ,trunk
+330532288,3,50,Điện Biên Phủ,trunk_link
+330532290,1,60,Điện Biên Phủ,trunk
+330532292,3,,Đỗ Xuân Hợp,secondary
+330532295,3,,Đỗ Xuân Hợp,secondary
+330532300,1,80,Xa lộ Hà Nội,trunk
+330532302,1,80,Xa lộ Hà Nội,trunk
+330532303,3,50,,trunk_link
+330532304,1,80,Xa Lộ Hà Nội,trunk
+330532305,1,80,Xa Lộ Hà Nội,trunk
+330532306,1,60,Xa Lộ Hà Nội,trunk
+330532309,1,60,Xa Lộ Hà Nội,trunk
+330532312,2,,Hồng Bàng,primary
+330532314,2,,Hùng Vương,primary
+330532317,4,,Lê Văn Chí,tertiary
+330532319,1,60,Quốc lộ 1,trunk
+330532321,1,60,Quốc lộ 1,trunk
+330532328,2,,Nguyễn Tri Phương,primary
+330532332,2,,Nguyễn Văn Cừ,primary
+330532335,2,,Nguyễn Văn Cừ,primary
+330532340,4,,Võ Văn Ngân,tertiary
+330532343,4,,Võ Văn Ngân,tertiary
+330532348,2,50,Xa lộ Hà Nội,primary
+330532351,1,50,Xa Lộ Hà Nội,trunk
+330532355,1,60,Xa lộ Hà Nội,trunk
+330532357,2,,Xô Viết Nghệ Tĩnh,primary
+330532361,2,40,Xa Lộ Hà Nội,primary
+330532363,4,,,tertiary
+330532364,2,50,Điện Biên Phủ,primary
+330539272,2,,Nguyễn Thị Minh Khai,primary
+330618199,4,,,unclassified
+330618200,4,,,unclassified
+330618204,4,,,unclassified
+330618206,3,,Nguyễn Ảnh Thủ,secondary
+330618207,4,,,unclassified
+330618208,4,,,unclassified
+330618209,4,,,unclassified
+330618210,4,,,unclassified
+330618652,4,,,unclassified
+330654853,2,,Hoàng Diệu,primary
+330654855,2,,Hoàng Diệu,primary
+330654857,2,,Hoàng Diệu,primary
+330654860,2,,Khánh Hội,primary
+330654862,4,,Tôn Thất Thuyết,tertiary
+330800286,4,,,unclassified
+330800305,4,,Đường số 3,tertiary
+330800309,4,,Đường Liên Ấp 5-6,unclassified
+330800331,4,,,unclassified
+330800332,4,,,unclassified
+330800334,4,,Đường số 6,unclassified
+330805082,3,,Vĩnh Lộc,secondary
+330805084,4,,,unclassified
+330805087,4,,Đường số 2A,unclassified
+330805100,4,,Đường số 2,tertiary
+330805102,4,,Đường số 2,tertiary
+330805103,4,,Đường số 2,tertiary
+330809451,4,,,unclassified
+330809460,4,,,unclassified
+330809479,4,,,unclassified
+330871757,4,,,unclassified
+330871776,4,,,unclassified
+330919100,4,,,unclassified
+330919136,4,,Đường số 2,tertiary
+330919137,4,,Đường số 3B,unclassified
+330919139,4,,Đường số 3,tertiary
+330921633,4,,Đường số 10,unclassified
+330921647,4,,,unclassified
+331790871,4,,Lâm Viên,unclassified
+331790879,4,,Lâm Viên,unclassified
+331790880,4,,Lâm Viên,unclassified
+331790881,4,,Lâm Viên,unclassified
+331790882,4,,Lâm Viên,unclassified
+331791284,4,,Lâm Viên,unclassified
+332925046,4,,,unclassified
+332925047,4,,,unclassified
+332925048,4,,,unclassified
+333220661,3,,Nhánh D2,motorway_link
+333220664,1,80,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+333379575,4,,,tertiary
+333380150,1,80,Nguyễn Văn Linh,trunk
+336325176,2,,Quốc lộ 1,primary
+336325180,1,80,Quốc lộ 1,trunk
+338063100,4,,Lê Thánh Tôn,tertiary
+339106354,4,,Bàn Cờ,unclassified
+339313797,1,100,Đường Cao tốc Tp. Hồ Chí Minh-Long Thành-Dầu Giây,motorway
+339315416,1,80,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+339321612,1,50,Xa Lộ Hà Nội,trunk
+339357646,3,,,motorway_link
+339358502,1,,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+339360064,1,60,Đường cao tốc Tp. Hồ Chí Minh-Long Thành-Dầu Giây,motorway
+339360614,1,120,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+340785352,4,,Trần Quang Cơ,unclassified
+341504312,4,,Nguyễn Huệ,tertiary
+343886792,3,,Hoàng Sa,primary_link
+348208475,4,,Trường Sa,tertiary
+358035432,4,,Trần Văn Giàu,tertiary
+358035437,3,,,primary_link
+358035440,4,,,tertiary_link
+358286574,4,,,unclassified
+358286575,4,,,unclassified
+358286896,4,,,unclassified
+359006887,3,,,primary_link
+359007396,4,,Tân Sơn,tertiary
+359007398,4,,Tân Sơn,tertiary
+359019799,4,,Tân Sơn,tertiary
+359019801,4,,Tân Sơn,tertiary
+359262462,4,,Tân Sơn,tertiary
+359262463,4,,Tân Sơn,tertiary
+359262465,4,,Cầu,tertiary
+359263749,4,,,unclassified
+359263764,4,,,unclassified
+359264501,3,,,primary_link
+359466982,4,,,tertiary_link
+359488312,4,,Nguyễn Xí,tertiary
+359549084,4,,Phan Văn Trị,tertiary
+359550384,4,,Lê Quang Định,tertiary
+359550387,4,,Lê Quang Định,tertiary
+359550390,4,,Nguyễn Văn Nghi,tertiary
+359552103,2,40,Phạm Văn Đồng,primary
+359552105,2,40,Phạm Văn Đồng,primary
+359552106,4,,Lê Quang Định,tertiary
+359552516,4,,Lê Quang Định,tertiary
+360129126,3,,,trunk_link
+360422876,4,,,unclassified
+360974215,4,,,tertiary_link
+360974216,3,,Trường Chinh,primary_link
+361096388,4,,,unclassified
+361097020,4,,,unclassified
+361097061,4,,,unclassified
+361097284,4,,Thạnh Xuân 25,tertiary
+363261627,4,,Tân Sơn,tertiary
+363261628,4,,Tân Sơn,tertiary
+363261629,4,,Tân Sơn,tertiary
+363261631,4,,Tân Sơn,tertiary
+364296235,4,,Quản Trọng Linh,tertiary
+364296242,4,,Quản Trọng Linh,tertiary
+364296247,4,,Quản Trọng Linh,tertiary
+366065240,2,,Bạch Đằng,primary
+366065241,2,,Hoàng Văn Thụ,primary
+366065242,2,,Phan Đăng Lưu,primary
+366069921,4,,Nhị Tân 1,tertiary
+366069923,4,,Tuyến 7 Xuân Thới Sơn,tertiary
+366069942,4,,,unclassified
+366069943,4,,,unclassified
+366069944,4,,,unclassified
+366094561,4,,Bà Huyện Thanh Quan,tertiary
+366094562,4,,Cầu Trần Quang Diệu,tertiary
+366094563,4,,Cầu Trần Quang Diệu,tertiary
+366105824,4,,Cây Bàng,unclassified
+366105825,4,,Cây Bàng,tertiary
+366105844,4,,Hoàng Thế Thiện,tertiary
+366287229,4,,,unclassified
+366287239,4,,,unclassified
+366287246,4,,,unclassified
+366287264,4,,,unclassified
+366287268,4,,,unclassified
+366287272,4,,,unclassified
+366287277,4,,,unclassified
+366287287,4,,,unclassified
+367977462,4,,Hẻm 506 Lạc Long Quân,unclassified
+367999464,4,,,unclassified
+368396813,4,,,tertiary
+368785549,2,60,Phạm Văn Đồng,primary
+368785550,2,,,primary
+368785551,2,,,primary
+368785552,3,,Phạm Văn Đồng,secondary
+368785553,3,,Phạm Văn Đồng,secondary
+368787662,2,,Phạm Văn Đồng,primary
+368787663,2,,Phạm Văn Đồng,primary
+368787664,2,,Phạm Văn Đồng,primary
+368788792,3,,Phạm Văn Đồng,secondary
+368789461,3,,,secondary
+368789462,3,60,Phạm Văn Đồng,secondary
+370714686,3,30,Cầu vượt Ngã tư Gò Dưa,trunk_link
+370714755,4,,Tô Ngọc Vân,tertiary
+370714758,3,,,trunk_link
+370714759,3,30,Cầu vượt Ngã tư Gò Dưa,trunk_link
+370715100,3,,Bình Chiểu,secondary
+370715104,3,,,secondary_link
+370715106,3,30,Cầu vượt Ngã tư Gò Dưa,trunk_link
+370715675,3,,Cầu vượt Ngã tư Gò Dưa,secondary
+370715676,4,,,tertiary
+370717133,4,,,unclassified
+370717135,4,,,unclassified
+372305022,4,,Huỳnh Văn Bánh,tertiary
+373417336,4,,,tertiary
+373726397,4,,Độc Lập,unclassified
+373727572,4,,Nguyễn Thế Truyện,unclassified
+373727573,4,,Nguyễn Thế Truyện,unclassified
+374813729,4,,Phạm Văn Bạch,tertiary
+374813730,4,,Phạm Văn Bạch,tertiary
+374813731,4,,Tân Sơn,tertiary
+375885282,4,,,unclassified
+377269905,3,,,primary_link
+377308556,3,50,,primary_link
+377308557,2,50,Cách Mạng Tháng Tám,primary
+377308561,2,,Lý Thường Kiệt,primary
+377308619,3,,,primary_link
+377308631,4,,Đồng Đen,tertiary
+377308634,4,,Đồng Đen,tertiary
+377881079,4,,Nguyễn Huệ,tertiary
+378250858,2,,Nguyễn Hữu Thọ,primary
+378250859,1,80,Nguyễn Văn Linh,trunk
+379717901,4,,Trần Tấn,unclassified
+379717902,4,,Nguyễn Văn Săng,unclassified
+379717983,4,,Đoàn Hồng Phước,unclassified
+383506948,4,,,unclassified
+395926804,4,,Trần Xuân Soạn,tertiary
+397312336,3,,Nhánh B2,motorway_link
+397354317,3,,Cầu vượt Nút giao Quốc lộ 1A (Số 11),trunk_link
+397354319,3,,,trunk_link
+397354320,3,,,trunk_link
+397354748,1,100,TP Hồ Chí Minh - Trung Lương,motorway
+397354751,1,100,TP Hồ Chí Minh - Trung Lương,motorway
+397354752,1,100,TP Hồ Chí Minh - Trung Lương,motorway
+397354753,1,100,TP Hồ Chí Minh - Trung Lương,motorway
+397354754,1,100,TP Hồ Chí Minh - Trung Lương,motorway
+397354755,1,100,TP Hồ Chí Minh - Trung Lương,motorway
+397354756,1,100,TP Hồ Chí Minh - Trung Lương,motorway
+397354757,1,100,TP Hồ Chí Minh - Trung Lương,motorway
+397354759,1,120,TP Hồ Chí Minh - Trung Lương,motorway
+397354760,1,120,TP Hồ Chí Minh - Trung Lương,motorway
+398640457,4,,Bà Huyện Thanh Quan,tertiary
+398665528,4,,Bắc Hải,tertiary
+399152053,2,,Quang Trung,primary
+399152054,2,,Quang Trung,primary
+399567159,4,,Phạm Văn Hai,tertiary
+399583620,2,,Phan Đình Phùng,primary
+400537386,4,,Trịnh Phong Đáng,unclassified
+401130335,3,,Trường Sơn,secondary_link
+402927261,2,60,Cầu Bình Lợi,primary
+402927262,2,60,,primary
+402927263,2,60,Phạm Văn Đồng,primary
+402927264,2,60,Phạm Văn Đồng,primary
+402927265,2,60,Phạm Văn Đồng,primary
+402927266,2,60,Phạm Văn Đồng,primary
+402927268,3,,,primary_link
+402927270,3,,,primary_link
+404351361,1,70,,trunk
+404351362,1,70,,trunk
+404351363,3,60,,trunk_link
+404353951,3,60,,trunk_link
+404353952,3,60,,trunk_link
+404353953,1,60,,trunk
+404356158,1,60,Điện Biên Phủ,trunk
+404356159,3,,Điện Biên Phủ,primary_link
+404356160,3,50,,primary_link
+404359133,1,50,Điện Biên Phủ,trunk
+404360199,3,50,Điện Biên Phủ,trunk_link
+404368564,2,50,Xa lộ Hà Nội,primary
+404368566,2,60,,primary
+404368568,1,60,Xa Lộ Hà Nội,trunk
+404402090,4,50,,tertiary
+404402464,4,50,,tertiary_link
+404402465,4,,,tertiary
+404413932,4,,,tertiary_link
+404413933,4,,,tertiary_link
+404514700,2,40,Phạm Văn Đồng,primary
+404516417,3,60,Phạm Văn Đồng,secondary
+404516657,2,40,Phạm Văn Đồng,primary
+404516658,3,40,Phạm Văn Đồng,secondary
+404516659,3,60,,secondary
+404516660,3,60,,secondary
+404516661,3,60,,secondary
+404516716,3,50,,secondary
+404517245,3,50,,secondary
+404517247,3,60,,secondary
+404517252,3,50,,secondary
+404517260,3,60,,secondary
+404517262,3,50,,secondary
+404517878,2,70,,primary
+404517879,2,70,,primary
+404517880,2,70,,primary
+404524981,2,,,primary
+404527014,1,70,,trunk
+404528384,2,,Phạm Văn Đồng,primary
+404528386,2,60,Phạm Văn Đồng,primary
+404528387,2,,Phạm Văn Đồng,primary
+404574200,4,40,,tertiary_link
+404574201,4,,,tertiary_link
+404670564,3,,,trunk_link
+404670566,2,,Hà Huy Giáp,primary
+404670810,3,,Hà Huy Giáp,primary_link
+404671140,4,60,,tertiary
+404671141,4,60,,tertiary
+404671142,4,50,,tertiary
+404671143,4,70,,tertiary
+404672271,4,40,,tertiary
+404673964,4,60,Quốc lộ 1,tertiary
+404673965,4,60,,tertiary
+404673967,4,60,Quốc lộ 1,tertiary
+404674688,4,60,Quốc lộ 1,tertiary
+404674690,4,60,Quốc lộ 1,tertiary
+404674692,4,60,Quốc lộ 1,tertiary
+404674693,4,60,Quốc lộ 1,tertiary
+404674694,4,60,Quốc lộ 1,tertiary
+404674695,4,60,Quốc lộ 1,tertiary
+404674838,3,,Tô Ký,trunk_link
+404674839,3,,,trunk_link
+404676246,3,50,,trunk_link
+404676247,4,50,Quốc lộ 1,tertiary
+404676248,4,50,,tertiary
+404676249,4,50,Lê Thị Riêng,tertiary
+404676250,4,,,tertiary
+404676251,4,,,tertiary
+404676252,4,60,,tertiary
+404679177,3,,,secondary
+404679178,3,50,,secondary
+404679179,3,,,secondary
+404679180,3,60,Quốc lộ 1,secondary
+404679181,1,80,Quốc lộ 1,trunk
+404679766,3,60,Quốc Lộ 1,secondary
+404679767,1,80,Quốc lộ 1,trunk
+404679768,1,80,Quốc lộ 1,trunk
+404679770,3,,,secondary_link
+404694339,4,60,Quốc lộ 1,tertiary
+404694340,3,,Quốc lộ 1,trunk_link
+404694341,4,,Quốc lộ 1,tertiary
+405258419,4,,,tertiary
+405258622,4,,,tertiary
+405259808,4,,,tertiary
+405261036,4,,,tertiary
+405449764,3,,Tôn Đức Thắng,secondary
+408153725,2,,Ðiện Biên Phủ,primary
+408153730,2,,Hai Bà Trưng,primary
+408161711,4,,Bùi Thị Xuân,unclassified
+408164429,4,,Tân Vĩnh,unclassified
+408165092,3,,Nguyễn Ảnh Thủ,secondary
+408165316,4,,Đường 10A,unclassified
+408166703,4,,Cao Thắng,tertiary
+408171945,4,,Tam Bình,tertiary
+408184343,4,,Đường số 10,tertiary
+408187946,4,,Đường số 10,tertiary
+408193287,4,,Nguyễn Văn Bá,tertiary
+408194034,4,,Chu Văn An,unclassified
+408194722,2,50,Võ Văn Kiệt,primary
+408197643,4,,Nguyễn Xuân Khoát,unclassified
+408200597,2,,Cách Mạng Tháng Tám,primary
+408202951,2,,Cách Mạng Tháng Tám,primary
+408209656,4,,Tân Kỳ Tân Quý,tertiary
+408209657,2,,Trường Chinh,primary
+408212794,2,,Cộng Hòa,primary
+408212916,2,,Lý Thường Kiệt,primary
+408215607,4,,Nguyễn Văn Lượng,unclassified
+408215611,2,,Nguyễn Oanh,primary
+408225753,4,,Đường số 10,tertiary
+408225755,4,,Đường số 10,tertiary
+408225756,4,,Đường số 10,tertiary
+408225759,4,,Đường số 10,tertiary
+408226076,4,,Đường số 10,tertiary
+408226956,4,,Đường số 10,tertiary
+408229568,4,,Võ Văn Ngân,tertiary
+408229570,4,,Đặng Văn Bi,tertiary
+408235684,4,,Hồng Lạc,tertiary
+408239458,4,,Ngô Quyền,tertiary
+408240893,2,,Cách Mạng Tháng Tám,primary
+408241500,1,,Vòng xoay Điện Biên Phủ,trunk
+408242098,4,,Đường số 10,tertiary
+408245967,1,50,Điện Biên Phủ,trunk
+408246127,2,,Ðiện Biên Phủ,primary
+408246385,4,,Bắc Hải,tertiary
+408246393,2,,Ðiện Biên Phủ,primary
+408246548,2,,Ðiện Biên Phủ,primary
+408247778,4,,Đinh Tiên Hoàng,tertiary
+408247779,2,,Đinh Tiên Hoàng,primary
+408247780,2,,Bạch Đằng,primary
+408250489,4,,Võ Văn Ngân,tertiary
+408251037,4,,Nguyễn Xuân Khoát,unclassified
+408251572,4,,Đông Hồ,tertiary
+408257206,4,,Nguyễn Đức Thuận,unclassified
+408261757,4,,Đường số 1,tertiary
+408271210,4,,Đường Số 1,unclassified
+408278166,4,,An Dương Vương,tertiary
+408278168,4,,Đường số 34,unclassified
+408281242,4,,Nguyễn Văn Nghi,tertiary
+408281243,4,,Nguyễn Văn Nghi,tertiary
+408288558,4,,Lê Đức Thọ,tertiary
+408787669,4,,Thống Nhất,tertiary
+408793253,4,,Hoàng Diệu 2,tertiary
+408845369,4,,Phạm Ngọc Thạch,tertiary
+408845370,2,,Nguyễn Thị Minh Khai,primary
+409014810,3,,Nguyễn Hữu Cảnh,secondary
+409019546,4,,Nguyễn Chí Thanh,tertiary
+409036443,4,,Nguyễn Xuân Khoát,unclassified
+409047869,4,,Nguyễn Chí Thanh,tertiary
+409053190,4,,Hoà Bình,tertiary
+409053191,4,30,Kênh Tân Hoá,tertiary
+409053556,4,,Hòa Bình,tertiary
+409054134,4,,Hoà Hảo,tertiary
+409056759,4,,Hoàng Minh Giám,tertiary
+409057040,4,,Hoàng Minh Giám,tertiary
+409059035,2,,Hoàng Văn Thụ,primary
+409059036,4,,Hồ Văn Huê,tertiary
+409059466,4,,Nguyễn Thị Nhỏ,tertiary
+409059470,2,,Hồng Bàng,primary
+409071400,4,,Khuông Việt,tertiary
+409098855,2,,Phan Đăng Lưu,primary
+409098856,4,,Nơ Trang Long,tertiary
+409101010,2,,Phan Đình Phùng,primary
+409101012,2,,Phan Đình Phùng,primary
+409106287,3,,Phan Văn Hớn,secondary
+409106289,1,80,Quốc lộ 1,trunk
+409117749,4,,Phan Xích Long,tertiary
+409119692,4,,Nguyễn Chí Thanh,tertiary
+409127763,4,,Xuân Thới Sơn 21,tertiary
+409153421,1,,Quốc lộ 1,trunk
+409153422,1,,Quốc lộ 1,trunk
+409154724,1,60,Quốc lộ 22,trunk
+409274385,4,,Sư Van Hạnh,tertiary
+409274386,4,,Nguyễn Chí Thanh,tertiary
+409276051,4,,Tạ Uyên,tertiary
+409276052,4,,Nguyễn Chí Thanh,tertiary
+409294121,3,,Hàm Nghi,secondary
+409716657,4,,,unclassified
+409716658,4,,,unclassified
+409716659,4,,,unclassified
+409716660,4,,,unclassified
+410390688,4,,Hoàng Sa,tertiary
+410411589,3,40,Lý Thái Tổ,secondary
+410412436,4,40,Lý Thái Tổ,tertiary
+410417511,4,,,unclassified
+417275905,4,,,unclassified
+417281942,4,,Tân Xuân 6,unclassified
+417288599,4,,,unclassified
+418975319,4,,Trương Phước Phan,tertiary
+420032380,3,,Cầu Tạ Quang Bửu,secondary
+420032381,4,,Cầu Tạ Quang Bửu,tertiary
+428428273,4,,Đường Vành Đai,tertiary
+428437965,4,,Lê Cơ,unclassified
+431067175,3,,Trần Hưng Ðạo,secondary
+431068519,4,,Nguyễn Cư Trinh,tertiary
+431068520,2,,Trần Hưng Ðạo,primary
+431068521,4,,,tertiary
+431656677,2,,Ngã sáu Cộng Hòa,primary
+431657161,2,,Công Trường Quách Thị Trang,primary
+431657163,2,,Công Trường Quách Thị Trang,primary
+432079671,3,,Nguyễn Trãi,secondary
+432383413,2,,Nguyễn Tri Phương,primary
+435246815,3,,Đường D1,secondary
+435328028,3,,,primary_link
+435328029,4,,Hưng Phú,tertiary
+435328747,4,,Hưng Phú,tertiary
+440444596,3,,Bình Long,secondary
+444689047,3,,,primary_link
+446053121,4,,Lê Đức Thọ,tertiary
+446053122,4,,Lê Đức Thọ,tertiary
+446472910,3,40,D2,secondary
+446472913,3,,D2,secondary
+446474065,4,,,tertiary
+446474066,4,,,tertiary_link
+446937576,4,,Phan Văn Trị,tertiary
+446937578,4,,,tertiary
+446937579,4,,Phan Văn Trị,tertiary
+446937582,4,,Phan Văn Trị,tertiary
+446937583,3,,,primary_link
+447604563,3,,,secondary_link
+447604565,3,,,secondary_link
+447642550,2,60,,primary
+447642551,2,60,Cầu Bình Lợi,primary
+447642552,3,40,Cầu Bình Lợi,secondary
+447642553,3,40,,secondary
+447642555,2,60,Phạm Văn Đồng,primary
+447642557,2,60,Phạm Văn Đồng,primary
+447644200,4,,,tertiary
+447644202,4,,,tertiary
+447653320,4,,Lê Đức Thọ,tertiary
+447653321,2,,Nguyễn Oanh,primary
+447653322,3,,,primary_link
+447653323,2,,Nguyễn Oanh,primary
+447653981,4,,,tertiary
+447793151,4,,Phan Văn Trị,tertiary
+449212104,2,60,Phạm Văn Đồng,primary
+449212105,2,60,Phạm Văn Đồng,primary
+453436985,4,,,tertiary
+453436986,4,,,tertiary
+453436987,4,,,tertiary
+453436988,4,,Đường Song Hành Xa lộ Hà Nội,tertiary
+454227961,4,80,Đại lộ vòng cung,tertiary
+456579958,4,,Liên khu 10-11,unclassified
+456579959,4,,Hẻm 151 Lũy Bán Bích,unclassified
+456579960,4,,Nguyễn Văn Yến,unclassified
+456799179,4,,Tô Hiệu,tertiary
+456799180,4,,Tô Hiệu,tertiary
+456799181,4,,Đặng Nguyên Cẩn,tertiary
+457552328,3,30,Bà Hom,secondary
+459133496,4,,Tô Hiệu,tertiary
+459234491,4,,,unclassified
+459597457,3,,Tôn Đức Thắng,secondary
+459597458,2,,Nguyễn Hữu Cảnh,primary
+460336754,4,,Trần Văn Giàu,tertiary
+460336755,4,,Số 7,tertiary
+460751655,4,,Lê Thúc Hoạch,tertiary
+460757149,4,,Trương Phước Phan,unclassified
+461213201,1,60,Nguyễn Văn Linh,trunk
+461213202,2,60,Nguyễn Văn Linh,primary
+461213203,1,80,Nguyễn Văn Linh,trunk
+461213205,1,80,Nguyễn Văn Linh,trunk
+461227334,1,50,Xa Lộ Hà Nội,trunk
+461227335,1,50,Xa Lộ Hà Nội,trunk
+462441997,3,40,Võ Chí Công,secondary
+462441998,3,40,Cầu Phú Hữu,secondary
+462441999,3,40,D2,secondary
+462442000,3,40,Cầu Phú Hữu,secondary
+462901272,4,,Đường số 18B,unclassified
+462968806,4,40,,tertiary_link
+462968807,4,40,,tertiary_link
+462968808,4,40,Đường số 9,tertiary
+462968810,4,40,,tertiary_link
+462970232,4,40,Phạm Văn Chí,tertiary
+462985465,4,40,,tertiary_link
+462987403,4,40,,tertiary_link
+463024336,4,40,,tertiary_link
+463024337,4,40,,tertiary_link
+463024338,4,40,,tertiary_link
+463028714,4,40,Bình Tiên,tertiary
+463028716,4,,Bình Tiên,tertiary
+463028717,4,,,tertiary
+463031679,3,,Hải Thượng Lãn Ông,secondary
+463031681,3,,Tháp Mười,secondary
+463031682,4,,,tertiary
+463035033,3,40,,primary_link
+463414554,4,,Lê Quang Sung,tertiary
+463661226,4,,Tản Đà,tertiary
+463881170,2,,3 Tháng 2,primary
+463881171,2,,3 Tháng 2,primary
+464033733,4,,đường song hành cao tốc Long Thành Dầu Giây,unclassified
+464034420,4,,đường song hành cao tốc Long Thành Dầu Giây,unclassified
+464270121,4,,đường vành đai Sam Sung,unclassified
+464270272,4,,Bưng Ông Thòan,unclassified
+464377293,4,,Cầu Nguyễn Văn Cừ,tertiary
+464377294,4,,Cầu Nguyễn Văn Cừ,tertiary
+464462967,3,,,primary_link
+464462968,3,,,primary_link
+464462969,2,,,primary
+464463523,2,,Hồng Bàng,primary
+464464123,2,,Cầu Ông Buông 2,primary
+464502578,4,,đường vành đai Sam Sung,unclassified
+464502847,4,,,unclassified
+464515058,2,,Cầu Ông Lãnh,primary
+464641271,4,,Lê Duẩn,tertiary
+464641352,4,,Lê Duẩn,tertiary
+464793190,4,,Bưng Ông Thòan,unclassified
+465161329,4,,Nguyễn Bỉnh Khiêm,tertiary
+465161872,4,,Nguyễn Bỉnh Khiêm,tertiary
+465282923,4,,cầu Rạch Ông,tertiary
+465283035,4,,,tertiary
+465283296,4,,,tertiary
+465309061,4,,Công Xã Paris,tertiary
+465851814,4,,Phú Định,tertiary
+465871961,4,,Minh Phụng,tertiary
+465873466,4,,Minh Phụng,tertiary
+465895999,4,40,Phạm Văn Chí,tertiary
+465896000,4,40,Phạm Văn Chí,tertiary
+465919816,3,,Tân Hoá,secondary
+465919828,3,,,secondary
+465993626,3,,Hậu Giang,secondary_link
+465993627,3,40,Hậu Giang,secondary_link
+465993628,4,40,Lò Gốm,tertiary
+465993629,3,40,Hậu Giang,secondary
+465993631,3,40,Hậu Giang,secondary_link
+466008498,3,40,Hải Thượng Lãn Ông,secondary
+466008499,3,40,Hải Thượng Lãn Ông,secondary
+466008500,3,,,secondary_link
+466010021,3,40,Vạn Kiếp,secondary
+466038917,2,,Nguyễn Thị Nghĩa,primary
+466039048,2,,Nguyễn Thị Nghĩa,primary
+466043072,2,50,Võ Văn Kiệt,primary
+466043074,3,50,,secondary
+466043075,3,,,trunk_link
+466043077,3,,,primary_link
+466043078,2,,Nguyễn Tri Phương,primary
+466043079,2,,Nguyễn Tri Phương,primary
+466066306,2,,3 Tháng 2,primary
+466067222,3,,,secondary
+466067223,3,,Võ Văn Kiệt,secondary
+466095118,2,,,primary
+466095328,3,30,Trần Hưng Ðạo,secondary
+466095490,3,30,Trần Hưng Ðạo,secondary
+466112035,3,,,secondary
+466112794,3,,,secondary
+466122296,4,,Nguyễn Cư Trinh,tertiary
+466123679,4,,Nguyễn Cư Trinh,tertiary
+466130926,4,,Phạm Hồng Thái,tertiary
+466200149,2,,,primary
+466200720,3,,,primary_link
+466203917,2,,,primary
+466204240,3,,,secondary
+466349958,3,,,trunk_link
+466349959,3,,,primary_link
+466349961,3,,,primary_link
+466360755,3,,,primary_link
+466360756,3,,,secondary
+466361669,3,,,primary_link
+466364979,1,60,Võ Văn Kiệt,trunk
+466364980,2,50,Võ Văn Kiệt,primary
+466371241,4,,,tertiary
+466371242,3,,,primary_link
+466371243,3,,,primary_link
+466371244,4,,,tertiary
+466371245,4,,Phạm Phú Thứ,tertiary
+466386934,3,,,primary_link
+466386935,3,,,primary_link
+466386937,3,,,primary_link
+466386938,3,,,primary_link
+466386939,3,,,primary_link
+466513741,2,,Cách Mạng Tháng Tám,primary
+466631640,4,,,tertiary
+466631641,4,,,tertiary
+466631642,4,,,tertiary
+466631643,3,,,primary_link
+466631644,3,,,primary_link
+466642759,4,,,tertiary
+466643134,4,,Cống Quỳnh,tertiary
+466643375,4,,Nguyễn Cư Trinh,tertiary
+466671832,3,,,secondary
+466671834,3,40,Châu Văn Liêm,secondary
+466671835,3,,,secondary
+466671836,3,40,Châu Văn Liêm,secondary
+466671837,3,40,Châu Văn Liêm,secondary
+466671838,4,,,tertiary
+466897990,4,,,tertiary
+466898000,4,,,tertiary
+466898001,4,,Ngô Quyền,tertiary
+466898002,4,,,tertiary
+466898003,4,,,tertiary
+466898004,2,,,primary
+466898005,2,,,primary
+466900849,4,40,Ngô Gia Tự,tertiary
+466900850,4,,Ngô Gia Tự,tertiary
+467096897,4,,Nguyễn Trãi,tertiary
+467097944,4,,Nguyễn Trãi,tertiary
+467101852,2,50,Võ Văn Kiệt,primary
+467152198,4,,,tertiary
+467152947,4,,,tertiary
+467159291,4,,Phạm Đình Hổ,tertiary
+467188187,2,,,primary
+467288840,4,,Phổ Quang,tertiary
+467547338,3,,,secondary
+467581823,2,,An Dương Vương,primary
+467676646,2,,Nguyễn Cơ Thạch,primary
+467714905,4,,Trần Bình Trọng,tertiary
+467714907,4,,Trần Bình Trọng,tertiary
+467714908,4,,Trần Bình Trọng,tertiary
+467833830,4,,,unclassified
+467833899,4,,,unclassified
+467860733,4,,Lê Lợi,tertiary
+467966829,2,60,Võ Chí Công,primary
+467966830,1,60,Võ Chí Công,trunk
+467966832,1,60,Võ Chí Công,trunk
+467966833,2,60,Võ Chí Công,primary
+468247531,4,,,tertiary
+468247532,2,,Lý Thường Kiệt,primary
+468289901,3,,,primary_link
+468368037,4,,Trần Phú,tertiary
+468380352,4,,Sư Van Hạnh,tertiary
+468380355,3,,Ngô Gia Tự,secondary
+468380358,4,,Sư Van Hạnh,tertiary
+468380361,4,,Sư Van Hạnh,tertiary
+468380364,4,,,tertiary
+468380366,4,,Sư Van Hạnh,tertiary
+468380368,4,,,tertiary
+468401890,2,,3 Tháng 2,primary
+468405250,2,,3 Tháng 2,primary
+468434626,2,,3 Tháng 2,primary
+468434636,2,,Lý Thái Tổ,primary
+468434637,2,,,primary
+468434638,2,,3 Tháng 2,primary
+468434639,2,,3 Tháng 2,primary
+468590178,2,,Nguyễn Tri Phương,primary
+468590910,2,,Nguyễn Tri Phương,primary
+468590911,2,,Nguyễn Tri Phương,primary
+468604950,2,,,primary
+468604951,2,,,primary
+468604952,2,,,primary
+468604953,2,,,primary
+468604954,3,,Trần Hưng Ðạo,secondary
+468613002,3,,Trần Hưng Ðạo,secondary
+468613003,3,,Trần Hưng Ðạo,secondary
+468613004,3,,Trần Hưng Ðạo,secondary
+468613005,3,,Trần Hưng Ðạo,secondary
+468616397,3,,Trần Hưng Ðạo,secondary
+468616398,3,,Trần Hưng Ðạo,secondary
+468616399,4,,,tertiary
+468616400,3,,Trần Hưng Ðạo,secondary
+468616401,4,,Bùi Hữu Nghĩa,tertiary
+468616403,3,,Trần Hưng Ðạo,secondary
+468616407,4,,,tertiary
+468616408,3,,Trần Hưng Ðạo,secondary
+468616410,4,,Huỳnh Mẫn Đạt,tertiary
+468616411,4,,,tertiary
+468650516,2,,Nguyễn Tri Phương,primary
+468653969,2,,,primary
+468653970,2,,An Dương Vương,primary
+468656848,2,,Nguyễn Tri Phương,primary
+468656849,2,,Nguyễn Tri Phương,primary
+468691943,3,,,secondary_link
+468695188,3,50,Trần Hưng Ðạo,secondary
+468695189,4,,Nguyễn Biểu,tertiary
+468695190,3,,Nguyễn Biểu,secondary_link
+468695191,4,,,tertiary
+468695192,4,,Trần Bình Trọng,tertiary
+468713099,4,,Nguyễn Thị Nhỏ,tertiary
+468716258,4,,,tertiary
+468724777,2,,3 Tháng 2,primary
+468724778,2,,3 Tháng 2,primary
+468724779,2,,3 Tháng 2,primary
+468724782,2,,3 Tháng 2,primary
+468724783,2,,3 Tháng 2,primary
+468724784,4,,Hàn Hải Nguyên,tertiary
+468724785,2,,3 Tháng 2,primary
+468724786,4,,Hàn Hải Nguyên,tertiary
+468752226,3,,,secondary
+468752227,3,,,secondary
+468755235,4,,Lãnh Binh Thăng,tertiary
+469327638,2,,Lý Thường Kiệt,primary
+469327639,2,,Lý Thường Kiệt,primary
+469327640,2,,Lý Thường Kiệt,primary
+469364050,4,,Cầu Phú An,tertiary
+469592979,4,,Lê Minh Xuân,tertiary
+469592980,4,,Lê Minh Xuân,tertiary
+469592981,4,,,unclassified
+469592985,4,,Nghĩa Phát,tertiary
+469593478,3,,Hòa Hảo,secondary_link
+469593479,2,,Nguyễn Tri Phương,primary
+470506013,4,,Lê Hồng Phong,tertiary
+470506016,4,,,tertiary
+470506017,2,,3 Tháng 2,primary
+470506018,2,,3 Tháng 2,primary
+470511619,4,,,tertiary
+471067921,4,,Lê Quang Sung,tertiary
+471077680,3,,Lũy Bán Bích,secondary
+471086582,3,,,secondary
+471086948,3,,,secondary
+471087369,3,,,secondary
+471108770,4,,,tertiary
+472409051,2,,,primary
+472409052,4,,,tertiary
+472409053,2,,,primary
+472409056,4,,,tertiary
+472409058,2,,,primary
+472409511,3,,,secondary
+472411140,3,,Nguyễn Trãi,secondary
+472411143,4,,Cống Quỳnh,tertiary
+472412233,4,,,tertiary
+472412235,3,,,secondary
+472412760,4,,Nguyễn Cư Trinh,tertiary
+472412761,4,,Nguyễn Cư Trinh,tertiary
+472412762,4,,Cống Quỳnh,tertiary
+472413894,4,,Phạm Hồng Thái,tertiary
+472413896,4,,Lê Lai,tertiary
+473026472,4,,,tertiary
+473028082,2,,Cầu vượt Ngã Sáu Gò Vấp,primary
+473163828,2,,Nguyễn Cơ Thạch,primary
+473163830,2,,Nguyễn Cơ Thạch,primary
+473190364,4,,,tertiary
+473221496,4,,Trần Đại Nghĩa,tertiary
+473221497,4,,Cầu Kênh C,tertiary
+473221519,4,,Cầu Kênh C,tertiary
+473396239,2,,Võ Văn Kiệt,primary
+473396240,2,,Võ Văn Kiệt,primary
+473396247,2,,Tôn Ðức Thắng,primary
+476899215,4,,Võ Văn Kiệt,tertiary
+476899216,4,,Võ Văn Kiệt,tertiary
+476899217,4,,Võ Văn Kiệt,tertiary
+476899218,4,,Võ Văn Kiệt,tertiary
+476899219,4,,,tertiary_link
+476899220,4,,Võ Văn Kiệt,tertiary
+476899221,1,40,Cầu vượt Võ Văn Kiệt (Đông Tây),trunk
+476899222,3,40,Cầu vượt Võ Văn Kiệt,trunk_link
+476899227,3,,,trunk_link
+476899228,3,,,trunk_link
+476899232,4,,,tertiary_link
+476899233,4,,Võ Văn Kiệt,tertiary
+476899234,3,,,trunk_link
+476899235,4,,Võ Văn Kiệt,tertiary
+476899236,4,,Võ Văn Kiệt,tertiary
+476899237,4,,Võ Văn Kiệt,tertiary
+476899238,3,,Võ Văn Kiệt,trunk_link
+476899239,4,,Võ Văn Kiệt,tertiary
+476899240,3,,Võ Văn Kiệt,trunk_link
+476899241,4,,,tertiary_link
+476899242,3,,,trunk_link
+476899243,3,,,trunk_link
+476903112,4,,Phạm Đình Hổ,tertiary
+476903113,4,,Cao Văn Lầu,tertiary
+478798992,2,,Cầu vượt Cây Gõ,primary
+478798993,1,50,Cầu vượt Hàng Xanh,trunk
+478798994,1,50,Cầu vượt Hàng Xanh,trunk
+478798995,1,50,Cầu vượt Ngã tư Hàng Xanh,trunk
+478798996,1,50,Cầu vượt Ngã tư Hàng Xanh,trunk
+478798997,1,50,Cầu vượt Ngã tư Hàng Xanh,trunk
+478799000,4,,cầu vượt vào sân bay,tertiary
+478799001,4,,Đi ga trong nước,tertiary
+478799002,4,30,Đi ga quốc tế,tertiary
+478799004,4,,cầu vượt,tertiary
+478799008,2,,,primary
+478832763,4,,,tertiary
+478832764,4,,,tertiary
+478832771,4,,Gò Dưa,tertiary
+478832772,4,,Gò Dưa,tertiary
+478832773,3,30,Cầu vượt Ngã tư Gò Dưa,trunk_link
+478832774,4,,Gò Dưa,tertiary
+478832775,4,,Đường số 10,tertiary
+478832776,4,,Đường số 10,tertiary
+478832777,3,,Cầu vượt Ngã tư Gò Dưa,secondary
+478832778,3,,Cầu vượt Ngã tư Gò Dưa,secondary
+478832779,3,,Cầu vượt Ngã tư Gò Dưa,secondary
+481910555,4,,Thế Lữ,unclassified
+481910556,4,,Thế Lữ,unclassified
+481910557,4,,Thế Lữ,unclassified
+485859161,4,,,unclassified
+485859165,1,80,Quốc lộ 1,trunk
+485859166,4,,,unclassified
+485859167,4,,,unclassified
+486109909,4,,,tertiary
+486109910,4,,Thạnh Lộc 13,tertiary
+486113809,4,,,unclassified
+489015036,4,,Cầu số 3,tertiary
+489015037,4,,Bến Mễ Cốc,tertiary
+489015038,4,,Bến Mễ Cốc,tertiary
+489015039,4,,Bến Mễ Cốc,tertiary
+489015040,4,,Bến Mễ Cốc,unclassified
+489015041,4,,Cầu số 3,tertiary
+489015042,4,,Bình Đức,tertiary
+489319477,4,,,unclassified
+493155238,4,,,unclassified
+493174179,4,,Bạch Đằng,tertiary
+493174206,3,,,secondary_link
+493222445,4,,Phú Hữu,tertiary
+494796901,4,,,unclassified
+494799490,4,,,unclassified
+494799491,4,,Nguyễn Thị Thử,tertiary
+494799492,4,,,tertiary
+495450437,2,,Trường Chinh,primary
+495671983,2,50,Cách Mạng Tháng Tám,primary
+495697718,4,,Thạnh Xuân 25,tertiary
+495697719,4,,Thạnh Xuân 25,tertiary
+495849086,2,,Cách Mạng Tháng Tám,primary
+495849087,2,50,Cách Mạng Tháng Tám,primary
+495849088,2,,Cách Mạng Tháng Tám,primary
+495852561,2,,Cách Mạng Tháng Tám,primary
+495895740,4,,Khuất Văn Bức,unclassified
+496077158,4,,Bắc Hải,tertiary
+496142698,3,,Trần Hưng Ðạo,secondary
+496187506,4,,Cầu Số 2,tertiary
+496187507,4,,Cầu Số 2,tertiary_link
+496187508,4,,Phạm Văn Hai,tertiary
+496187509,4,,Cầu Số 3,tertiary_link
+496187510,4,,Cầu Số 3,tertiary
+496187511,2,,Cách Mạng Tháng Tám,primary
+496279185,2,,Cách Mạng Tháng Tám,primary
+496584582,4,,Hem 3m,unclassified
+496918446,3,,Nguyễn Duy Trinh,secondary
+497058070,4,,RAI_65_Q9_007,unclassified
+497058072,4,,RAI_65_Q9_009,tertiary
+497628302,2,,Cách Mạng Tháng Tám,primary
+498423483,2,,Nguyễn Oanh,primary
+498423484,2,,,primary
+498978916,4,,,tertiary_link
+499497151,4,,,tertiary
+499497152,4,,,tertiary
+499497174,4,,,tertiary
+500897933,2,,Cách Mạng Tháng Tám,primary
+502434931,3,,,secondary
+502729141,4,,,tertiary
+502896829,4,,,unclassified
+502896830,4,,,unclassified
+502896831,4,,,unclassified
+502896832,4,,,unclassified
+502896833,4,,,unclassified
+502896834,4,,,unclassified
+502896858,4,,,unclassified
+502896859,4,,,unclassified
+502896860,4,,,tertiary_link
+502896861,4,,,tertiary_link
+502896862,4,,,tertiary_link
+502896863,4,,,tertiary_link
+502896864,4,,,unclassified
+502896865,4,,,unclassified
+502896866,4,,,tertiary_link
+502896867,4,,Tân Sơn,tertiary
+502918102,4,,,tertiary
+503146855,4,,Cầu Thủ Thiêm,tertiary
+503146856,3,,Cầu Thủ Thiêm,secondary_link
+503156443,3,,,primary_link
+503156445,3,,,primary_link
+503156447,3,,,trunk_link
+503156448,3,,,trunk_link
+503156453,4,,Đường Song Hành Xa lộ Hà Nội,tertiary
+503282420,4,,,unclassified
+503282424,4,,,unclassified
+503282433,4,,,unclassified
+503326021,4,,,unclassified
+503327821,4,,,unclassified
+503327822,4,,,unclassified
+503327826,4,,,tertiary
+503327828,4,,,tertiary
+503327829,4,,,tertiary
+503327830,4,,,tertiary
+503327831,4,,,tertiary
+503327832,4,,,tertiary
+503327833,4,,,tertiary
+503327834,4,,,tertiary
+503327835,4,,,tertiary
+503373069,4,,Đường D10,tertiary
+503373098,4,,Đường số 1,tertiary
+503373099,4,,Cầu Ngô Chí Quốc,tertiary
+503483356,4,,,unclassified
+503561779,3,,Lê Văn Tách,secondary
+504139797,1,,Cầu vượt Ngã tư Gò Mây,trunk
+504139799,1,,Câu vượt Ngã tư Gò Mây,trunk
+504139802,4,,,tertiary
+504139804,4,,Số 18,tertiary
+504233841,4,,,tertiary
+504233842,4,,Hoàng Thế Thiện,tertiary
+504399222,4,,Quốc lộ 1,tertiary_link
+504403496,4,,,unclassified
+504403516,4,,,unclassified
+504403517,4,,,unclassified
+504403519,4,,Nguyễn Thị Nhung,tertiary
+504403520,4,,Nguyễn Thị Nhung,tertiary
+504577405,4,,Đường số 39,unclassified
+504577408,4,,Đường số 42,unclassified
+504577446,3,,Trần Não,secondary
+504577449,3,,Trần Não,secondary
+504577450,4,,,tertiary
+504918000,4,,Đường số 23,tertiary
+505291812,4,,,tertiary
+505291813,4,,,unclassified
+505809383,3,,,primary_link
+505958218,4,,,tertiary_link
+505958219,4,,,tertiary_link
+505958220,4,,,tertiary_link
+505958221,4,,,tertiary_link
+505958222,4,,,tertiary_link
+505958223,4,,,tertiary_link
+507690042,4,,,tertiary
+507690043,4,,,tertiary
+507690049,4,,,tertiary
+507692293,4,,,unclassified
+507692294,4,,,unclassified
+507692295,4,,,unclassified
+507692296,4,,,unclassified
+507707268,4,,,unclassified
+507707269,4,,,unclassified
+507707272,4,,,unclassified
+507707273,4,,,unclassified
+507728210,4,,,unclassified
+507734467,4,,,unclassified
+507734468,4,,,unclassified
+507734482,4,,,unclassified
+507734489,4,,,unclassified
+507735436,4,,,unclassified
+507735437,4,,,unclassified
+508064672,4,,Bình Phú,tertiary
+508064713,4,,,tertiary
+508078662,4,,,tertiary
+508078663,4,,Đường D2,unclassified
+508078665,4,,Bờ Bao Tân Thắng,tertiary
+508078677,4,,,tertiary
+508078679,4,,Tự Do,unclassified
+508125573,3,,,secondary
+508344649,4,,,unclassified
+508637216,4,,Lãnh Binh Thăng,tertiary
+508741147,4,,Trần Văn Giàu,tertiary
+508741148,4,,Trần Văn Giàu,tertiary
+508741149,4,,Trần Văn Giàu,tertiary
+508741150,4,,Trần Văn Giàu,tertiary
+509015312,3,,Cầu Tân Hóa,secondary
+509015313,3,,Tân Hóa,secondary
+509015314,3,,Tân Hóa,secondary
+509015315,3,,Tân Hóa,primary_link
+509015316,3,,,primary_link
+509015318,3,,Tân Hóa,primary_link
+509015319,4,,Tên Lửa,tertiary
+509172766,2,,Kinh Dương Vương,primary
+509172773,4,,,tertiary
+509172774,4,,Nguyễn Văn Luông,tertiary
+509172782,3,,,primary_link
+509172786,2,,Hồng Bàng,primary
+509355555,2,,Hồng Bàng,primary
+509355590,3,,Kênh 10,primary_link
+509640791,4,,Lê Tấn Bê,unclassified
+509640811,4,,,unclassified
+510128833,4,,Bến Lội,tertiary
+510128834,4,,Đường Liên ấp,tertiary
+510783948,4,,Lê Đình Cẩn,tertiary
+510783949,4,,Cầu Ông Búp,tertiary
+511205580,4,,Hẻm 402 Hậu Giang,tertiary
+511205581,4,,Hẻm 995 Hồng Bàng,tertiary
+511205585,4,,Hẻm 357 Hậu Giang,tertiary
+511205593,4,,,tertiary
+511517519,4,,Trần Tấn,unclassified
+511936248,2,,Cầu An Lạc,primary
+511936249,2,,Kinh Dương Vương,primary
+511936250,2,,Kinh Dương Vương,primary
+511936251,2,,Cầu An Lạc,primary
+511936252,3,,,primary_link
+512254797,4,,Hẻm 265 An Dương Vương,unclassified
+512496116,4,,Đường số 14,unclassified
+512734442,4,,Chiến Lược,tertiary
+512990054,4,,cầu vượt,tertiary
+513130144,4,30,,unclassified
+513130147,4,,,unclassified
+513130161,4,,Hẻm 686 Quốc lộ 1A,unclassified
+514174203,4,,,tertiary
+514174567,4,,Đường số 15,tertiary
+514174571,4,,Đường số 15,tertiary
+514174573,4,,Đường số 5,tertiary
+514174575,4,,Đường số 5,tertiary
+514174582,4,,Đường số 10,unclassified
+514174584,4,,Đường số 10,unclassified
+514840639,4,,Nguyễn Cửu Phú,tertiary
+514840641,4,,Cầu Chợ Đệm,tertiary
+514840642,4,,Cầu Chợ Đệm,tertiary
+514840643,4,,,tertiary_link
+514840644,4,,,tertiary_link
+514840645,4,,Nguyễn Cửu Phú,tertiary
+514840646,4,,Nguyễn Cửu Phú,tertiary
+514840647,4,,Nguyễn Cửu Phú,tertiary
+514840648,4,,,tertiary_link
+514840650,4,,Dương Đình Cúc,tertiary
+514840651,4,,Dương Đình Cúc,tertiary
+514840652,4,,Dương Đình Cúc,tertiary
+514840653,4,,Cầu Cái Tâm,tertiary
+514840662,4,,,tertiary
+516091246,3,,Trần Văn Giàu,secondary
+516091296,4,,Láng Le Bàu Cò,tertiary
+516091307,4,,Võ Hữu Lợi,tertiary
+516182057,4,,Trần Đại Nghĩa,unclassified
+516182063,4,,,tertiary
+516182064,4,,Trần Đại Nghĩa,tertiary
+516182065,4,,Trần Đại Nghĩa,tertiary
+516182066,4,,,tertiary
+516182067,4,,Cầu Cái Trung,tertiary
+516182068,4,,Trần Đại Nghĩa,tertiary
+516182069,4,,Trần Đại Nghĩa,tertiary
+516562717,4,,Võ Hữu Lợi,tertiary
+516562718,4,,Võ Hữu Lợi,tertiary
+516562719,4,,Láng Le Bàu Cò,tertiary
+516562720,4,,Láng Le Bàu Cò,tertiary
+516774794,4,,Minh Phụng,tertiary
+516774795,4,,Minh Phụng,tertiary_link
+516774796,4,,Minh Phụng,tertiary
+516774803,4,,,tertiary
+516774830,4,,,tertiary_link
+516774832,4,,,tertiary_link
+516941844,4,,Bến Bình Đông,tertiary
+519268007,4,,Hẻm 322 Hòa Hưng,tertiary
+520598208,4,,Hàn Hải Nguyên,tertiary
+520598220,4,,,unclassified
+520598221,4,,Lý Thánh Tông,unclassified
+520598222,4,,Lý Thánh Tông,unclassified
+520932894,4,,Hẻm 295 Tân Hòa Đông,tertiary
+522958359,4,,Lý Thánh Tông,unclassified
+523650615,4,,,unclassified
+525277407,2,60,Nguyễn Hữu Cảnh,primary
+525277408,2,,Nguyễn Hữu Cảnh,primary
+525277409,2,,Nguyễn Hữu Cảnh,primary
+525565448,4,,Tân Sơn,tertiary
+526422319,4,,,unclassified
+526422348,4,,,unclassified
+526422365,4,,,unclassified
+526422368,4,,,tertiary
+526422369,4,,,tertiary
+526422370,4,,,tertiary
+526422376,4,,,unclassified
+528264270,2,,Phạm Hùng,primary
+530501343,4,,Nguyễn Văn Lượng,unclassified
+530501346,4,,Nguyễn Văn Lượng,unclassified
+531200835,4,,,unclassified
+532651474,4,,Nguyễn Lương Bằng nối dài,tertiary
+533313884,3,40,D2,secondary
+533313885,3,40,D2,secondary
+533313886,3,40,D2,secondary
+533313887,3,40,D2,secondary
+537911725,2,,,primary
+537911726,2,,,primary
+541720970,4,,,tertiary
+541720971,4,,,tertiary
+541720972,4,,,tertiary
+541720973,4,,,tertiary
+541720974,4,80,Đường ven hồ trung tâm,tertiary
+541720975,4,80,Đường ven hồ trung tâm,tertiary
+542817333,4,,,tertiary_link
+548991059,4,,Hẻm 551 Lê Văn Khương,unclassified
+548991060,4,,,unclassified
+548991061,4,,,unclassified
+548993783,4,,,unclassified
+548993784,4,,,unclassified
+548993785,4,,Đông Thạnh 2,unclassified
+550955110,4,,Yersin,tertiary
+551541068,4,,,tertiary
+551541823,4,,,tertiary
+551541824,4,,,tertiary
+553966319,4,,,unclassified
+553966957,2,,Quốc lộ 50,primary
+553967421,4,,,unclassified
+554381365,4,,Phan Xích Long,tertiary
+554447743,2,,Đinh Tiên Hoàng,primary
+554447764,3,,,primary_link
+554450141,4,,Trần Quốc Toản,tertiary
+554450142,3,,,primary_link
+554613601,4,,,tertiary
+555383180,3,,Hoàng Hữu Nam,secondary
+555383181,3,,Hoàng Hữu Nam,secondary
+555625605,4,,,tertiary
+556389858,4,50,Nguyễn Đồng Chi,unclassified
+556394384,4,50,Nguyễn Đồng Chi,unclassified
+556394385,4,,Nguyễn Đồng Chi,unclassified
+556394392,4,50,,unclassified
+560588401,3,20,,primary_link
+561793731,2,,,primary
+561873626,4,,Nguyễn Duy,tertiary
+562015270,4,,Trần Não,tertiary
+562015271,4,,Trần Não,tertiary
+562015272,4,,Trần Não,tertiary
+562015275,4,,Trần Não,tertiary
+562236341,4,,Tăng Nhơn Phú,tertiary
+563164555,4,20,Đường dẫn sảnh đến Quốc tế,tertiary
+563745988,1,,Quốc lộ 1,trunk
+563775071,3,,Ngã tư An Sương,primary_link
+564075887,4,,Trường Sơn,tertiary
+564075888,3,,Bạch Đằng,secondary
+564159232,2,,Ngã tư An Sương,primary
+564160408,2,,Hầm chui An Sương - N1,primary
+564160409,2,,,primary
+564175102,3,,,primary_link
+564175103,3,,,primary_link
+564175104,3,,,primary_link
+565183104,4,,,tertiary
+565183105,4,,,tertiary
+565183107,4,,,tertiary_link
+566543446,3,,,trunk_link
+566546955,4,,,tertiary_link
+566551500,1,50,Xa Lộ Hà Nội,trunk
+566554095,4,,,tertiary
+566554096,4,,,tertiary
+566557983,3,,,trunk_link
+566567148,4,,Lê Văn Chí,tertiary
+566567150,3,,,primary_link
+566567523,3,,,primary_link
+566572238,3,,,primary_link
+566572240,4,,,tertiary
+566577331,4,,Nguyễn Văn Bá,tertiary
+566581410,3,,,trunk_link
+566581411,2,,,primary
+566581414,3,,,trunk_link
+566588296,2,,,primary
+566588297,3,,,trunk_link
+566588298,3,,,trunk_link
+566588299,1,80,Xa lộ Hà Nội,trunk
+566588300,1,80,Xa lộ Hà Nội,trunk
+566594769,3,,,trunk_link
+566594770,3,60,Xa lộ Hà Nội,trunk_link
+567465747,3,,Trường Sơn,secondary
+567465748,3,,Trường Sơn,secondary
+567465749,3,,Trường Sơn,secondary
+567467687,3,,Trường Sơn,secondary
+567467689,3,,,secondary_link
+567467691,3,,Trần Quốc Hoàn,secondary
+567467694,3,,Trường Sơn,secondary
+567475835,2,,,primary
+567475836,2,,,primary
+567478878,4,,Phạm Văn Bạch,tertiary
+567481213,3,60,Trường Chinh,secondary
+567481215,2,80,Trường Chinh,primary
+567481217,3,60,Trường Chinh,secondary
+567481218,2,80,Trường Chinh,primary
+567485853,2,,3 Tháng 2,primary
+567485854,2,,3 Tháng 2,primary
+567485855,2,,,primary
+567493089,4,,,tertiary
+567493094,3,,,primary_link
+567493097,3,,,primary_link
+567493102,2,,3 Tháng 2,primary
+567493111,3,,,primary_link
+567493113,2,,,primary
+567493114,3,,,primary_link
+567499448,2,,,primary
+567499453,2,,3 Tháng 2,primary
+567505116,3,,,secondary_link
+567510252,3,,,primary_link
+567510254,3,,,primary_link
+567510257,3,,,primary_link
+567510259,3,,,primary_link
+567687729,4,,Hẻm 239 Khuông Việt,unclassified
+567746437,4,,Đường D4,tertiary
+567751081,2,,Dương Bá Trạc,primary
+568236966,4,,Công Xã Paris,tertiary
+568236968,4,,Lê Duẩn,tertiary
+568236969,4,,Lê Duẩn,tertiary
+568236970,4,,,tertiary
+568236971,2,40,Phạm Văn Đồng,primary
+568236972,2,,Nguyễn Thái Sơn,primary
+568238640,3,,,secondary
+568241479,2,,,primary
+568241481,2,,,primary
+568244808,3,,Tân Hóa,secondary
+568254252,3,,Tân Hóa,primary_link
+568256546,4,,,tertiary
+568256550,3,20,Lũy Bán Bích,secondary
+568256561,3,,,secondary_link
+568271156,2,,Trường Chinh,primary
+568271158,2,,Trường Chinh,primary
+568271159,2,,Xuân Hồng,primary
+568277866,2,,,primary
+568287088,2,,,primary
+568287091,3,,,secondary
+568287093,2,60,Phạm Văn Đồng,primary
+568287097,2,60,Phạm Văn Đồng,primary
+568287100,3,40,Phạm Văn Đồng,secondary
+568287103,4,,Nguyễn Xí,tertiary
+568287105,4,,Nguyễn Xí,tertiary
+568287107,3,40,Phạm Văn Đồng,secondary
+568396835,3,,,primary_link
+568398672,2,,,primary
+568398673,2,,,primary
+568398675,2,,,primary
+568398676,2,,,primary
+568398678,2,,Quốc lộ 1K,primary
+568398679,2,,Quốc lộ 1K,primary
+568398680,3,,,primary_link
+568398681,4,,,unclassified
+568398684,2,,Quốc lộ 1K,primary
+568401407,4,,Vườn Lài,tertiary
+568401408,4,,,tertiary
+568402393,4,,,tertiary
+568402622,4,,,tertiary
+568405073,3,,,trunk_link
+568405074,3,,,trunk_link
+568405075,3,,,trunk_link
+568405268,3,,,trunk_link
+568405269,4,,,tertiary
+568405270,3,,,trunk_link
+568405271,2,,,primary
+568405272,4,,,tertiary
+568405273,4,,Song hành QL 22,tertiary
+568419327,3,,,secondary_link
+568423077,3,,,secondary_link
+568423078,3,,,secondary_link
+568423079,3,,,secondary_link
+568697393,2,,Hầm chui An Sương - N1,primary
+568697394,2,,Hầm chui An Sương - N1,primary
+569004651,2,,Nguyễn Thị Định,primary
+569005443,3,,Hầm chui Mỹ Thủy,secondary
+569005446,3,,Hầm chui Mỹ Thủy,secondary
+569007791,1,,Cầu Kỳ Hà 3,trunk
+569007793,1,,Võ Chí Công,trunk
+569007794,3,40,Cầu Kỳ Hà 3,secondary
+569007796,2,,,primary
+569011609,3,,Nguyễn Thị Định,secondary
+569011610,1,40,Võ Chí Công,trunk
+569011611,1,,Võ Chí Công,trunk
+569011612,1,,Vòng xoay Mỹ Thủy,trunk
+569019360,3,,,primary_link
+569020909,3,,,primary_link
+569022226,2,60,Đồng Văn Cống,primary
+569022228,3,,,primary_link
+569022229,3,,,primary_link
+569375087,3,,,trunk_link
+569375088,3,,Nguyễn Thị Thập,secondary
+569375725,4,,Nguyễn Lương Bằng,tertiary
+569375727,4,,Nguyễn Lương Bằng,tertiary
+569379947,3,,,primary_link
+569379948,3,,,trunk_link
+572496146,2,,Nguyễn Thái Học,primary
+572496147,2,,Nguyễn Thái Học,primary
+582417571,4,,Phạm Hồng Thái,tertiary
+583820293,3,,Nguyễn Thị Định,secondary
+583931667,4,,Nguyễn Văn Tố,tertiary
+583931668,4,,Nguyễn Văn Tố,tertiary
+585341746,3,,,primary_link
+585907728,3,10,Đường dẫn ga Quốc nội,secondary_link
+585907729,4,10,Đường dẫn ga Quốc nội,tertiary
+585907730,3,,,secondary_link
+585932603,4,,Lê Hồng Phong,tertiary
+585932605,4,,Lê Hồng Phong,tertiary
+585932686,4,,Lê Hồng Phong,tertiary
+585932687,4,,Lê Hồng Phong,tertiary
+585932809,4,,Nguyễn Chí Thanh,tertiary
+585932812,4,,Nguyễn Chí Thanh,tertiary
+585972033,3,,Nguyễn Thị Định,secondary
+585972034,3,,,secondary
+585972035,4,,,unclassified
+585972036,4,,,unclassified
+585972037,4,,,unclassified
+585972038,4,,,unclassified
+586808354,3,,,trunk_link
+587670013,1,80,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+587670015,1,80,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+587812525,1,,,trunk
+587812526,3,,,trunk_link
+587812528,4,,,unclassified
+592255733,4,,,tertiary
+592255813,4,,,tertiary
+592255828,3,,Quốc lộ 1,primary_link
+592270060,4,,Cầu Rạch Gia,tertiary
+592270062,4,,Cầu Rạch Gia,tertiary
+592270141,4,,,tertiary
+592538090,4,,Tô Ngọc Vân,tertiary
+592538093,4,60,,tertiary
+592538096,4,60,,tertiary
+592572071,3,,,trunk_link
+592572073,4,,,tertiary
+592572075,4,,,tertiary
+592572078,4,,,tertiary
+592572080,4,,,tertiary
+592572082,4,,,tertiary
+592572084,4,,,tertiary
+592572085,4,,,tertiary
+592572088,4,,,tertiary
+592572089,4,,,tertiary
+592572090,4,,An Phú Đông 3,unclassified
+592572092,4,,,unclassified
+592572093,4,,,unclassified
+592572094,4,,,unclassified
+592572095,4,,,unclassified
+592572096,4,,,unclassified
+592572097,4,,,unclassified
+592572098,4,,,unclassified
+592572099,4,,,unclassified
+592572100,4,,,unclassified
+592572101,4,,,unclassified
+592572102,4,,,tertiary
+592610918,4,50,,tertiary
+592610919,3,50,Lê Thị Riêng,trunk_link
+592610923,4,,,unclassified
+592610925,4,,,tertiary
+592610927,3,,,trunk_link
+593694847,4,,Tạ Quang Bửu,tertiary
+593694848,4,,Hẻm 2385 Phạm Thế Hiển,tertiary
+594957093,4,,,unclassified
+595593483,4,,,unclassified
+595769445,4,,Hẻm 1917 Phạm Thế Hiển,unclassified
+596133440,4,,Cầu Kênh C,tertiary
+596133441,4,,Cầu Kênh C,tertiary
+596133455,4,,Hẻm 574 Kinh Dương Vương,unclassified
+596133465,4,,Quản Trọng Linh,tertiary
+596819412,4,,Đường số 69,unclassified
+597712887,4,,,unclassified
+597712888,4,,,unclassified
+599642509,4,,Nguyễn Trọng Tuyển,tertiary
+599642510,4,,Phạm Văn Hai,tertiary
+599647360,4,,An Dương Vương,tertiary
+599647361,3,,Phan Anh,secondary
+599649169,4,,Phan Văn Đối,tertiary
+599650678,2,,Xô Viết Nghệ Tĩnh,primary
+599651250,4,,Nguyễn Bỉnh Khiêm,tertiary
+599651833,3,,Phan Văn Hớn,secondary
+599653734,4,,Nguyễn Văn Quá,tertiary
+599657043,3,,Lê Văn Thọ,secondary
+599657671,2,,Quang Trung,primary
+599657672,3,,Lê Văn Thọ,secondary
+599657816,3,,Lê Văn Thọ,secondary
+599659465,4,,Mã Lò,tertiary
+599659466,4,,Hương Lộ 2,tertiary
+601446844,4,,Vũ Huy Tấn,tertiary
+601490192,4,,,unclassified
+601541406,4,,,tertiary_link
+601556033,4,,,unclassified
+601556035,4,,Phạm Văn Bạch,tertiary
+601556040,4,,,unclassified
+601872451,3,,Phan Huy ích,primary_link
+601872463,4,,,unclassified
+601891370,4,,,tertiary_link
+601932579,3,50,,secondary
+601932580,4,,,tertiary
+601932581,4,,Phan Văn Trị,tertiary
+601932584,2,,Pham Ngũ Lão,primary
+601932585,4,,,tertiary_link
+601966165,4,,Tây Thạnh,tertiary
+601966171,4,,,tertiary_link
+601986290,4,,Tân Sơn,tertiary
+602009561,3,,,primary_link
+602009562,3,,,secondary
+602308860,4,,,tertiary
+602329380,2,,Hoàng Văn Thụ,primary
+602814751,2,,Nguyễn Kiệm,primary
+602814752,4,,Thống Nhất,tertiary
+602814753,4,,,tertiary
+602887593,4,,,unclassified
+602887624,4,,,tertiary
+602887640,3,10,Đường dẫn ga Quốc nội,secondary_link
+602887667,3,,Lê Văn Sỹ,secondary
+603197040,2,,Hai Bà Trưng,primary
+603268605,4,,Nơ Trang Long,tertiary
+603268606,4,,Nguyễn Xí,tertiary
+603448310,4,,Đường số 18,unclassified
+603448338,4,,,unclassified
+603448339,4,,,unclassified
+603941218,4,,,unclassified
+603941220,4,,,unclassified
+603941224,4,,,unclassified
+603941225,4,,,tertiary
+603941226,4,,,tertiary
+604091978,4,,,unclassified
+604091979,4,,,unclassified
+604099889,4,,Lý Chính Thắng,tertiary
+604101742,4,,Đường Liên Ấp 6-2,tertiary
+604101743,4,,Đường Liên Ấp 6-2,tertiary
+604107069,4,,,unclassified
+604107070,4,,,unclassified
+604107072,4,,,unclassified
+604108243,4,,Nguyễn Văn Hưởng,tertiary
+604108244,4,,Nguyễn Văn Hưởng,tertiary
+604108874,2,,Phạm Hùng,primary
+604114372,4,,,unclassified
+604114521,4,,,unclassified
+604124151,4,,Liên phường,tertiary
+604124410,4,,Nguyễn Văn Giai,tertiary
+604126864,4,,,unclassified
+604135106,4,,Lê Quang Định,tertiary
+604135107,4,,Nguyễn Văn Đậu,tertiary
+604136115,4,,Đường số 4,tertiary
+604140508,3,60,Điện Biên Phủ,trunk_link
+604140511,3,60,Điện Biên Phủ,trunk_link
+604154943,4,,,unclassified
+604159856,3,,Vĩnh Lộc,secondary
+604163753,4,,Nguyễn Văn Hưởng,tertiary
+604163756,4,,Nguyễn Văn Hưởng,tertiary
+604169863,4,,Hoàng Minh Giám,tertiary
+604172949,3,,,trunk_link
+604172950,3,,,trunk_link
+604172960,3,,Cầu vượt Quang Trung,trunk_link
+604172961,3,,Quốc lộ 1,trunk_link
+604172962,3,,,trunk_link
+604172963,3,,,trunk_link
+604172964,3,,,trunk_link
+604172965,4,60,Quốc lộ 1,tertiary
+604175994,4,,,unclassified
+604176741,4,,,unclassified
+604177378,3,50,Hồng Hà,secondary
+604182457,3,40,Võ Chí Công,secondary
+604182459,3,40,Võ Chí Công,secondary
+604182461,3,40,Võ Chí Công,secondary
+604182462,3,40,Võ Chí Công,secondary
+604182467,3,,,secondary_link
+604191062,3,,Bùi Văn Ngữ,secondary
+604424396,4,80,Quốc lộ 1,tertiary
+604424397,1,80,Quốc lộ 1,trunk
+604424398,3,80,Quốc lộ 1,secondary
+604424399,3,80,Quốc lộ 1,secondary
+604424437,4,,Bình Thành,unclassified
+604425025,3,,Trường Sơn,secondary
+604425026,3,,Trường Sơn,secondary
+604425028,3,50,Hồng Hà,secondary
+604425029,3,,Bạch Đằng,secondary
+604426123,4,,,unclassified
+604428075,4,,Bình Thành,unclassified
+604428745,4,,Hoàng Thế Thiện,tertiary
+604434546,3,,Đường CN1,secondary
+604436549,4,,,unclassified
+604436575,4,,,unclassified
+604436576,4,,,unclassified
+604442418,4,,,tertiary
+604442419,4,,Trần Não,tertiary
+604442420,4,,Trần Não,tertiary
+604442425,3,,,primary_link
+604448136,4,,Trần Não,tertiary
+604448139,4,,Trần Não,tertiary
+604448146,4,40,Quốc Hương,tertiary
+604448150,4,40,Quốc Hương,tertiary
+604449065,3,50,Xa Lộ Hà Nội,trunk_link
+604449066,3,50,Xa Lộ Hà Nội,trunk_link
+604449196,4,,Tây Thạnh,tertiary
+604449197,4,,Tây Thạnh,tertiary
+604449199,4,,Tây Thạnh,tertiary
+604449200,4,,Tây Thạnh,tertiary
+604449775,4,,,unclassified
+604451850,3,,Nguyễn Hoàng,trunk_link
+604451851,3,,Nguyễn Hoàng,trunk_link
+604456743,4,,,unclassified
+604461445,4,,Phạm Đăng Giảng,tertiary
+604465082,1,50,,trunk
+604465084,1,50,,trunk
+604465085,3,50,,trunk_link
+604465251,2,,Phạm Hùng,primary
+604465252,2,,,primary
+604467821,4,,,unclassified
+604467827,3,,Đặng Thúc Vịnh,secondary
+604467828,3,,Đặng Thúc Vịnh,secondary
+604467955,4,,,unclassified
+604469770,3,60,,trunk_link
+604469771,3,60,,trunk_link
+604469773,1,,,trunk
+604469774,1,,,trunk
+604469777,1,,,trunk
+604469779,3,,Đỗ Xuân Hợp,secondary
+604475809,4,,,tertiary
+604475813,3,60,Mai Chí Thọ,trunk_link
+604498431,4,,,unclassified
+604499634,1,60,,trunk
+604499637,1,50,,trunk
+604502170,4,,Tân Kỳ Tân Quý,tertiary
+604502171,4,,,tertiary
+604502177,4,,,unclassified
+604502180,4,,,tertiary
+604502182,3,80,Quốc lộ 1,secondary
+604502183,3,80,Quốc lộ 1,secondary
+604502184,3,80,Quốc lộ 1,secondary
+604502185,3,80,Quốc lộ 1,secondary
+604502186,3,,,secondary_link
+604507169,4,,,tertiary_link
+604508177,3,,,trunk_link
+604509056,4,,,unclassified
+604515008,3,,,trunk_link
+604524293,4,,An Dương Vương,tertiary
+604533648,4,,RAI_65_Q9_007,unclassified
+604534947,4,,,unclassified
+604534948,4,,,unclassified
+604770477,3,,,trunk_link
+604778598,4,,,unclassified
+604779589,3,,,trunk_link
+604781341,4,,Đường CN1,tertiary
+604791519,1,40,Võ Chí Công,trunk
+604794148,4,,,unclassified
+604796279,3,,,trunk_link
+604803343,4,,Nơ Trang Long,tertiary
+604803381,3,,Trường Sa,trunk_link
+604803382,3,,Trường Sa,trunk_link
+604803420,4,,Phan Văn Hân,tertiary
+604803421,4,,Nguyễn Ngọc Phương,tertiary
+604805505,4,,,unclassified
+604805509,4,,,unclassified
+604805516,4,,,unclassified
+604806591,4,,,unclassified
+604808815,3,60,,secondary
+604808820,3,60,,secondary
+604808823,2,40,Phạm Văn Đồng,primary
+604808832,2,40,Phạm Văn Đồng,primary
+604808839,2,40,Phạm Văn Đồng,primary
+604808845,3,50,,secondary
+604808849,3,50,,secondary
+604812173,4,,Đường số 5,tertiary
+604816599,4,,,unclassified
+604830680,4,,Phan Văn Trị,tertiary
+604830682,4,,Phan Văn Trị,tertiary
+604830684,4,,Nguyễn Văn Đậu,tertiary
+604837659,3,,Nguyễn Hữu Cảnh,primary_link
+604837661,3,,,trunk_link
+604839601,4,,,tertiary
+604839605,4,,,tertiary
+604839608,4,,Đường Vành đai ĐHQG,tertiary
+604844144,4,,Võ Văn Vân,tertiary
+604865309,4,,Phan Văn Đối,tertiary
+604873605,4,,,tertiary
+604878205,3,50,,secondary
+604878206,3,60,,secondary
+604878219,4,,Cầu Băng Ky,tertiary
+604878220,4,,Nơ Trang Long,tertiary
+604878221,4,,Nơ Trang Long,tertiary
+604878801,4,80,Quốc lộ 1,tertiary
+604878802,4,80,Quốc lộ 1,tertiary
+604878824,4,,,tertiary_link
+604884076,4,,,unclassified
+604884144,4,80,Quốc lộ 1,tertiary
+604884145,4,80,Quốc lộ 1,tertiary
+604887008,4,,THOI TAM THÔN 5,unclassified
+604887009,4,,THOI TAM THÔN 5,unclassified
+604895671,3,,Nguyễn Xiển,secondary
+604897340,4,,Xuân Thới 15,tertiary
+604897342,4,,Xuân Thới 15,unclassified
+604897371,4,,Tân Thới Nhất 2,tertiary
+604903473,2,,Nguyễn Văn Bứa,primary
+604914741,4,,Bình Quới,tertiary
+604914742,4,,Bình Quới,tertiary
+604914745,4,,Cầu Kinh,tertiary
+605102834,3,,,secondary_link
+605103627,4,,,unclassified
+605104734,3,,,primary_link
+605110966,4,,,unclassified
+605110967,4,,,unclassified
+605110968,4,,,unclassified
+605110969,4,,,unclassified
+605111032,4,,,unclassified
+605111033,4,,,unclassified
+605111046,4,,,tertiary
+605111047,4,,,tertiary
+605111356,3,,Đường N2,secondary
+605123842,1,50,Xa Lộ Hà Nội,trunk
+605123843,1,50,Xa Lộ Hà Nội,trunk
+605123844,1,50,Xa Lộ Hà Nội,trunk
+605123845,1,50,Xa Lộ Hà Nội,trunk
+605129382,4,,Phạm Văn Bạch,tertiary
+605129383,4,,Phạm Văn Bạch,tertiary
+605130395,4,,,unclassified
+605130397,4,,,unclassified
+605130410,4,,Đường số 3B,unclassified
+605131537,4,,Đường số 3B,unclassified
+605131538,4,,,unclassified
+605131957,4,,,unclassified
+605133467,4,,Nhà Thờ,tertiary
+605141459,4,,,unclassified
+605145212,4,,,unclassified
+605147906,4,,,tertiary_link
+605148460,4,,Phan Văn Đối,tertiary
+605148461,4,,Phan Văn Đối,tertiary
+605148579,3,,,trunk_link
+605149491,3,,Đinh Tiên Hoàng,secondary
+605154930,4,,,tertiary
+605154931,4,,,tertiary
+605156254,3,,Trần Não,secondary
+605156255,3,,Trần Não,secondary
+605158619,4,,,tertiary
+605158620,4,,,tertiary
+605158621,4,,,tertiary
+605158983,4,,,tertiary
+605161018,4,,Số 18,tertiary
+605161039,4,,Số 18,tertiary
+605165146,3,,,trunk_link
+605165147,3,,,trunk_link
+605165148,3,,,trunk_link
+605165149,3,,,trunk_link
+605165150,3,,,trunk_link
+605166033,4,,,unclassified
+605169156,3,,,trunk_link
+605169157,3,,,trunk_link
+605169158,3,,,trunk_link
+605169159,3,,,trunk_link
+605169160,3,,Phan Văn Hớn,secondary
+605169161,3,,Phan Văn Hớn,secondary
+605169162,3,,,secondary
+605169163,4,80,Quốc lộ 1,tertiary
+605169164,4,80,Quốc lộ 1,tertiary
+605189037,4,,,unclassified
+605191533,4,,,unclassified
+605194405,2,,Quốc lộ 1K,primary
+605197465,4,,Đường số 3B,unclassified
+605197469,4,,Đường Liên khu 4-5,unclassified
+605197475,4,,,unclassified
+605200362,4,,Long Phước,unclassified
+605202350,4,,,unclassified
+605213238,4,,,unclassified
+605213239,4,,,unclassified
+605213241,4,,,unclassified
+605436171,4,,Đường số 2,tertiary
+605436177,4,,Đường số 18,tertiary
+605436178,4,,Đường số 18,tertiary
+605438209,4,,Lại Hùng Cường,tertiary
+605438212,4,,Lại Hùng Cường,tertiary
+605458760,4,,,unclassified
+605458761,4,,,unclassified
+605458762,4,,RAI_65_Q9_007,unclassified
+605458763,4,,RAI_65_Q9_007,unclassified
+605460336,4,,Nguyễn Phúc Nguyên,tertiary
+605467966,4,,Võ Văn Vân,tertiary
+605469913,3,60,Phạm Văn Đồng,secondary
+605469951,3,,,primary_link
+605469953,3,,,primary_link
+605482007,4,,,unclassified
+605482008,4,,,unclassified
+605485390,4,,,unclassified
+605485391,4,,Ngô Chí Quốc,tertiary
+605510954,4,,,unclassified
+605510957,4,,,unclassified
+605510995,3,,,secondary_link
+605510998,3,,,trunk_link
+605511911,4,,Đường đất,tertiary
+605511912,4,,,tertiary
+605521193,4,,,unclassified
+605527965,4,,,unclassified
+605527966,4,,,unclassified
+605527967,4,,,unclassified
+605527968,4,,,unclassified
+605527969,4,,,unclassified
+605527970,4,,,unclassified
+605529362,4,,,unclassified
+605539158,3,,Tỉnh lộ 43,secondary
+605539159,3,,Tỉnh lộ 43,secondary
+605539579,3,,,trunk_link
+605539586,3,,,primary_link
+605569150,4,,,unclassified
+606179768,4,,,unclassified
+606180177,4,,,tertiary_link
+606188671,4,,,unclassified
+606188695,4,,,unclassified
+606188696,4,,,unclassified
+606188822,4,,,tertiary
+606188824,4,,,tertiary
+606189078,4,,,unclassified
+606189079,4,,,unclassified
+606189080,4,,,unclassified
+606189669,4,,,unclassified
+606189670,4,,,unclassified
+606189673,4,,,unclassified
+606190127,4,,,unclassified
+606190128,4,,,unclassified
+606190131,4,,,unclassified
+606193326,4,,,tertiary
+606195260,4,,,tertiary
+606195261,4,,,tertiary
+606209715,3,,đường vành đai Sam Sung,secondary_link
+606213769,2,,Quốc lộ 1,primary
+606214936,4,,Cây Bàng,tertiary
+606214938,4,,Cây Bàng,tertiary
+606214989,4,,Khuất Văn Bức,unclassified
+606216777,4,,,unclassified
+606217562,4,,Đường số 2D,unclassified
+606221878,3,,,trunk_link
+606224036,4,,,unclassified
+606224445,4,,,unclassified
+606227633,3,,Võ Văn Kiệt,trunk_link
+606227634,3,,Võ Văn Kiệt,trunk_link
+606227635,4,,Võ Văn Kiệt,tertiary
+606227636,3,,Võ Văn Kiệt,trunk_link
+606229462,4,,Xuân Thới 15,unclassified
+606229463,4,,Xuân Thới 7,unclassified
+606237430,4,,Lê Tấn Bê,unclassified
+606237431,4,,Lê Tấn Bê,unclassified
+606240976,3,50,Xa lộ Hà Nội,trunk_link
+606240977,2,,,primary
+606240979,3,,,primary_link
+606240980,2,,,primary
+606244877,4,,,unclassified
+606244879,4,,,unclassified
+606244881,4,,,unclassified
+606244887,4,,,unclassified
+606246085,4,,,unclassified
+606246089,4,,,unclassified
+606246096,4,,,unclassified
+606246100,4,,,unclassified
+606247665,4,,,unclassified
+606247666,4,,,unclassified
+606248100,4,,,tertiary
+606250265,4,,An Dương Vương,tertiary
+606250268,4,,An Dương Vương,tertiary
+606251327,4,,Đường số 4,unclassified
+606251329,4,,Đường số 4,unclassified
+606251332,4,,Đường số 4,unclassified
+606251357,4,,Nguyễn Văn Bá,tertiary
+606267623,4,,,tertiary
+606267624,4,,,tertiary
+606273209,4,,,unclassified
+606273671,4,,Đông Hưng Thuận 11,unclassified
+606278383,4,,Nguyễn Văn Bá,tertiary
+606279216,3,60,Trường Chinh,secondary
+606279217,2,80,Trường Chinh,primary
+606279218,2,80,Trường Chinh,primary
+606279219,3,60,Trường Chinh,secondary
+606297691,4,,Xuân Thới 15,unclassified
+606302102,4,,,unclassified
+606302150,4,,Đào Sư Tích,tertiary
+606302852,4,,Đông Hưng Thuận 42,unclassified
+606516922,4,,,unclassified
+606517377,4,,Hương lộ 80,tertiary
+606517659,4,,,unclassified
+606518859,4,,,unclassified
+606520509,4,,,unclassified
+606520510,4,,,unclassified
+606520511,4,,,unclassified
+606520512,4,,,unclassified
+606521503,4,,Kha Vạn Cân,tertiary
+606521505,3,,Kha Vạn Cân,secondary
+606521506,3,,Phạm Văn Đồng,secondary
+606521507,3,,Phạm Văn Đồng,secondary
+606521509,2,,,primary
+606521510,2,60,Phạm Văn Đồng,primary
+606521511,2,60,Phạm Văn Đồng,primary
+606525368,2,,,primary
+606525369,3,60,Phạm Văn Đồng,secondary
+606525370,2,70,,primary
+606525371,2,70,,primary
+606526846,4,,,tertiary_link
+606541834,4,,,tertiary
+606543187,1,50,Xa Lộ Hà Nội,trunk
+606543188,1,50,Xa Lộ Hà Nội,trunk
+606543189,1,50,Xa Lộ Hà Nội,trunk
+606543190,1,50,Xa Lộ Hà Nội,trunk
+606547878,3,,Kha Vạn Cân,primary_link
+606547879,2,,,primary
+606547881,2,,,primary
+606547882,3,,,primary_link
+606547883,2,,,primary
+606547884,4,,Đường số 2,tertiary
+606547885,4,,,tertiary
+606547886,4,,,tertiary
+606547887,3,,Kha Vạn Cân,secondary
+606547908,2,,,primary
+606547912,2,70,,primary
+606547915,2,70,,primary
+606547942,4,,Hưng Nhơn,tertiary
+606547943,4,,Hưng Nhơn,tertiary
+606547950,4,,,unclassified
+606547961,4,,,unclassified
+606547962,4,,,unclassified
+606547963,4,,,unclassified
+606549225,4,,Phan Văn Dối,unclassified
+606551997,4,,Số 2,unclassified
+606552041,4,,,unclassified
+606561256,3,,,trunk_link
+606561258,3,,,trunk_link
+606568602,4,,Nguyễn Văn Tố,tertiary
+606582279,4,,,unclassified
+606582280,4,,,unclassified
+606582296,4,,,unclassified
+606582297,4,,,unclassified
+606585391,4,,An Phú Đông 3,tertiary
+606586226,4,,Ngô Quyền,tertiary
+606586227,4,,Ngô Quyền,tertiary
+606613907,4,,Nguyễn Văn Tố,tertiary
+606613908,4,,Nguyễn Văn Tố,tertiary
+606634659,4,,,unclassified
+606635205,4,,,unclassified
+606638713,4,,Hiệp Bình,tertiary
+606638714,4,,Hiệp Bình,tertiary
+606640447,4,,Tân Chánh Hiệp 39,tertiary
+606861496,4,,,unclassified
+606866027,4,,Đường Vành Đai,tertiary
+606866140,4,,,unclassified
+606867083,3,,Nguyễn Xiển,secondary
+606867084,3,,Nguyễn Xiển,secondary
+606867114,4,,BÀ Diểm 3,unclassified
+606870360,4,,Nguyễn Thị Sóc,tertiary
+606870361,4,,Nguyễn Thị Sóc,tertiary
+606877752,4,,Hẻm 1014 Tân Kỳ Tân Quý,tertiary
+606878506,4,,,unclassified
+606878507,4,,,unclassified
+606878508,4,,,unclassified
+606887932,4,,,tertiary
+606887933,4,,,tertiary
+606887934,4,,,tertiary
+606887935,4,,,tertiary
+606887936,4,,,tertiary
+606887937,4,,,tertiary
+606889959,4,,,tertiary_link
+606890026,4,,,tertiary
+606893647,4,,,unclassified
+606893652,4,,Thế Lữ,tertiary
+606893678,4,,,unclassified
+606893679,4,,,unclassified
+606893680,4,,Tân Long,tertiary
+606901335,4,,,unclassified
+606901337,4,,,unclassified
+606903848,4,,Đặng Văn Bi,tertiary
+606904780,4,,,tertiary_link
+606904781,4,,,tertiary_link
+606904782,4,,,tertiary_link
+606904783,4,,,tertiary_link
+606904785,4,,,unclassified
+606905072,4,,,unclassified
+606905073,4,,,unclassified
+606905074,4,,,unclassified
+606905075,4,,Thạnh Lộc 29,tertiary
+606905076,4,,Tô Ngọc Vân,tertiary
+606906129,4,,,unclassified
+606906141,4,,,unclassified
+606906142,4,,,unclassified
+606911388,4,,,unclassified
+606911390,4,,,unclassified
+606911392,4,,,unclassified
+606911394,4,,,unclassified
+606911396,4,,,unclassified
+606915660,4,,,tertiary
+606923266,4,,,tertiary
+606923267,4,,,tertiary
+606923268,4,,,tertiary
+606923269,4,,,tertiary
+606944179,4,,Đường số 1A,tertiary
+606944188,3,,Đường số 9A,secondary
+606944189,3,,Đường số 9A,secondary
+606944316,4,,,tertiary
+606944317,4,,Nguyễn Thị Sóc,tertiary
+606944319,4,,Lê Lợi,unclassified
+606944323,4,,,unclassified
+606946649,4,,Thế Lữ,tertiary
+606946650,4,,Thế Lữ,tertiary
+606946651,4,,,unclassified
+606946654,4,,,unclassified
+606946754,3,40,Hoàng Đạo Thúy,secondary
+606976509,4,,,unclassified
+606976510,4,,,unclassified
+606976526,2,,Quốc lộ 1K,primary
+606976527,2,,Quốc lộ 1K,primary
+606976528,2,,Quốc lộ 1K,primary
+607193926,4,,,unclassified
+607194291,4,,Phước Thiện,tertiary
+607194294,4,,Phước Thiện,tertiary
+607207985,4,,Phước Thiện,tertiary
+607207987,4,,Phước Thiện,tertiary
+607207988,4,,Phước Thiện,tertiary
+607207990,4,,Phước Thiện,tertiary
+607208403,4,,Tạ Quang Bửu,tertiary
+607208404,4,,,tertiary
+607211742,3,40,Nguyễn Hữu Trí,secondary
+607211743,3,40,Nguyễn Hữu Trí,secondary
+607213615,4,,,unclassified
+607213617,4,,,unclassified
+607213619,4,,,unclassified
+607219455,4,,Lê Thị Hoa,tertiary
+607221143,4,,,unclassified
+607221721,4,,Lê Văn Việt,tertiary
+607221722,4,,Lê Văn Việt,tertiary
+607221723,4,,Lê Văn Việt,tertiary
+607221724,4,,Lê Văn Việt,tertiary
+607221725,4,,Lê Văn Việt,tertiary
+607222048,4,,,tertiary
+607239664,3,,Bình Chiểu,secondary
+607239665,3,,Bình Chiểu,secondary
+607239666,3,,Tỉnh lộ 43,secondary
+607239667,3,,Tỉnh lộ 43,secondary
+607247864,4,,,unclassified
+607248876,4,,Hẻm 236 Hồ Văn Huê,tertiary
+607248877,4,,Hồ Văn Huê,tertiary
+607249905,4,,Lê Văn Việt,tertiary
+607278052,2,,Tô Ký,primary
+607291202,4,,,tertiary_link
+607291489,4,,,unclassified
+607291491,4,,,unclassified
+607292664,4,,,unclassified
+607292666,4,,,unclassified
+607305208,4,,,unclassified
+607305210,4,,,unclassified
+607305213,1,80,Đại lộ Bình Dương,trunk
+607305218,1,80,Đại lộ Bình Dương,trunk
+607305223,1,80,Đại lộ Bình Dương,trunk
+607305228,1,80,Đại lộ Bình Dương,trunk
+607312132,4,,,unclassified
+607522712,4,,,unclassified
+607522713,4,,,unclassified
+607522726,4,,Cầu Cái Tâm,tertiary
+607528594,4,,Ông Ích Khiêm,tertiary
+607528597,4,,,tertiary
+607528599,4,,,tertiary_link
+607528602,4,,Lạc Long Quân,tertiary
+607528605,4,,,tertiary
+607528607,4,,Hoà Bình,tertiary
+607528611,4,,,tertiary
+607529577,4,,,tertiary
+607535862,4,,Quản Trọng Linh,tertiary
+607535863,4,,Quản Trọng Linh,tertiary
+607536148,3,,Âu Cơ,secondary
+607536149,3,,,secondary
+607553124,4,,,unclassified
+607553125,4,,,unclassified
+607553132,1,80,Đại lộ Bình Dương,trunk
+607553133,1,80,Đại lộ Bình Dương,trunk
+607570208,4,,Đường số 6,tertiary
+607570209,4,,Đường số 6,tertiary
+607571718,4,,Lê Ngung,unclassified
+607571719,4,,Lê Ngung,unclassified
+607581937,4,,,tertiary_link
+607581938,4,,,tertiary_link
+607582830,4,,Thành Thái,tertiary
+607582833,3,,Thành Thái,secondary
+607582836,2,,,primary
+607582838,2,,,primary
+607582840,2,,,primary
+607585866,3,,Tên Lửa,primary_link
+607585867,3,,Tên Lửa,primary_link
+607585870,4,,Hồ Học Lãm,tertiary
+607586912,4,,,unclassified
+607615097,4,,Kha Vạn Cân,tertiary
+607615098,4,,Kha Vạn Cân,tertiary
+607621339,3,,Tân Kỳ Tân Quý,secondary
+607621374,4,,,unclassified
+607624728,3,,,secondary
+607624729,3,,,secondary
+607624730,3,,,secondary
+607624731,3,40,,secondary
+607624732,3,,Quốc lộ 1,secondary
+607624733,3,,Quốc lộ 1,secondary
+607624736,3,,,secondary
+607624737,3,,,secondary
+607624740,3,,,secondary
+607624741,3,,,secondary
+607624742,3,,,secondary
+607624743,3,,,secondary
+607624744,3,,,secondary
+607624745,3,,,secondary
+607624746,3,,,secondary
+607624747,3,,,secondary
+607624748,3,,,secondary
+607624749,3,,,secondary
+608019665,4,,Phùng Khắc Khoan,tertiary
+608019666,4,,,tertiary
+608170964,3,,,primary_link
+608174572,4,,Đặng Văn Bi,tertiary
+608175705,4,,,tertiary
+608175706,4,,,tertiary
+608188541,4,,,tertiary
+608189547,4,,,unclassified
+608191471,4,,Ấp Bắc,unclassified
+608191710,3,,,primary_link
+608191711,3,,,primary_link
+608193721,4,,Đường SINCO,unclassified
+608194028,4,,,unclassified
+608194029,4,,,unclassified
+608194034,4,,,unclassified
+608194035,4,,,unclassified
+608194036,4,,,unclassified
+608194037,4,,,unclassified
+608194038,4,,,unclassified
+608194039,4,,,unclassified
+608194040,4,,,unclassified
+608194041,4,,,unclassified
+608194042,4,,,unclassified
+608194043,4,,,unclassified
+608194837,4,,,tertiary_link
+608194839,4,,,tertiary
+608194840,4,,,tertiary
+608197538,4,60,,tertiary
+608197541,4,60,,tertiary
+608197545,4,50,Lê Thị Riêng,tertiary
+608197548,4,50,Lê Thị Riêng,tertiary
+608208361,4,,Võ Văn Vân,tertiary
+608214342,4,,Đường Vành đai ĐHQG,unclassified
+608214355,4,,,tertiary
+608251407,4,,,unclassified
+608251408,4,,,unclassified
+608255650,3,,,primary_link
+608262688,2,,Nam Kỳ Khởi Nghĩa,primary
+608269434,4,,Bến Lội,tertiary
+608269435,4,,Đường Liên ấp,tertiary
+608269436,4,,Đường Liên ấp,tertiary
+608269437,4,,,tertiary
+608480299,4,,,unclassified
+608481044,4,,,unclassified
+608481045,4,,,unclassified
+608481046,4,,,unclassified
+608481047,4,,,unclassified
+608481048,4,,,unclassified
+608481049,4,,,unclassified
+608481091,4,,,unclassified
+608481095,4,,,unclassified
+608490939,4,,,unclassified
+608492733,2,,Hai Bà Trưng,primary
+608494261,4,,,unclassified
+608494262,4,,,unclassified
+608495019,4,,,unclassified
+608495020,4,,,unclassified
+608495021,4,,,unclassified
+608495022,4,,,unclassified
+608495023,4,,,unclassified
+608503726,4,,Võ Văn Vân,tertiary
+608503728,4,,Võ Văn Vân,tertiary
+608515631,3,,,primary_link
+608519576,4,,Tân Liễu,unclassified
+608519577,4,,Tân Liễu,unclassified
+608520399,4,,,unclassified
+608520400,4,,,unclassified
+608544102,4,,Bình Phú,tertiary
+608544103,4,,Bình Phú,tertiary
+608544104,4,,Bình Phú,tertiary
+608551910,4,,Đường số 26,tertiary
+608560704,4,,Lê Văn Chí,tertiary
+608560705,4,,Lê Văn Chí,tertiary
+608564468,4,,Trần Hữu Trang,unclassified
+608564990,4,,,tertiary_link
+608567870,4,,,tertiary_link
+608571294,3,,Lê Đức Thọ,secondary
+608571297,4,,Lê Đức Thọ,tertiary
+608571326,3,,,trunk_link
+608571346,3,,,secondary_link
+608571348,3,,,secondary_link
+608571350,3,,Lê Đức Thọ,secondary
+608572788,4,,,tertiary
+608784055,4,,Mã Lò,tertiary
+608787747,3,,,secondary
+608787750,3,,,secondary
+608787751,3,,Hương lộ 8,secondary
+608787754,3,,Hương lộ 8,secondary
+608787756,3,,,secondary
+608787766,3,,,secondary_link
+608787768,3,,,secondary_link
+608787770,3,,,secondary_link
+608787771,3,,,secondary
+608787775,3,,,secondary
+608787781,3,,,secondary_link
+608787782,3,,,secondary
+608787784,3,,,secondary
+608787786,3,,,secondary_link
+608787789,3,,,secondary
+608787790,3,,,secondary
+608787793,3,,,secondary
+608787989,4,,Độc Lập,unclassified
+608793322,4,60,,tertiary
+608793323,4,60,,tertiary
+608796935,4,,Nguyễn Thị Tần,tertiary
+608797345,4,,Nguyễn Biểu,tertiary
+608799684,3,,,primary_link
+608799685,4,,,tertiary
+608826069,4,,Tân Kỳ Tân Quý,tertiary
+608826070,4,,Tân Kỳ Tân Quý,tertiary
+608833641,4,,,tertiary
+608833644,4,,,tertiary
+608833647,1,60,Quốc lộ 1,trunk
+608833648,1,60,Quốc lộ 1,trunk
+608833649,1,60,Quốc lộ 1,trunk
+608833650,1,60,Quốc lộ 1,trunk
+608833651,4,,,tertiary
+608833652,4,,,tertiary
+608833657,4,,An Phú Đông,unclassified
+608833660,4,,An Phú Đông,unclassified
+608833663,4,,,tertiary
+608833665,4,,,tertiary
+608833667,1,60,Quốc lộ 1,trunk
+608833671,1,60,Quốc lộ 1,trunk
+608833676,4,,,tertiary
+608833679,4,,,tertiary
+608833681,1,60,Quốc lộ 1,trunk
+608833686,1,60,Quốc lộ 1,trunk
+608850125,4,,,unclassified
+608885489,1,60,Quốc lộ 1,trunk
+609057172,4,,Thạnh Lộc 22,unclassified
+609059213,4,,Trần Văn Giàu,tertiary
+609063520,4,,Vườn Lài,tertiary
+609063521,4,,Vườn Lài,tertiary
+609063526,1,60,Quốc lộ 1,trunk
+609063527,1,60,Quốc lộ 1,trunk
+609063528,1,60,Quốc lộ 1,trunk
+609063529,1,60,Quốc lộ 1,trunk
+609063530,1,60,Quốc lộ 1,trunk
+609063531,1,60,Quốc lộ 1,trunk
+609063532,1,60,Quốc lộ 1,trunk
+609063533,1,60,Quốc lộ 1,trunk
+609063534,4,,Dương Thị Mười,tertiary
+609063535,4,,Dương Thị Mười,tertiary
+609063536,4,,An Phú Đông,unclassified
+609063537,4,,An Phú Đông,unclassified
+609063548,4,,Thạnh Lộc 29,unclassified
+609065438,4,20,Hẻm 416 Lạc Long Quân,unclassified
+609072788,3,,,trunk_link
+609091162,3,,Lê Đức Thọ,secondary
+609091166,3,,Cầu Trường Đai,secondary
+609091168,3,,Lê Đức Thọ,secondary
+609092012,4,,,unclassified
+609092013,4,,,unclassified
+609094678,4,,Mã Lò,tertiary
+609094682,4,,Mã Lò,tertiary
+609096951,4,,,unclassified
+609096952,4,,,unclassified
+609102037,4,,,unclassified
+609111093,4,,,tertiary_link
+609142403,3,,,trunk_link
+609142404,3,,Quốc lộ 1,trunk_link
+609142405,3,,Quốc lộ 1,trunk_link
+609149934,4,,Đường số 5D,unclassified
+609149935,4,,Đường số 4,unclassified
+609149936,4,,An Phú Đông,unclassified
+609149938,4,,An Phú Đông,unclassified
+609359387,4,,,tertiary
+609359388,4,,,tertiary
+609361894,2,,,primary
+609365244,4,,Lê Khôi,tertiary
+609372725,2,,,primary
+609372747,2,,Võ Văn Kiệt,primary
+609374161,3,,,secondary_link
+609375943,4,,Bình Trị Đông,tertiary
+609375946,4,,Bình Trị Đông,tertiary
+609378586,4,,Linh Trung,tertiary
+609378587,4,,,tertiary
+609378590,4,,,tertiary
+609379544,4,,Nguyễn Thông,tertiary
+609381684,4,,,tertiary
+609381685,4,,,tertiary
+609381686,4,,,tertiary
+609381687,4,,,tertiary
+609381688,4,,,tertiary
+609381689,4,,,tertiary
+609381690,4,,,tertiary
+609381691,4,,,tertiary
+609381692,4,,,tertiary
+609381693,4,,,tertiary
+609385766,4,,Đường số 14,tertiary
+609385767,4,,Đường số 14,tertiary
+609387295,4,,Tô Hiệu,tertiary
+609387296,4,,Tô Hiệu,tertiary
+609387304,4,,Tô Hiệu,tertiary
+609387305,4,,,tertiary
+609390463,4,,An Phú Đông 10,unclassified
+609393105,4,,Lý Thánh Tông,unclassified
+609393106,4,,Lý Thánh Tông,unclassified
+609393107,4,,,unclassified
+609393108,4,,,unclassified
+609393279,4,,,unclassified
+609393280,4,,,unclassified
+609393281,4,,,unclassified
+609393791,4,,Đường số 17,unclassified
+609422396,4,,Tam Bình,tertiary
+609422397,4,,Tam Bình,tertiary
+609426481,4,,,tertiary_link
+609426485,4,,,tertiary
+609426487,4,,,tertiary
+609426490,4,,,tertiary
+609426493,4,,,tertiary
+609426495,4,,,tertiary
+609426497,4,,,tertiary
+609426498,4,,,tertiary
+609426501,4,,,tertiary
+609426503,3,,,trunk_link
+609426504,3,,,trunk_link
+609426505,4,,,tertiary
+609426506,4,,,tertiary
+609428091,4,,Khánh Hội,tertiary
+609428092,4,,,tertiary
+609428093,2,,,primary
+609428094,2,,,primary
+609442580,4,,Thành Thái,tertiary
+609442581,4,,,tertiary
+609452971,4,,Gò Dưa,tertiary
+609452974,3,,Quốc lộ 1,trunk_link
+609452977,3,,Quốc lộ 1,trunk_link
+609452979,3,,Quốc lộ 1,trunk_link
+609452982,4,,,tertiary
+609452984,4,,,tertiary
+609452986,4,,,tertiary
+609452987,4,,,tertiary
+609980543,4,,Hẻm 135 Nguyễn Hữu Cảnh,unclassified
+610064442,4,,Hẻm 246/64 Hòa Hưng,tertiary
+610072096,3,,,secondary_link
+610072097,3,,,secondary_link
+610073328,3,,,trunk_link
+610073342,3,,,trunk_link
+610084178,4,,,tertiary_link
+610085396,4,,,tertiary
+610090758,4,,Đường số 41,unclassified
+610090760,4,,Nguyễn Hữu Hào,unclassified
+610090762,4,,Nguyễn Hữu Hào,unclassified
+610093732,4,,Hồ Xuân Hương,unclassified
+610099998,4,,Đường Song Hành Xa lộ Hà Nội,tertiary
+610101816,4,,,tertiary
+610101817,4,,,tertiary
+610109732,4,,Lâm Viên,unclassified
+610114318,4,,Đường số 13A,unclassified
+610114327,4,,Đường số 14A,unclassified
+610123571,4,,,unclassified
+610123573,4,,,unclassified
+610123580,4,,,unclassified
+610123582,4,,,unclassified
+610137666,1,,,trunk
+610137669,3,,,primary_link
+610137675,3,,,trunk_link
+610137677,3,45,Cầu vượt Thủ Đức,trunk_link
+610137680,2,,,primary
+610137684,2,,Xa Lộ Hà Nội,primary
+610137691,3,,,trunk_link
+610137694,2,,,primary
+610137699,3,,,secondary
+610137701,2,,,primary
+610137703,2,,,primary
+610137706,2,,,primary
+610137708,2,,,primary
+610137711,2,60,Xa lộ Hà Nội,primary
+610137717,3,,,secondary
+610137720,4,,Đường Song Hành Xa lộ Hà Nội,tertiary
+610137723,4,,Đường Song Hành Xa lộ Hà Nội,tertiary
+610137746,4,,Nguyễn Văn Bá,tertiary
+610137756,4,,Nguyễn Văn Bá,tertiary
+610144167,4,,,unclassified
+610144169,4,,,unclassified
+610144170,4,,Tân Thới Nhất 2,tertiary
+610144171,4,,,tertiary
+610148258,4,,Đường số 15,tertiary
+610150193,4,,Vân Côi,tertiary
+610172966,4,,,unclassified
+610172967,4,,,unclassified
+610172968,4,,Nguyễn Thị Nhung,tertiary
+610172969,4,,Nguyễn Thị Nhung,tertiary
+610172970,4,,Nguyễn Thị Nhung,tertiary
+610172971,4,,Nguyễn Thị Nhung,tertiary
+610172973,4,,,tertiary
+610175332,3,60,Phạm Văn Đồng,secondary
+610343431,4,,Huỳnh Tấn Phát,tertiary
+610343432,4,,Huỳnh Tấn Phát,tertiary
+610343433,4,,Huỳnh Tấn Phát,tertiary
+610343434,4,,Huỳnh Tấn Phát,tertiary
+610343435,2,,Huỳnh Tấn Phát,primary
+610343436,2,,Huỳnh Tấn Phát,primary
+610343437,2,,Huỳnh Tấn Phát,primary
+610343438,2,70,Nguyễn Văn Linh,primary
+610370923,4,,,tertiary
+610379578,3,,,primary_link
+610437987,3,,Nguyễn Thị Thập,secondary
+610437988,3,,Nguyễn Thị Thập,secondary
+610437989,3,,Nguyễn Thị Thập,secondary
+610437990,3,,Nguyễn Thị Thập,secondary
+610675207,4,,Trần Văn Giàu,tertiary
+610675208,4,,Trần Văn Giàu,tertiary
+610675209,4,,Trần Văn Giàu,tertiary
+610675211,4,,Trần Văn Giàu,tertiary
+610675345,4,,Trần Văn Giàu,tertiary
+610675350,4,,Trần Văn Giàu,tertiary
+610675355,3,,Tỉnh Lộ 10,secondary
+610675360,3,,Tỉnh Lộ 10,secondary
+610675377,4,,Trần Văn Giàu,tertiary
+610675384,4,,Trần Văn Giàu,tertiary
+610675392,4,,Võ Văn Vân,tertiary
+610675396,3,,Trần Văn Giàu,secondary
+610675421,3,,Trần Văn Giàu,secondary
+610680665,3,,,trunk_link
+610680666,3,,,trunk_link
+610685355,3,,Nguyễn Văn Quỳ,secondary
+610693401,4,,Hẻm 117 Hồ Văn Long,unclassified
+610729420,4,,,unclassified
+610729437,4,,,unclassified
+610729443,4,,,unclassified
+610729448,4,,,unclassified
+610729497,4,,,unclassified
+610935035,3,,Quốc lộ 1,secondary
+610935036,3,,Quốc lộ 1,secondary
+610935037,3,,Quốc lộ 1,secondary
+610935038,3,,Quốc lộ 1,secondary
+611003858,4,,Trương Phước Phan,tertiary
+611003859,4,,Trương Phước Phan,tertiary
+611349470,4,,Bùi Bằng Đoàn,tertiary
+611381073,4,50,Nguyễn Đồng Chi,unclassified
+611381076,4,50,Nguyễn Đồng Chi,unclassified
+611395556,4,,Lê Đại Hành,tertiary
+611395557,4,,,tertiary
+611396786,3,,Nguyễn Lương Bằng,secondary
+611436296,3,,Nguyễn Hữu Thọ,primary_link
+611471662,4,,,unclassified
+611958632,4,,,tertiary_link
+612107142,4,,,unclassified
+612107144,4,30,Phú Thuận,unclassified
+612107148,4,30,Phú Thuận,unclassified
+612107151,4,,Hoàng Quốc Việt,unclassified
+612107154,4,,Hoàng Quốc Việt,unclassified
+612108038,4,,,tertiary
+612124229,4,,,tertiary
+612128109,3,,,primary_link
+612129609,4,,,unclassified
+612178018,3,,,primary_link
+612180906,4,,Lê Ngung,unclassified
+612180907,4,,Lê Ngung,unclassified
+612217115,3,40,,motorway_link
+612217116,3,40,,motorway_link
+612469944,4,,Nguyễn Thức Tự,tertiary
+612469945,4,,Đường số 17B,tertiary
+612484335,4,,Hồ Văn Long,unclassified
+612484336,4,,Hồ Văn Long,unclassified
+612501697,4,,,unclassified
+612501698,4,,,unclassified
+612501699,4,,,unclassified
+612501700,4,,,unclassified
+612501701,4,,,unclassified
+612501702,4,,,unclassified
+612501703,4,,,unclassified
+612501704,4,,,unclassified
+612501705,4,,,unclassified
+612501706,4,,,unclassified
+612501707,4,,,unclassified
+612501708,4,,,unclassified
+612501709,4,,,unclassified
+612501710,4,,,unclassified
+612501711,4,,,unclassified
+612501712,4,,,unclassified
+612501713,4,,,unclassified
+612506947,4,,Lê Đình Cẩn,tertiary
+612506949,4,,Lê Đình Cẩn,tertiary
+612506951,4,,Lê Đình Cẩn,tertiary
+612506953,4,,Lê Đình Cẩn,tertiary
+612796728,4,,,unclassified
+612796729,4,,,unclassified
+612796744,4,,An Dương Vương,tertiary
+612796745,4,,,tertiary
+612812636,4,,,unclassified
+612818743,3,,Hậu Giang,secondary
+612818747,4,,Minh Phụng,tertiary
+612818750,3,,Cầu Hậu Giang,secondary
+612818752,3,,Hậu Giang,secondary
+612818755,3,,Cầu Hậu Giang,secondary
+612818758,3,,Cầu Hậu Giang,secondary
+612818761,3,,Cầu Hậu Giang,secondary
+612818763,3,,Cầu Hậu Giang,secondary
+612831781,4,,,unclassified
+612831782,4,,,unclassified
+612833155,3,,,secondary
+612843395,4,,,unclassified
+612885841,4,,,tertiary
+612890967,4,,,unclassified
+612890968,4,,,unclassified
+613169741,4,50,Phạm Thế Hiển,tertiary
+613169742,4,,Phạm Thế Hiển,tertiary
+613172355,3,,Lê Văn Lương,secondary
+613190176,4,,Hàn Hải Nguyên,tertiary
+613190177,4,,,tertiary
+613190178,4,,Hàn Hải Nguyên,tertiary
+613190179,4,,,tertiary
+613190251,4,,,unclassified
+613222428,4,,Nguyễn Cửu Phú,tertiary
+613222429,4,,Nguyễn Cửu Phú,tertiary
+613236425,4,,,tertiary
+613280459,4,,Cầu vượt Tân Tạo,tertiary
+613280462,4,,Số 54,tertiary
+613280463,4,,Số 54,tertiary
+613290998,3,,Đường A,trunk_link
+613631776,4,,Trần Văn Giàu,tertiary
+613631777,4,,Trần Văn Giàu,tertiary
+613631778,4,,Trần Văn Giàu,tertiary
+613631779,4,,Trần Văn Giàu,tertiary
+613638794,4,,,unclassified
+613638796,4,,,unclassified
+613714939,3,,Tỉnh Lộ 10,secondary
+613714940,3,30,Tỉnh Lộ 10,secondary
+613714941,3,30,Tỉnh Lộ 10,secondary
+613714942,3,,Tỉnh Lộ 10,secondary
+613718286,4,,Lê Hồng Phong,tertiary
+613718567,3,,Nguyễn Bình,secondary
+613718568,3,,,secondary
+614336152,3,,Nguyễn Hữu Thọ,secondary_link
+614354351,4,,,tertiary
+614354352,4,,Số 7,tertiary
+614354353,4,,Số 7,tertiary
+614354354,4,,Vành Đai Trong,tertiary
+614354355,4,,Vành Đai Trong,tertiary
+614356087,4,,Cầu Ông Đội,tertiary
+614356089,4,,Cầu Ông Đội,tertiary
+614356091,3,,Cầu Ông Đội,secondary
+614356093,3,,Cầu Ông Đội,secondary
+614356096,4,,Cầu Ông Đội,tertiary
+614356098,4,,Cầu Ông Đội,tertiary
+614356100,4,,,tertiary
+614356102,4,,,tertiary
+614356354,4,,,tertiary
+614356355,4,,,tertiary
+614357954,3,,Nguyễn Hữu Thọ,secondary
+614361132,4,,,unclassified
+614361133,4,,,unclassified
+614361134,4,,,unclassified
+614361995,4,,,unclassified
+614361996,4,,,unclassified
+614365738,4,,Phạm Hữu Lầu,tertiary
+614367729,3,,Cầu Phú Xuân,secondary
+614367730,3,,Cầu Phú Xuân,secondary
+614367731,3,,Cầu Phú Xuân,secondary
+614367732,3,,Cầu Phú Xuân,secondary
+614371715,4,,Vĩnh Lộc,tertiary
+614371717,3,,Vĩnh Lộc,secondary
+614371718,3,,Vĩnh Lộc,secondary
+614376669,4,,Láng Le Bàu Cò,tertiary
+614376670,4,,Láng Le Bàu Cò,tertiary
+614376671,4,,Võ Hữu Lợi,tertiary
+614376672,4,,Võ Hữu Lợi,tertiary
+614395966,4,,Nguyễn Lương Bằng nối dài,tertiary
+614395968,4,,Nguyễn Lương Bằng nối dài,tertiary
+614395970,4,,Nguyễn Lương Bằng nối dài,tertiary
+614395972,4,,Nguyễn Lương Bằng nối dài,tertiary
+614403334,3,,Cầu 15B,secondary
+614403335,3,,Cầu 15B,secondary
+614403336,4,,Phạm Hữu Lầu,tertiary
+614403847,3,,,secondary_link
+614403848,4,,,tertiary
+614403850,4,,,tertiary
+614403853,4,,,tertiary
+614403856,4,,Cầu Kênh C,tertiary
+614403860,4,,Cầu Kênh C,tertiary
+614611109,4,,Trần Đại Nghĩa,tertiary
+614611110,4,,Trần Đại Nghĩa,tertiary
+614611111,4,,,tertiary
+614611114,4,,Trần Đại Nghĩa,tertiary
+614614990,3,,,primary_link
+614614993,3,,,primary_link
+614626197,4,,,tertiary_link
+614638993,4,,,unclassified
+614638994,4,,,unclassified
+614638999,4,,,unclassified
+614639001,4,,,unclassified
+614640231,3,50,Võ Văn Kiệt,secondary
+614647121,2,50,Võ Văn Kiệt,primary
+614648009,4,,,unclassified
+614648010,4,,,unclassified
+614648012,4,,,unclassified
+614648013,4,,,unclassified
+614651868,4,,Thuận Kiều,tertiary
+614662476,4,,Trần Đại Nghĩa,tertiary
+614662478,4,,,tertiary_link
+614701510,3,,Học Lạc,secondary
+614724259,3,,Cầu Chà Và,secondary
+614724260,3,,Cầu Chà Và,secondary
+614724262,3,,,secondary
+614724263,3,,,secondary
+615067020,3,,,secondary
+615067022,3,,,secondary
+615100199,4,,Võ Hữu Lợi,tertiary
+615100200,4,,Võ Hữu Lợi,tertiary
+615100201,4,,Láng Le Bàu Cò,tertiary
+615100202,4,,Láng Le Bàu Cò,tertiary
+615100211,4,,Hẻm 574 Kinh Dương Vương,unclassified
+615100220,4,,Hẻm 574 Kinh Dương Vương,unclassified
+615100223,4,,Nguyễn Cửu Phú,tertiary
+615100229,4,,Nguyễn Cửu Phú,tertiary
+615100241,4,,Lê Ngung,unclassified
+615100243,4,,Lê Ngung,unclassified
+615100248,4,,Võ Hữu Lợi,tertiary
+615100249,4,,Võ Hữu Lợi,tertiary
+615100256,4,,Láng Le Bàu Cò,tertiary
+615100257,4,,Láng Le Bàu Cò,tertiary
+615100258,4,,Võ Hữu Lợi,tertiary
+615100259,4,,Võ Hữu Lợi,tertiary
+615100270,4,,Lê Tấn Bê,unclassified
+615100271,4,,Lê Tấn Bê,unclassified
+615487709,4,,,tertiary
+615787306,2,,Phan Đăng Lưu,primary
+618139681,4,,,tertiary
+619030684,4,,,tertiary
+620522926,4,,Phạm Phú Thứ,tertiary
+621095043,3,,Quốc lộ 1,trunk_link
+621154989,4,,Ðồng Khởi,tertiary
+621155754,4,,Ðồng Khởi,tertiary
+621157028,4,,Hàm Nghi,tertiary
+621157029,4,,Hàm Nghi,tertiary
+621157031,3,,Hàm Nghi,secondary
+621157032,3,,Hàm Nghi,secondary
+621157034,4,,Hàm Nghi,tertiary
+621158826,2,,Nguyễn Tất Thành,primary
+621159703,1,60,Võ Văn Kiệt,trunk
+621159704,1,60,Võ Văn Kiệt,trunk
+621369602,2,,,primary
+621369603,2,,Phạm Hùng,primary
+621430392,2,50,Mai Chí Thọ,primary
+621430393,4,,Nguyễn Cơ Thạch,tertiary
+621430394,2,50,Mai Chí Thọ,primary
+621430395,4,,Nguyễn Cơ Thạch,tertiary
+621430603,1,40,Mai Chí Thọ,trunk
+621430781,1,40,Mai Chí Thọ,trunk
+621432415,2,,Võ Văn Kiệt,primary
+622156781,3,,Nguyễn Bình,secondary
+622156782,4,,Nguyễn Bình,tertiary
+622175673,3,60,Nguyễn Văn Linh,trunk_link
+623752774,3,40,Châu Văn Liêm,secondary
+623752778,3,,,secondary
+623968196,4,,Thống Nhất,tertiary
+623982811,4,30,Kênh Tân Hoá,tertiary
+624171528,4,,Hẻm 1331 Lê Đức Thọ,unclassified
+624171529,4,,,unclassified
+625093321,4,,,unclassified
+625093322,4,,Hẻm 14/23 đường số 53,unclassified
+625227047,4,,,unclassified
+628721073,4,,Thăng Long,tertiary
+629178829,1,80,Nguyễn Văn Linh,trunk
+629904752,1,60,Võ Văn Kiệt,trunk
+629904756,2,,Nguyễn Thái Học,primary
+631416285,3,,,primary_link
+631416286,3,,,trunk_link
+631416287,3,,,trunk_link
+631416288,1,60,Nguyễn Văn Linh,trunk
+631420602,3,,,trunk_link
+631423240,1,60,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+631423242,1,80,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+631423243,1,80,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+631423244,3,,X2,motorway_link
+631423245,3,,X1,motorway_link
+631423248,1,80,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+631423249,1,80,Cao tốc TP. Hồ Chí Minh - Long Thành - Dầu Giây,motorway
+631423250,3,,,motorway_link
+631423252,3,,,motorway_link
+631423406,1,,Nhánh B1,motorway
+631427443,3,40,Nhánh C1,motorway_link
+631427445,3,,Nhánh C1,motorway_link
+631427446,3,,Nhánh C2,motorway_link
+631427447,3,,Nhánh A2,motorway_link
+631427448,3,,Nhánh B2,motorway_link
+631427449,3,,Nhánh B2,motorway_link
+631427451,3,,Nhánh A2,motorway_link
+631536964,2,50,Võ Chí Công,primary
+631536965,3,,,secondary
+631536966,4,,Nguyễn Duy Trinh,tertiary
+631536967,4,,,tertiary
+631557253,3,60,Nhánh B1A,motorway_link
+631597563,2,80,Nguyễn Văn Linh,primary
+631597564,3,,,primary_link
+631720519,4,,,tertiary
+631720521,1,50,Xa Lộ Hà Nội,trunk
+635485849,1,,,trunk
+635485850,1,50,Xa Lộ Hà Nội,trunk
+638252689,4,,Đình Nghi Xuân,unclassified
+638252702,4,,Tân Kỳ Tân Quý,tertiary
+649425458,1,60,Đường cao tốc Tp. Hồ Chí Minh-Long Thành-Dầu Giây,motorway
+649425706,1,60,Đường cao tốc Tp. Hồ Chí Minh-Long Thành-Dầu Giây,motorway
+649425818,1,60,Đường cao tốc Tp. Hồ Chí Minh-Long Thành-Dầu Giây,motorway
+650862301,4,,Lê Duẩn,tertiary
+650862302,4,,Lê Duẩn,tertiary
+650862303,3,,Đinh Tiên Hoàng,secondary
+652376830,2,,,primary
+652376831,2,,,primary
+653565493,2,,Nguyễn Kiệm,primary
+654858165,2,,Võ Thị Sáu,primary
+654858166,4,,Trương Định,tertiary
+654858167,2,,Võ Thị Sáu,primary
+654858470,4,,Lý Chính Thắng,tertiary
+654858471,4,,Trương Định,tertiary
+654858472,4,,Tú Xương,unclassified
+654858473,4,,Trương Định,tertiary
+654861067,3,,Trần Quốc Thảo,secondary
+654861068,4,,Lý Chính Thắng,tertiary
+654861069,4,,Trần Quốc Thảo,tertiary
+654861070,4,,Tú Xương,unclassified
+654864528,2,,Nguyễn Thị Minh Khai,primary
+654864529,4,,Nguyễn Bỉnh Khiêm,tertiary
+654864530,4,,Nguyễn Bỉnh Khiêm,tertiary
+656562463,4,,,unclassified
+656562464,4,,,unclassified
+656564397,4,,,unclassified
+656850719,4,,,unclassified
+656851094,4,,,unclassified
+658328101,4,,Võ Văn Tần,tertiary
