@@ -62,6 +62,8 @@ METHOD_TO_SCRIPT = {
     "ewma_gt": "06_branchB_run_xt_forecast_ewma_gt.py",
     "sparse_tvpvar_gt": "06_branchB_run_xt_forecast_sparse_tvpvar_gt.py",
     "sparse_var_gt": "06_branchB_run_xt_forecast_sparse_var_gt.py",
+    "dmfm_lse_gt": "06_branchB_run_xt_forecast_dmfm_gt.py",
+    "dmfm_vlse_gt": "06_branchB_run_xt_forecast_dmfm_gt.py",
     "factorized_var_gt": "06_branchB_run_xt_forecast_factorized_var_gt.py",
     "factorized_mar_gt": "06_branchB_run_xt_forecast_factorized_mar_gt.py",
     "factorized_tvpvar_gt": "06_branchB_run_xt_forecast_factorized_tvpvar_gt.py",
@@ -74,6 +76,8 @@ PRACTICAL_ALL_METHODS = [
     "ewma_gt",
     "sparse_tvpvar_gt",
     "sparse_var_gt",
+    "dmfm_lse_gt",
+    "dmfm_vlse_gt",
 ]
 
 ALL_WITH_DENSE_METHODS = PRACTICAL_ALL_METHODS + ["dense_tvpvar_gt"]
@@ -87,6 +91,8 @@ BASE_LABELS = {
     "ewma_gt": "EWMA-Gt",
     "sparse_tvpvar_gt": "Sparse TVP-VAR-Gt",
     "sparse_var_gt": "Sparse VAR-Gt",
+    "dmfm_lse_gt": "DMFM-LSE-Gt",
+    "dmfm_vlse_gt": "DMFM-VLSE-Gt",
     "factorized_var_gt": "Factorized VAR-Gt",
     "factorized_mar_gt": "Factorized MAR-Gt",
     "factorized_tvpvar_gt": "Factorized TVP-VAR-Gt",
@@ -681,7 +687,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
         default="all",
         help=(
             "Comma-separated methods. Use all, all_with_dense, baselines, or explicit names. "
-            "Default all now runs only: true_gt, persistence_gt, ewma_gt, sparse_tvpvar_gt, sparse_var_gt. Use explicit methods for others."
+            "Default all runs: true_gt, persistence_gt, ewma_gt, sparse_tvpvar_gt, sparse_var_gt, dmfm_lse_gt, dmfm_vlse_gt. Use explicit methods for a smaller run."
         ),
     )
     parser.add_argument(
