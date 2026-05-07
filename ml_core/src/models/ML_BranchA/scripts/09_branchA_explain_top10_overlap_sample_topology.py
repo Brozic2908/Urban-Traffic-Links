@@ -213,6 +213,54 @@ def iter_eval_pairs(split_data: Dict[str, Any], horizon: int) -> List[Tuple[int,
 
     return pairs
 
+def parse_osm_tensor_timestamps(arr: np.ndarray) -> pd.DatetimeIndex:
+    """
+    Parse timestamp trong osm_edge_tensor.npz.
+
+    Hỗ trợ các dạng:
+        2024-08-01__Slot_0600
+        2024-08-01__Slot_0615
+        2024-08-01 06:00:00
+        2024-08-01T06:00:00
+    """
+    out = []
+
+    for x in arr:
+        if isinstance(x, bytes):
+            s = x.decode("utf-8")
+        else:
+            s = str(x)
+
+        s = s.strip()
+
+        # Case: 2024-08-01__Slot_0600
+        if "__Slot_" in s:
+            date_part, slot_part = s.split("__Slot_", 1)
+            slot_part = slot_part.strip()
+
+            # slot_part = 0600, 0615, 1145...
+            if len(slot_part) >= 4 and slot_part[:4].isdigit():
+                hh = slot_part[:2]
+                mm = slot_part[2:4]
+                out.append(pd.Timestamp(f"{date_part} {hh}:{mm}:00"))
+                continue
+
+        # Fallback cho timestamp bình thường
+        try:
+            out.append(pd.Timestamp(s))
+        except Exception:
+            out.append(pd.NaT)
+
+    timestamps = pd.DatetimeIndex(out)
+
+    if timestamps.isna().any():
+        bad_count = int(timestamps.isna().sum())
+        raise ValueError(
+            f"Cannot parse {bad_count} timestamps from osm_edge_tensor.npz. "
+            "Please check timestamp format."
+        )
+
+    return timestamps
 
 # ============================================================
 # Load OSM-edge tensor and sample_size
@@ -257,7 +305,7 @@ def load_osm_tensor_dataset(osm_dataset_dir: Path) -> Dict[str, Any]:
 
     X = data[x_key]
     sample_size = np.asarray(X[:, :, sidx], dtype=np.float32)
-    timestamps = pd.to_datetime(data[time_key])
+    timestamps = parse_osm_tensor_timestamps(data[time_key])
     model_node_ids = np.asarray(data[node_key]).astype(np.int64)
 
     out.update({
