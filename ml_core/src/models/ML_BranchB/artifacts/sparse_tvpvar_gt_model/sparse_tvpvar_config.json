@@ -1,0 +1,28 @@
+{
+  "method": "sparse_tvpvar_gt",
+  "method_label": "Sparse TVP-VAR-Gt",
+  "data_dir": "C:\\AI\\Thesis\\UTraffic-ML\\ml_core\\src\\data_processing\\outputs\\branchB\\osm_edge_granger_series_like_branchA_full",
+  "method_script": "C:\\AI\\Thesis\\UTraffic-ML\\ml_core\\src\\models\\ML_BranchB\\scripts\\06_branchB_run_xt_forecast_sparse_tvpvar_gt.py",
+  "model_path": "C:\\AI\\Thesis\\UTraffic-ML\\ml_core\\src\\models\\ML_BranchB\\artifacts\\sparse_tvpvar_gt_model\\sparse_tvpvar_g_model.pkl",
+  "stable_method_module_name": "branchB_sparse_tvpvar_method",
+  "horizons": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "n_segments": 3697,
+  "max_nodes": 0,
+  "node_sample": "first",
+  "seed": 42,
+  "used_node_subset": false,
+  "offline_fit_time_sec": 1341.5418391999556,
+  "matrix_contract": "G_pred[target, source] = predicted directed influence from source road to target road",
+  "backend_rule": "load fitted artifact, predict only on test split, do not refit online",
+  "created_at": "2026-05-09 16:57:51"
+}
